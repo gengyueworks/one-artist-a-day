@@ -1,0 +1,55 @@
+# 按流派索引 / Index by Movement
+
+> 按艺术流派/风格分组。一位艺术家可能属于多个流派。
+
+## 西方流派 Western Movements
+
+### 荷兰黄金时代 Dutch Golden Age
+
+- [伦勃朗·范·莱恩](../artists/2026/08/2026-08-03-rembrandt.md) — 1606–1669, ♂, 巨匠
+
+### 巴洛克 Baroque
+
+- [阿尔泰米西娅·真蒂莱斯基](../artists/2026/08/2026-08-03-artemisia-gentileschi.md) — 1593–c.1653, ♀, **她** · 卡拉瓦乔主义
+
+### 文艺复兴 Renaissance
+
+_（待补充：达芬奇、米开朗基罗、拉斐尔、波提切利、提香等）_
+
+### 浪漫主义 Romanticism
+
+_（待补充：弗里德里希、戈雅等）_
+
+### 印象派 Impressionism
+
+_（待补充：莫奈、雷诺阿、德加等）_
+
+### 后印象派 Post-Impressionism
+
+_（待补充：梵高、塞尚、高更等）_
+
+### 现代主义 Modernism
+
+_（待补充：毕加索、康定斯基、蒙德里安等）_
+
+## 东方流派 Eastern Movements
+
+### 浮世绘 Ukiyo-e
+
+- [葛饰北斋](../artists/2026/08/2026-08-03-hokusai.md) — 1760–1849, ♂, 东方
+
+### 中国画 Chinese Painting
+
+_（待补充：顾恺之、范宽、倪瓒、八大山人等）_
+
+### 韩国绘画 Korean Painting
+
+_（待补充：郑敾、金弘道等）_
+
+### 伊斯兰艺术 Islamic Art
+
+_（待补充：阿卜杜勒·萨马德等）_
+
+---
+
+*♂ = 男性 · ♀ = 女性（粗体 = 「她」栏目收录）*
