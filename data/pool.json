@@ -1,0 +1,1111 @@
+{
+  "schema_version": 1,
+  "note": "选题池。每天按栏目取一位，已发布的移入 published。人名与生卒年在写卡时必须再核对两个独立来源。",
+  "pools": {
+    "masters": [
+      {
+        "name_zh": "达芬奇",
+        "name_en": "Leonardo da Vinci",
+        "years": "1452-1519",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "米开朗基罗",
+        "name_en": "Michelangelo Buonarroti",
+        "years": "1475-1564",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "伦勃朗",
+        "name_en": "Rembrandt van Rijn",
+        "years": "1606-1669",
+        "country": "荷兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "维米尔",
+        "name_en": "Johannes Vermeer",
+        "years": "1632-1675",
+        "country": "荷兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "卡拉瓦乔",
+        "name_en": "Caravaggio",
+        "years": "1571-1610",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "委拉斯开兹",
+        "name_en": "Diego Velazquez",
+        "years": "1599-1660",
+        "country": "西班牙",
+        "status": "queued"
+      },
+      {
+        "name_zh": "戈雅",
+        "name_en": "Francisco Goya",
+        "years": "1746-1828",
+        "country": "西班牙",
+        "status": "queued"
+      },
+      {
+        "name_zh": "透纳",
+        "name_en": "J.M.W. Turner",
+        "years": "1775-1851",
+        "country": "英国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "马奈",
+        "name_en": "Edouard Manet",
+        "years": "1832-1883",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "莫奈",
+        "name_en": "Claude Monet",
+        "years": "1840-1926",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "梵高",
+        "name_en": "Vincent van Gogh",
+        "years": "1853-1890",
+        "country": "荷兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "塞尚",
+        "name_en": "Paul Cezanne",
+        "years": "1839-1906",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "高更",
+        "name_en": "Paul Gauguin",
+        "years": "1848-1903",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "丢勒",
+        "name_en": "Albrecht Durer",
+        "years": "1471-1528",
+        "country": "德国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "波提切利",
+        "name_en": "Sandro Botticelli",
+        "years": "1445-1510",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "提香",
+        "name_en": "Titian",
+        "years": "1488-1576",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "勃鲁盖尔",
+        "name_en": "Pieter Bruegel the Elder",
+        "years": "1525-1569",
+        "country": "尼德兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "凡艾克",
+        "name_en": "Jan van Eyck",
+        "years": "1390-1441",
+        "country": "尼德兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "鲁本斯",
+        "name_en": "Peter Paul Rubens",
+        "years": "1577-1640",
+        "country": "佛兰德斯",
+        "status": "queued"
+      },
+      {
+        "name_zh": "德拉克洛瓦",
+        "name_en": "Eugene Delacroix",
+        "years": "1798-1863",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "库尔贝",
+        "name_en": "Gustave Courbet",
+        "years": "1819-1877",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "德加",
+        "name_en": "Edgar Degas",
+        "years": "1834-1917",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "拉斐尔",
+        "name_en": "Raphael",
+        "years": "1483-1520",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "博斯",
+        "name_en": "Hieronymus Bosch",
+        "years": "1450-1516",
+        "country": "尼德兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "埃尔·格列柯",
+        "name_en": "El Greco",
+        "years": "1541-1614",
+        "country": "西班牙",
+        "status": "queued"
+      },
+      {
+        "name_zh": "弗里德里希",
+        "name_en": "Caspar David Friedrich",
+        "years": "1774-1840",
+        "country": "德国",
+        "status": "queued"
+      }
+    ],
+    "her": [
+      {
+        "name_zh": "阿尔泰米西娅·真蒂莱斯基",
+        "name_en": "Artemisia Gentileschi",
+        "years": "1593-1656",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "索福尼斯瓦·安圭索拉",
+        "name_en": "Sofonisba Anguissola",
+        "years": "1532-1625",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "朱迪思·莱斯特",
+        "name_en": "Judith Leyster",
+        "years": "1609-1660",
+        "country": "荷兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "拉维尼娅·丰塔纳",
+        "name_en": "Lavinia Fontana",
+        "years": "1552-1614",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "伊丽莎白·维热·勒布伦",
+        "name_en": "Elisabeth Vigee Le Brun",
+        "years": "1755-1842",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "安杰莉卡·考夫曼",
+        "name_en": "Angelica Kauffman",
+        "years": "1741-1807",
+        "country": "瑞士",
+        "status": "queued"
+      },
+      {
+        "name_zh": "罗莎·博纳尔",
+        "name_en": "Rosa Bonheur",
+        "years": "1822-1899",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "贝尔特·莫里索",
+        "name_en": "Berthe Morisot",
+        "years": "1841-1895",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "玛丽·卡萨特",
+        "name_en": "Mary Cassatt",
+        "years": "1844-1926",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "卡米耶·克洛岱尔",
+        "name_en": "Camille Claudel",
+        "years": "1864-1943",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "苏珊娜·瓦拉东",
+        "name_en": "Suzanne Valadon",
+        "years": "1865-1938",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "珂勒惠支",
+        "name_en": "Kathe Kollwitz",
+        "years": "1867-1945",
+        "country": "德国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "希尔玛·阿夫·克林特",
+        "name_en": "Hilma af Klint",
+        "years": "1862-1944",
+        "country": "瑞典",
+        "status": "queued"
+      },
+      {
+        "name_zh": "索尼娅·德劳内",
+        "name_en": "Sonia Delaunay",
+        "years": "1885-1979",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "乔治亚·欧姬芙",
+        "name_en": "Georgia O'Keeffe",
+        "years": "1887-1986",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "塔玛拉·德·蓝碧嘉",
+        "name_en": "Tamara de Lempicka",
+        "years": "1898-1980",
+        "country": "波兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "弗里达·卡罗",
+        "name_en": "Frida Kahlo",
+        "years": "1907-1954",
+        "country": "墨西哥",
+        "status": "queued"
+      },
+      {
+        "name_zh": "李·克拉斯纳",
+        "name_en": "Lee Krasner",
+        "years": "1908-1984",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "露易丝·布尔乔亚",
+        "name_en": "Louise Bourgeois",
+        "years": "1911-2010",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "利奥诺拉·卡林顿",
+        "name_en": "Leonora Carrington",
+        "years": "1917-2011",
+        "country": "英国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "琼·米切尔",
+        "name_en": "Joan Mitchell",
+        "years": "1925-1992",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "草间弥生",
+        "name_en": "Yayoi Kusama",
+        "years": "1929-",
+        "country": "日本",
+        "status": "queued"
+      },
+      {
+        "name_zh": "布里奇特·赖利",
+        "name_en": "Bridget Riley",
+        "years": "1931-",
+        "country": "英国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "艾格尼丝·马丁",
+        "name_en": "Agnes Martin",
+        "years": "1912-2004",
+        "country": "加拿大",
+        "status": "queued"
+      },
+      {
+        "name_zh": "薇薇安·迈尔",
+        "name_en": "Vivian Maier",
+        "years": "1926-2009",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "潘玉良",
+        "name_en": "Pan Yuliang",
+        "years": "1895-1977",
+        "country": "中国",
+        "status": "queued"
+      }
+    ],
+    "east": [
+      {
+        "name_zh": "顾恺之",
+        "name_en": "Gu Kaizhi",
+        "years": "348-409",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "吴道子",
+        "name_en": "Wu Daozi",
+        "years": "685-758",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "范宽",
+        "name_en": "Fan Kuan",
+        "years": "950-1032",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "郭熙",
+        "name_en": "Guo Xi",
+        "years": "1020-1090",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "李唐",
+        "name_en": "Li Tang",
+        "years": "1066-1150",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "马远",
+        "name_en": "Ma Yuan",
+        "years": "1160-1225",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "赵孟頫",
+        "name_en": "Zhao Mengfu",
+        "years": "1254-1322",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "倪瓒",
+        "name_en": "Ni Zan",
+        "years": "1301-1374",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "沈周",
+        "name_en": "Shen Zhou",
+        "years": "1427-1509",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "文徵明",
+        "name_en": "Wen Zhengming",
+        "years": "1470-1559",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "唐寅",
+        "name_en": "Tang Yin",
+        "years": "1470-1524",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "徐渭",
+        "name_en": "Xu Wei",
+        "years": "1521-1593",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "八大山人",
+        "name_en": "Bada Shanren",
+        "years": "1626-1705",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "石涛",
+        "name_en": "Shitao",
+        "years": "1642-1707",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "齐白石",
+        "name_en": "Qi Baishi",
+        "years": "1864-1957",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "黄宾虹",
+        "name_en": "Huang Binhong",
+        "years": "1865-1955",
+        "country": "中国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "雪舟等杨",
+        "name_en": "Sesshu Toyo",
+        "years": "1420-1506",
+        "country": "日本",
+        "status": "queued"
+      },
+      {
+        "name_zh": "尾形光琳",
+        "name_en": "Ogata Korin",
+        "years": "1658-1716",
+        "country": "日本",
+        "status": "queued"
+      },
+      {
+        "name_zh": "伊藤若冲",
+        "name_en": "Ito Jakuchu",
+        "years": "1716-1800",
+        "country": "日本",
+        "status": "queued"
+      },
+      {
+        "name_zh": "葛饰北斋",
+        "name_en": "Katsushika Hokusai",
+        "years": "1760-1849",
+        "country": "日本",
+        "status": "queued"
+      },
+      {
+        "name_zh": "歌川广重",
+        "name_en": "Utagawa Hiroshige",
+        "years": "1797-1858",
+        "country": "日本",
+        "status": "queued"
+      },
+      {
+        "name_zh": "喜多川歌麿",
+        "name_en": "Kitagawa Utamaro",
+        "years": "1753-1806",
+        "country": "日本",
+        "status": "queued"
+      },
+      {
+        "name_zh": "东洲斋写乐",
+        "name_en": "Toshusai Sharaku",
+        "years": "1794-1795",
+        "country": "日本",
+        "status": "queued"
+      },
+      {
+        "name_zh": "郑敾",
+        "name_en": "Jeong Seon",
+        "years": "1676-1759",
+        "country": "韩国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "金弘道",
+        "name_en": "Kim Hong-do",
+        "years": "1745-1806",
+        "country": "韩国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "阿卜杜勒·萨马德",
+        "name_en": "Abd al-Samad",
+        "years": "1517-1595",
+        "country": "波斯",
+        "status": "queued"
+      }
+    ],
+    "overlooked": [
+      {
+        "name_zh": "卡雷尔·法布里蒂乌斯",
+        "name_en": "Carel Fabritius",
+        "years": "1622-1654",
+        "country": "荷兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "彼得·德·霍赫",
+        "name_en": "Pieter de Hooch",
+        "years": "1629-1684",
+        "country": "荷兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "乔治·德·拉图尔",
+        "name_en": "Georges de La Tour",
+        "years": "1593-1652",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "让-巴蒂斯特·夏尔丹",
+        "name_en": "Jean-Baptiste-Simeon Chardin",
+        "years": "1699-1779",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "古斯塔夫·卡耶博特",
+        "name_en": "Gustave Caillebotte",
+        "years": "1848-1894",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "费利克斯·瓦洛东",
+        "name_en": "Felix Vallotton",
+        "years": "1865-1925",
+        "country": "瑞士",
+        "status": "queued"
+      },
+      {
+        "name_zh": "维尔赫姆·哈默休伊",
+        "name_en": "Vilhelm Hammershoi",
+        "years": "1864-1916",
+        "country": "丹麦",
+        "status": "queued"
+      },
+      {
+        "name_zh": "奥迪隆·雷东",
+        "name_en": "Odilon Redon",
+        "years": "1840-1916",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "詹姆斯·恩索尔",
+        "name_en": "James Ensor",
+        "years": "1860-1949",
+        "country": "比利时",
+        "status": "queued"
+      },
+      {
+        "name_zh": "费尔南·赫诺普夫",
+        "name_en": "Fernand Khnopff",
+        "years": "1858-1921",
+        "country": "比利时",
+        "status": "queued"
+      },
+      {
+        "name_zh": "米哈伊尔·弗鲁贝尔",
+        "name_en": "Mikhail Vrubel",
+        "years": "1856-1910",
+        "country": "俄罗斯",
+        "status": "queued"
+      },
+      {
+        "name_zh": "伊萨克·列维坦",
+        "name_en": "Isaac Levitan",
+        "years": "1860-1900",
+        "country": "俄罗斯",
+        "status": "queued"
+      },
+      {
+        "name_zh": "安德斯·佐恩",
+        "name_en": "Anders Zorn",
+        "years": "1860-1920",
+        "country": "瑞典",
+        "status": "queued"
+      },
+      {
+        "name_zh": "约阿基姆·斯科夫加德",
+        "name_en": "Joakim Skovgaard",
+        "years": "1856-1933",
+        "country": "丹麦",
+        "status": "queued"
+      },
+      {
+        "name_zh": "约翰·辛格·萨金特",
+        "name_en": "John Singer Sargent",
+        "years": "1856-1925",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "温斯洛·霍默",
+        "name_en": "Winslow Homer",
+        "years": "1836-1910",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "托马斯·埃金斯",
+        "name_en": "Thomas Eakins",
+        "years": "1844-1916",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "亨利·奥萨瓦·坦纳",
+        "name_en": "Henry Ossawa Tanner",
+        "years": "1859-1937",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "雅各布·劳伦斯",
+        "name_en": "Jacob Lawrence",
+        "years": "1917-2000",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "阿尔弗雷德·西斯莱",
+        "name_en": "Alfred Sisley",
+        "years": "1839-1899",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "尼古拉·德·斯塔埃尔",
+        "name_en": "Nicolas de Stael",
+        "years": "1914-1955",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "查尔斯·雷尼·麦金托什",
+        "name_en": "Charles Rennie Mackintosh",
+        "years": "1868-1928",
+        "country": "苏格兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "保拉·莫德索恩-贝克尔",
+        "name_en": "Paula Modersohn-Becker",
+        "years": "1876-1907",
+        "country": "德国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "瓦尔特·西克特",
+        "name_en": "Walter Sickert",
+        "years": "1860-1942",
+        "country": "英国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "斯坦利·斯宾塞",
+        "name_en": "Stanley Spencer",
+        "years": "1891-1959",
+        "country": "英国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "常玉",
+        "name_en": "Sanyu",
+        "years": "1895-1966",
+        "country": "中国",
+        "status": "queued"
+      }
+    ],
+    "modern": [
+      {
+        "name_zh": "塞尚",
+        "name_en": "Paul Cezanne",
+        "years": "1839-1906",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "马蒂斯",
+        "name_en": "Henri Matisse",
+        "years": "1869-1954",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "毕加索",
+        "name_en": "Pablo Picasso",
+        "years": "1881-1973",
+        "country": "西班牙",
+        "status": "queued"
+      },
+      {
+        "name_zh": "布拉克",
+        "name_en": "Georges Braque",
+        "years": "1882-1963",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "康定斯基",
+        "name_en": "Wassily Kandinsky",
+        "years": "1866-1944",
+        "country": "俄罗斯",
+        "status": "queued"
+      },
+      {
+        "name_zh": "克利",
+        "name_en": "Paul Klee",
+        "years": "1879-1940",
+        "country": "瑞士",
+        "status": "queued"
+      },
+      {
+        "name_zh": "蒙德里安",
+        "name_en": "Piet Mondrian",
+        "years": "1872-1944",
+        "country": "荷兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "马列维奇",
+        "name_en": "Kazimir Malevich",
+        "years": "1878-1935",
+        "country": "俄罗斯",
+        "status": "queued"
+      },
+      {
+        "name_zh": "蒙克",
+        "name_en": "Edvard Munch",
+        "years": "1863-1944",
+        "country": "挪威",
+        "status": "queued"
+      },
+      {
+        "name_zh": "席勒",
+        "name_en": "Egon Schiele",
+        "years": "1890-1918",
+        "country": "奥地利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "克林姆特",
+        "name_en": "Gustav Klimt",
+        "years": "1862-1918",
+        "country": "奥地利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "夏加尔",
+        "name_en": "Marc Chagall",
+        "years": "1887-1985",
+        "country": "俄罗斯",
+        "status": "queued"
+      },
+      {
+        "name_zh": "莫迪利亚尼",
+        "name_en": "Amedeo Modigliani",
+        "years": "1884-1920",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "达利",
+        "name_en": "Salvador Dali",
+        "years": "1904-1989",
+        "country": "西班牙",
+        "status": "queued"
+      },
+      {
+        "name_zh": "马格利特",
+        "name_en": "Rene Magritte",
+        "years": "1898-1967",
+        "country": "比利时",
+        "status": "queued"
+      },
+      {
+        "name_zh": "米罗",
+        "name_en": "Joan Miro",
+        "years": "1893-1983",
+        "country": "西班牙",
+        "status": "queued"
+      },
+      {
+        "name_zh": "杜尚",
+        "name_en": "Marcel Duchamp",
+        "years": "1887-1968",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "霍珀",
+        "name_en": "Edward Hopper",
+        "years": "1882-1967",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "波洛克",
+        "name_en": "Jackson Pollock",
+        "years": "1912-1956",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "罗斯科",
+        "name_en": "Mark Rothko",
+        "years": "1903-1970",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "德库宁",
+        "name_en": "Willem de Kooning",
+        "years": "1904-1997",
+        "country": "荷兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "沃霍尔",
+        "name_en": "Andy Warhol",
+        "years": "1928-1987",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "培根",
+        "name_en": "Francis Bacon",
+        "years": "1909-1992",
+        "country": "爱尔兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "贾科梅蒂",
+        "name_en": "Alberto Giacometti",
+        "years": "1901-1966",
+        "country": "瑞士",
+        "status": "queued"
+      },
+      {
+        "name_zh": "霍克尼",
+        "name_en": "David Hockney",
+        "years": "1937-",
+        "country": "英国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "巴斯奎特",
+        "name_en": "Jean-Michel Basquiat",
+        "years": "1960-1988",
+        "country": "美国",
+        "status": "queued"
+      }
+    ],
+    "makers": [
+      {
+        "name_zh": "贝尼尼",
+        "name_en": "Gian Lorenzo Bernini",
+        "years": "1598-1680",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "多纳泰罗",
+        "name_en": "Donatello",
+        "years": "1386-1466",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "罗丹",
+        "name_en": "Auguste Rodin",
+        "years": "1840-1917",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "布朗库西",
+        "name_en": "Constantin Brancusi",
+        "years": "1876-1957",
+        "country": "罗马尼亚",
+        "status": "queued"
+      },
+      {
+        "name_zh": "亨利·摩尔",
+        "name_en": "Henry Moore",
+        "years": "1898-1986",
+        "country": "英国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "芭芭拉·赫普沃斯",
+        "name_en": "Barbara Hepworth",
+        "years": "1903-1975",
+        "country": "英国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "亚历山大·考尔德",
+        "name_en": "Alexander Calder",
+        "years": "1898-1976",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "野口勇",
+        "name_en": "Isamu Noguchi",
+        "years": "1904-1988",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "帕拉第奥",
+        "name_en": "Andrea Palladio",
+        "years": "1508-1580",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "高迪",
+        "name_en": "Antoni Gaudi",
+        "years": "1852-1926",
+        "country": "西班牙",
+        "status": "queued"
+      },
+      {
+        "name_zh": "赖特",
+        "name_en": "Frank Lloyd Wright",
+        "years": "1867-1959",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "密斯·凡·德·罗",
+        "name_en": "Mies van der Rohe",
+        "years": "1886-1969",
+        "country": "德国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "柯布西耶",
+        "name_en": "Le Corbusier",
+        "years": "1887-1965",
+        "country": "瑞士",
+        "status": "queued"
+      },
+      {
+        "name_zh": "阿尔瓦·阿尔托",
+        "name_en": "Alvar Aalto",
+        "years": "1898-1976",
+        "country": "芬兰",
+        "status": "queued"
+      },
+      {
+        "name_zh": "路易斯·康",
+        "name_en": "Louis Kahn",
+        "years": "1901-1974",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "卡洛·斯卡帕",
+        "name_en": "Carlo Scarpa",
+        "years": "1906-1978",
+        "country": "意大利",
+        "status": "queued"
+      },
+      {
+        "name_zh": "纳达尔",
+        "name_en": "Nadar",
+        "years": "1820-1910",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "尤金·阿杰",
+        "name_en": "Eugene Atget",
+        "years": "1857-1927",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "阿尔弗雷德·施蒂格利茨",
+        "name_en": "Alfred Stieglitz",
+        "years": "1864-1946",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "安塞尔·亚当斯",
+        "name_en": "Ansel Adams",
+        "years": "1902-1984",
+        "country": "美国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "布列松",
+        "name_en": "Henri Cartier-Bresson",
+        "years": "1908-2004",
+        "country": "法国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "罗伯特·弗兰克",
+        "name_en": "Robert Frank",
+        "years": "1924-2019",
+        "country": "瑞士",
+        "status": "queued"
+      },
+      {
+        "name_zh": "威廉·莫里斯",
+        "name_en": "William Morris",
+        "years": "1834-1896",
+        "country": "英国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "柳宗悦",
+        "name_en": "Yanagi Soetsu",
+        "years": "1889-1961",
+        "country": "日本",
+        "status": "queued"
+      },
+      {
+        "name_zh": "伯纳德·利奇",
+        "name_en": "Bernard Leach",
+        "years": "1887-1979",
+        "country": "英国",
+        "status": "queued"
+      },
+      {
+        "name_zh": "安妮·阿尔伯斯",
+        "name_en": "Anni Albers",
+        "years": "1899-1994",
+        "country": "德国",
+        "status": "queued"
+      }
+    ]
+  },
+  "total_queued": 156
+}
