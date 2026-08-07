@@ -81,6 +81,21 @@
 
 **红线：1955 年后去世的艺术家的作品一律不存图，只提供链接（`image_license: link-only`）。**
 
+## 自动化 / Automation
+
+本项目已实现**每日自动发卡**，流水线为：
+
+```
+定时触发（每天 08:30）→ 按星期选栏目 → 选题池取人 → 搜公有领域图（Met → AIC）
+→ LLM 撰写正文（写作纪律 7 条 + 禁用词/标点自检）→ 更新 pool / indexes / artists.json
+→ commit + push
+```
+
+- **本地定时**：launchd 任务 `com.local.one-artist-a-day`（每天 08:30，通过本机 relay 调用 LLM）
+- **云端定时（可选）**：[.github/workflows/daily.yml](.github/workflows/daily.yml) 每天 UTC 00:30 触发，需在仓库 Secrets 配置 `LLM_API_KEY` / `LLM_BASE_URL` / `LLM_MODEL`（任何 OpenAI 兼容 API）
+- **手动补发**：`python scripts/auto_publish.py --date YYYY-MM-DD --push`
+- 生成的卡片 `verified: false`，事实信息（生卒年/作品年份/收藏地）需人工核对后改为 `true`
+
 ## 与艺术史网站的衔接
 
 本仓库是 [艺术史知识库](https://github.com/gengyueworks/art-history-kb) 的**每日更新前端**。

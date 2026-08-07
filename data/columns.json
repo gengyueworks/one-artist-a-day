@@ -3,49 +3,49 @@
   "description": "一周七个固定栏目。按星期几决定当天选题方向，强制结构平衡，避免全部滑向西方男性大师。",
   "columns": {
     "masters": {
-      "weekday": 1,
+      "weekday": 0,
       "name_zh": "巨匠",
       "name_en": "Masters",
       "brief": "绕不开的大师。哪怕人尽皆知，也要写出别人没写过的那一面。",
       "yearly_target": 52
     },
     "her": {
-      "weekday": 2,
+      "weekday": 1,
       "name_zh": "她",
       "name_en": "Her",
       "brief": "被艺术史除名的女性。不是补偿式收录，是因为作品本身站得住。",
       "yearly_target": 52
     },
     "east": {
-      "weekday": 3,
+      "weekday": 2,
       "name_zh": "东方",
       "name_en": "East",
       "brief": "中国、日本、韩国、印度、伊斯兰世界。不做西方视角的异域猎奇。",
       "yearly_target": 52
     },
     "overlooked": {
-      "weekday": 4,
+      "weekday": 3,
       "name_zh": "遗珠",
       "name_en": "Overlooked",
       "brief": "同代人里最好的那个，却没进教科书。给出他被漏掉的具体原因。",
       "yearly_target": 52
     },
     "modern": {
-      "weekday": 5,
+      "weekday": 4,
       "name_zh": "现代",
       "name_en": "Modern",
       "brief": "20 世纪至今。多数在版权期内，一律只链接不存图。",
       "yearly_target": 52
     },
     "makers": {
-      "weekday": 6,
+      "weekday": 5,
       "name_zh": "匠人",
       "name_en": "Makers",
       "brief": "画框以外的人：建筑师、雕塑家、摄影师、版画师、织物与陶瓷。",
       "yearly_target": 52
     },
     "wildcard": {
-      "weekday": 0,
+      "weekday": 6,
       "name_zh": "点名",
       "name_en": "Wildcard",
       "brief": "读者点名。开 issue 提名，被采纳即写。这是社区入口。",
