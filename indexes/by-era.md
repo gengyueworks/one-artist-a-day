@@ -35,7 +35,9 @@ _（待补充）_
 
 ## 现代与当代 Modern & Contemporary（1900–）
 
-_（待补充）_
+| 艺术家 | 国别 | 性别 | 栏目 | 卡片 |
+|--------|------|------|------|------|
+| 塞尚 Paul Cezanne | 法国 | ♂ | 现代 | [→](../artists/2026/08/2026-08-07-paul-cezanne.md) |
 
 ## 东方传统 Eastern Traditions
 

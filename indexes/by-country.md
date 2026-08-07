@@ -16,7 +16,7 @@
 
 ### 🇫🇷 法国 France
 
-_（待补充：莫奈、梵高、塞尚、罗丹、欧姬芙等）_
+- [塞尚 Paul Cezanne](../artists/2026/08/2026-08-07-paul-cezanne.md) — 1839–1906, ♂, 后印象主义, 现代
 
 ### 🇬🇧 英国 United Kingdom
 

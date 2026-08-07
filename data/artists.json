@@ -1,1 +1,210 @@
-{"schema_version": 1, "description": "结构化艺术家数据，供艺术史网站等外部系统消费。每发布一张卡即追加一条记录。", "artists": [{"date": "2026-08-03", "column": "masters", "slug": "rembrandt", "name_zh": "伦勃朗·范·莱恩", "name_en": "Rembrandt van Rijn", "name_native": "Rembrandt Harmenszoon van Rijn", "years": "1606–1669", "birthplace": "荷兰 莱顿", "country": "荷兰", "country_code": "NL", "era": "巴洛克 / 荷兰黄金时代", "movements": ["荷兰黄金时代"], "mediums": ["油画", "蚀刻版画"], "gender": "m", "hero_image": "images/2026-08-03-rembrandt.jpg", "hero_caption": "《自画像》，1660", "image_license": "Public Domain", "image_source": "The Met (Open Access)", "image_source_url": "https://www.metmuseum.org/art/collection/search/437397", "verified": true, "one_liner": "他是第一个把破产画成更好作品的人。1656 年失去房子、收藏和大部分社会地位之后，他的自画像反而比之前任何时期都更不讨好、更诚实。", "turning_point": {"year": 1656, "event": "申请破产（cessio bonorum），1657-58 两次拍卖抵债，搬入约旦区租屋", "location": "阿姆斯特丹"}, "key_work": {"title": "自画像", "year": 1660, "collection": "大都会艺术博物馆，纽约", "detail": "两只眼睛不对称（一只直视、一只失焦）；帽子卷毛用笔杆尾端在湿颜料里拖出螺旋"}, "fun_fact": "1657-58 拍卖清单至今保存在阿姆斯特丹市档案馆，可逐条查到每件藏品的名称和成交价", "card_path": "artists/2026/08/2026-08-03-rembrandt.md"}, {"date": "2026-08-03", "column": "her", "slug": "artemisia-gentileschi", "name_zh": "阿尔泰米西娅·真蒂莱斯基", "name_en": "Artemisia Gentileschi", "name_native": "Artemisia Lomi Gentileschi", "years": "1593–c.1653", "birthplace": "意大利 罗马", "country": "意大利", "country_code": "IT", "era": "巴洛克", "movements": ["巴洛克", "卡拉瓦乔主义"], "mediums": ["油画"], "gender": "f", "hero_image": "images/2026-08-03-artemisia-gentileschi.jpg", "hero_caption": "《以斯帖在亚哈随鲁王前》，约 1620s", "image_license": "Public Domain", "image_source": "The Met (Open Access)", "image_source_url": "https://www.metmuseum.org/art/collection/search/436453", "verified": true, "one_liner": "她是卡拉瓦乔之后最有力的历史画画家——性别是后来人给她加的分类标签，不是她作品的卖点。", "turning_point": {"year": 1616, "event": "成为佛罗伦萨设计学院（Accademia delle Arti del Disegno）第一位女性会员", "location": "佛罗伦萨"}, "key_work": {"title": "以斯帖在亚哈随鲁王前", "year": "约 1620s", "collection": "大都会艺术博物馆，纽约", "detail": "X 光显示最初画了黑人男孩牵狗，后用大理石地砖覆盖；国王膝盖左侧隐约可见轮廓"}, "fun_fact": "1616 年入佛罗伦萨设计学院的同时受邀为米开朗基罗之家天顶画《倾向寓言》——在一个完全由男性主导的体系里被邀请装饰米开朗基罗纪念堂天花板", "quote": {"text": "I will show Your Illustrious Lordship what a woman can do.", "source": "致赞助人信（意大利语），约 1615"}, "card_path": "artists/2026/08/2026-08-03-artemisia-gentileschi.md"}, {"date": "2026-08-03", "column": "east", "slug": "hokusai", "name_zh": "葛饰北斋", "name_en": "Katsushika Hokusai", "name_native": "葛飾北斎", "years": "1760–1849", "birthplace": "日本 江户（今东京）", "country": "日本", "country_code": "JP", "era": "江户时代后期", "movements": ["浮世绘", "Ukiyo-e"], "mediums": ["浮世绘版画", "水墨画", "手绘"], "gender": "m", "hero_image": "images/2026-08-03-hokusai.jpg", "hero_caption": "《神奈川冲浪里》（富岳三十六景之一），约 1830–32", "image_license": "Public Domain", "image_source": "The Met (Open Access)", "image_source_url": "https://www.metmuseum.org/art/collection/search/45434", "verified": true, "one_liner": "他七十岁才画出自己传播最广的作品，而且用的是一种四年前才从德国进口到日本的颜料。", "turning_point": {"year": 1830, "event": "开始《富岳三十六景》，采用新进口的普鲁士蓝（bero-ai）作为主色调", "location": "江户（今东京）"}, "key_work": {"title": "神奈川冲浪里", "year": "约 1830–32", "collection": "大都会艺术博物馆，纽约", "detail": "普鲁士蓝支配全幅；冷暖对比让富士山从蓝色背景中跳出；构图：瞬间的暴力 vs 永恒的神圣 vs 渺小的人类"}, "fun_fact": "普鲁士蓝 1704 年发明于柏林，1820 年经荷兰东印度公司传至长崎出岛，北斋用它替代传统靛蓝并改用蓝色轮廓线取代黑色墨线；德彪西 1905 年选此作《海》封面", "quote": {"text": "天が後五年の命をあたへば、まことの画工となりべし。", "translation": "若上天再给我五年寿命，我便能成为真正的画师。", "source": "临终遗言，1849（弟子笔记）"}, "card_path": "artists/2026/08/2026-08-03-hokusai.md"}], "statistics": {"total_artists": 3, "by_gender": {"male": 2, "female": 1}, "by_column": {"masters": 1, "her": 1, "east": 1, "overlooked": 0, "modern": 0, "makers": 0, "wildcard": 0}, "by_country": {"NL": 1, "IT": 1, "JP": 1}}}
+{
+  "schema_version": 1,
+  "description": "结构化艺术家数据，供艺术史网站等外部系统消费。每发布一张卡即追加一条记录。",
+  "artists": [
+    {
+      "date": "2026-08-03",
+      "column": "masters",
+      "slug": "rembrandt",
+      "name_zh": "伦勃朗·范·莱恩",
+      "name_en": "Rembrandt van Rijn",
+      "name_native": "Rembrandt Harmenszoon van Rijn",
+      "years": "1606–1669",
+      "birthplace": "荷兰 莱顿",
+      "country": "荷兰",
+      "country_code": "NL",
+      "era": "巴洛克 / 荷兰黄金时代",
+      "movements": [
+        "荷兰黄金时代"
+      ],
+      "mediums": [
+        "油画",
+        "蚀刻版画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-08-03-rembrandt.jpg",
+      "hero_caption": "《自画像》，1660",
+      "image_license": "Public Domain",
+      "image_source": "The Met (Open Access)",
+      "image_source_url": "https://www.metmuseum.org/art/collection/search/437397",
+      "verified": true,
+      "one_liner": "他是第一个把破产画成更好作品的人。1656 年失去房子、收藏和大部分社会地位之后，他的自画像反而比之前任何时期都更不讨好、更诚实。",
+      "turning_point": {
+        "year": 1656,
+        "event": "申请破产（cessio bonorum），1657-58 两次拍卖抵债，搬入约旦区租屋",
+        "location": "阿姆斯特丹"
+      },
+      "key_work": {
+        "title": "自画像",
+        "year": 1660,
+        "collection": "大都会艺术博物馆，纽约",
+        "detail": "两只眼睛不对称（一只直视、一只失焦）；帽子卷毛用笔杆尾端在湿颜料里拖出螺旋"
+      },
+      "fun_fact": "1657-58 拍卖清单至今保存在阿姆斯特丹市档案馆，可逐条查到每件藏品的名称和成交价",
+      "card_path": "artists/2026/08/2026-08-03-rembrandt.md"
+    },
+    {
+      "date": "2026-08-03",
+      "column": "her",
+      "slug": "artemisia-gentileschi",
+      "name_zh": "阿尔泰米西娅·真蒂莱斯基",
+      "name_en": "Artemisia Gentileschi",
+      "name_native": "Artemisia Lomi Gentileschi",
+      "years": "1593–c.1653",
+      "birthplace": "意大利 罗马",
+      "country": "意大利",
+      "country_code": "IT",
+      "era": "巴洛克",
+      "movements": [
+        "巴洛克",
+        "卡拉瓦乔主义"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "f",
+      "hero_image": "images/2026-08-03-artemisia-gentileschi.jpg",
+      "hero_caption": "《以斯帖在亚哈随鲁王前》，约 1620s",
+      "image_license": "Public Domain",
+      "image_source": "The Met (Open Access)",
+      "image_source_url": "https://www.metmuseum.org/art/collection/search/436453",
+      "verified": true,
+      "one_liner": "她是卡拉瓦乔之后最有力的历史画画家——性别是后来人给她加的分类标签，不是她作品的卖点。",
+      "turning_point": {
+        "year": 1616,
+        "event": "成为佛罗伦萨设计学院（Accademia delle Arti del Disegno）第一位女性会员",
+        "location": "佛罗伦萨"
+      },
+      "key_work": {
+        "title": "以斯帖在亚哈随鲁王前",
+        "year": "约 1620s",
+        "collection": "大都会艺术博物馆，纽约",
+        "detail": "X 光显示最初画了黑人男孩牵狗，后用大理石地砖覆盖；国王膝盖左侧隐约可见轮廓"
+      },
+      "fun_fact": "1616 年入佛罗伦萨设计学院的同时受邀为米开朗基罗之家天顶画《倾向寓言》——在一个完全由男性主导的体系里被邀请装饰米开朗基罗纪念堂天花板",
+      "quote": {
+        "text": "I will show Your Illustrious Lordship what a woman can do.",
+        "source": "致赞助人信（意大利语），约 1615"
+      },
+      "card_path": "artists/2026/08/2026-08-03-artemisia-gentileschi.md"
+    },
+    {
+      "date": "2026-08-03",
+      "column": "east",
+      "slug": "hokusai",
+      "name_zh": "葛饰北斋",
+      "name_en": "Katsushika Hokusai",
+      "name_native": "葛飾北斎",
+      "years": "1760–1849",
+      "birthplace": "日本 江户（今东京）",
+      "country": "日本",
+      "country_code": "JP",
+      "era": "江户时代后期",
+      "movements": [
+        "浮世绘",
+        "Ukiyo-e"
+      ],
+      "mediums": [
+        "浮世绘版画",
+        "水墨画",
+        "手绘"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-08-03-hokusai.jpg",
+      "hero_caption": "《神奈川冲浪里》（富岳三十六景之一），约 1830–32",
+      "image_license": "Public Domain",
+      "image_source": "The Met (Open Access)",
+      "image_source_url": "https://www.metmuseum.org/art/collection/search/45434",
+      "verified": true,
+      "one_liner": "他七十岁才画出自己传播最广的作品，而且用的是一种四年前才从德国进口到日本的颜料。",
+      "turning_point": {
+        "year": 1830,
+        "event": "开始《富岳三十六景》，采用新进口的普鲁士蓝（bero-ai）作为主色调",
+        "location": "江户（今东京）"
+      },
+      "key_work": {
+        "title": "神奈川冲浪里",
+        "year": "约 1830–32",
+        "collection": "大都会艺术博物馆，纽约",
+        "detail": "普鲁士蓝支配全幅；冷暖对比让富士山从蓝色背景中跳出；构图：瞬间的暴力 vs 永恒的神圣 vs 渺小的人类"
+      },
+      "fun_fact": "普鲁士蓝 1704 年发明于柏林，1820 年经荷兰东印度公司传至长崎出岛，北斋用它替代传统靛蓝并改用蓝色轮廓线取代黑色墨线；德彪西 1905 年选此作《海》封面",
+      "quote": {
+        "text": "天が後五年の命をあたへば、まことの画工となりべし。",
+        "translation": "若上天再给我五年寿命，我便能成为真正的画师。",
+        "source": "临终遗言，1849（弟子笔记）"
+      },
+      "card_path": "artists/2026/08/2026-08-03-hokusai.md"
+    },
+    {
+      "date": "2026-08-07",
+      "column": "modern",
+      "slug": "paul-cezanne",
+      "name_zh": "塞尚",
+      "name_en": "Paul Cezanne",
+      "name_native": "",
+      "years": "1839–1906",
+      "birthplace": "法国 普罗旺斯地区艾克斯",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "后印象主义",
+      "movements": [
+        "后印象主义",
+        "现代主义先驱"
+      ],
+      "mediums": [
+        "油画",
+        "水彩"
+      ],
+      "gender": "m",
+      "hero_image": "https://www.artic.edu/artworks/111436",
+      "hero_caption": "《苹果篮》，约 1893",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/111436",
+      "verified": false,
+      "one_liner": "他用一篮苹果重新发明了空间——把三维世界拆开，再用色块重新搭起来，毕加索和马蒂斯都顺着这条路走下去了。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 普罗旺斯地区艾克斯"
+      },
+      "key_work": {
+        "title": "苹果篮",
+        "year": "约 1893",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "先看桌面右侧那个饼干盒——它的左边沿和右边沿根本不在同一条水平线上，桌子是歪的，但你的眼睛就是接受了它。再看篮子里最顶上那颗苹果，它的高光是一块纯白笔触直接压上去的，没有过渡，塞尚就用这种方式告诉你：这是颜料，不是幻觉。"
+      },
+      "fun_fact": "塞尚的父亲是艾克斯的银行家，他靠家里的遗产生活了大半辈子，从未真正依赖卖画为生。1886 年父亲去世后他继承了一笔可观的遗产，这让他可以完全不理会市场，想画多久就画多久。",
+      "quote": {
+        "text": "我想用苹果征服巴黎。",
+        "original": "Je veux conquérir Paris avec une pomme.",
+        "source": "转引自约阿希姆·加斯凯《塞尚》（Joachim Gasquet，《Cézanne》，1921）"
+      },
+      "card_path": "artists/2026/08/2026-08-07-paul-cezanne.md"
+    }
+  ],
+  "statistics": {
+    "total_artists": 4,
+    "by_gender": {
+      "male": 2,
+      "female": 1,
+      "m": 1
+    },
+    "by_column": {
+      "masters": 1,
+      "her": 1,
+      "east": 1,
+      "overlooked": 0,
+      "modern": 1,
+      "makers": 0,
+      "wildcard": 0
+    },
+    "by_country": {
+      "NL": 1,
+      "IT": 1,
+      "JP": 1,
+      "FR": 1
+    }
+  }
+}

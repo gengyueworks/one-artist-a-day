@@ -11,6 +11,7 @@
 | 2026-08-03 | 🎩 巨匠 Masters | [伦勃朗·范·莱恩](2026/08/2026-08-03-rembrandt.md) | `2026-08-03-rembrandt.md` |
 | 2026-08-03 | 👑 她 Her | [阿尔泰米西娅·真蒂莱斯基](2026/08/2026-08-03-artemisia-gentileschi.md) | `2026-08-03-artemisia-gentileschi.md` |
 | 2026-08-03 | 🌊 东方 East | [葛饰北斋](2026/08/2026-08-03-hokusai.md) | `2026-08-03-hokusai.md` |
+| 2026-08-07 | 🖥️ 现代 Modern | [塞尚](2026/08/2026-08-07-paul-cezanne.md) | `2026-08-07-paul-cezanne.md` |
 
 ---
 
