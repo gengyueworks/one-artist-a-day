@@ -192,7 +192,7 @@
         "name_en": "Artemisia Gentileschi",
         "years": "1593-1656",
         "country": "意大利",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "索福尼斯瓦·安圭索拉",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 155
+  "total_queued": 154
 }

@@ -12,6 +12,7 @@
 ### 🇮🇹 意大利 Italy
 
 - [阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi](../artists/2026/08/2026-08-03-artemisia-gentileschi.md) — 1593–c.1653, ♀, 巴洛克/卡拉瓦乔主义, **她**
+- [阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi](../artists/2026/08/2026-08-11-artemisia-gentileschi.md) — 1593–1656, ♀, 巴洛克, **她**
 - （待补充：达芬奇、米开朗基罗、拉斐尔、卡拉瓦乔、波提切利、提香等）
 
 ### 🇫🇷 法国 France
