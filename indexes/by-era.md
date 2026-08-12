@@ -19,7 +19,9 @@ _（待补充）_
 | 艺术家 | 国别 | 性别 | 栏目 | 卡片 |
 |--------|------|------|------|------|
 | 伦勃朗·范·莱恩 Rembrandt van Rijn | 🇳🇱 荷兰 | ♂ | 巨匠 | [→](../artists/2026/08/2026-08-03-rembrandt.md) |
+<<<<<<< HEAD
 | 阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi | 意大利 | ♀ | **她** | [→](../artists/2026/08/2026-08-11-artemisia-gentileschi.md) |
+| 卡雷尔·法布里蒂乌斯 Carel Fabritius | 荷兰 | ♂ | 遗珠 | [→](../artists/2026/08/2026-08-13-carel-fabritius.md) |
 | 阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi | 🇮🇹 意大利 | ♀ | **她** | [→](../artists/2026/08/2026-08-03-artemisia-gentileschi.md) |
 
 ## 新古典主义 Neoclassicism（1750–1820）

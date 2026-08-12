@@ -184,6 +184,7 @@
       "card_path": "artists/2026/08/2026-08-07-paul-cezanne.md"
     },
     {
+<<<<<<< HEAD
       "date": "2026-08-11",
       "column": "her",
       "slug": "artemisia-gentileschi",
@@ -198,10 +199,27 @@
       "movements": [
         "巴洛克",
         "卡拉瓦乔主义"
+=======
+      "date": "2026-08-13",
+      "column": "overlooked",
+      "slug": "carel-fabritius",
+      "name_zh": "卡雷尔·法布里蒂乌斯",
+      "name_en": "Carel Fabritius",
+      "name_native": "",
+      "years": "1622–1654",
+      "birthplace": "荷兰 贝姆斯特",
+      "country": "荷兰",
+      "country_code": "NL",
+      "era": "荷兰黄金时代",
+      "movements": [
+        "巴洛克",
+        "代尔夫特画派"
+>>>>>>> 4444a00 (🎨 2026-08-13: 卡雷尔·法布里蒂乌斯（遗珠 overlooked）)
       ],
       "mediums": [
         "油画"
       ],
+<<<<<<< HEAD
       "gender": "f",
       "hero_image": "",
       "hero_caption": "《朱迪斯斩杀赫罗弗尼斯》，约1614–1620年",
@@ -228,6 +246,34 @@
         "source": "约1649年致科西莫二世·德·美第奇的信，原文为意大利语，英译版本广泛引用于Mary D. Garrard《Artemisia Gentileschi》（1989）"
       },
       "card_path": "artists/2026/08/2026-08-11-artemisia-gentileschi.md"
+=======
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《金翅雀》，1654",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.mauritshuis.nl/en/our-collection/artworks/106-the-goldfinch/",
+      "verified": false,
+      "one_liner": "伦勃朗最出色的学生，维米尔的光影先驱，却被一场火药库大爆炸炸成了艺术史上的失踪人口。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "荷兰 贝姆斯特"
+      },
+      "key_work": {
+        "title": "金翅雀",
+        "year": "1654",
+        "collection": "海牙毛里茨之家博物馆",
+        "detail": "盯住画面右侧那道投射在灰白石膏墙上的鸟影。法布里蒂乌斯没有把背景涂黑，而是用冷调的日光直接打在墙面上，连墙皮剥落的质感都画得清清楚楚。再看小鸟脚踝上那根细细的金属链，以及翅膀上那一抹用厚涂法刮上去的明黄颜料。"
+      },
+      "fun_fact": "《金翅雀》的画板极厚，边缘带有钉孔。修复专家推测它原本不是挂在墙上的独立画作，而是被钉在某个装鸟笼的木盒子上，用来制造『这里真的停着一只鸟』的视觉骗局。",
+      "quote": {
+        "text": "",
+        "original": "",
+        "source": ""
+      },
+      "card_path": "artists/2026/08/2026-08-13-carel-fabritius.md"
+>>>>>>> 4444a00 (🎨 2026-08-13: 卡雷尔·法布里蒂乌斯（遗珠 overlooked）)
     }
   ],
   "statistics": {
@@ -235,21 +281,30 @@
     "by_gender": {
       "male": 2,
       "female": 1,
+<<<<<<< HEAD
       "m": 1,
       "f": 1
+=======
+      "m": 2
+>>>>>>> 4444a00 (🎨 2026-08-13: 卡雷尔·法布里蒂乌斯（遗珠 overlooked）)
     },
     "by_column": {
       "masters": 1,
       "her": 2,
       "east": 1,
-      "overlooked": 0,
+      "overlooked": 1,
       "modern": 1,
       "makers": 0,
       "wildcard": 0
     },
     "by_country": {
+<<<<<<< HEAD
       "NL": 1,
       "IT": 2,
+=======
+      "NL": 2,
+      "IT": 1,
+>>>>>>> 4444a00 (🎨 2026-08-13: 卡雷尔·法布里蒂乌斯（遗珠 overlooked）)
       "JP": 1,
       "FR": 1
     }
