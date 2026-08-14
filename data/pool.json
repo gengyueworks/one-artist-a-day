@@ -751,7 +751,7 @@
         "name_en": "Henri Matisse",
         "years": "1869-1954",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "毕加索",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 154
+  "total_queued": 153
 }
