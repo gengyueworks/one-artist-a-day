@@ -310,14 +310,62 @@
         "location": ""
       },
       "card_path": "artists/2026/08/2026-08-14-henri-matisse.md"
+    },
+    {
+      "date": "2026-08-15",
+      "column": "makers",
+      "slug": "gian-lorenzo-bernini",
+      "name_zh": "吉安·洛伦佐·贝尼尼",
+      "name_en": "Gian Lorenzo Bernini",
+      "name_native": "Gian Lorenzo Bernini",
+      "years": "1598–1680",
+      "birthplace": "意大利 那不勒斯",
+      "country": "意大利",
+      "country_code": "IT",
+      "era": "巴洛克",
+      "movements": [
+        "巴洛克雕塑",
+        "巴洛克建筑"
+      ],
+      "mediums": [
+        "大理石",
+        "青铜",
+        "建筑"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-08-15-gian-lorenzo-bernini.jpg",
+      "hero_caption": "《酒神节：被孩子们戏弄的法翁》，约1616–17年",
+      "image_license": "Public Domain",
+      "image_source": "The Met (Open Access)",
+      "image_source_url": "https://www.metmuseum.org/art/collection/search/206399",
+      "verified": false,
+      "one_liner": "他把坚硬的大理石凿出了人体肌肤的柔软质感，并把整个罗马城改造成了自己的私人剧场。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "意大利 那不勒斯"
+      },
+      "key_work": {
+        "title": "酒神节：被孩子们戏弄的法翁",
+        "year": "约1616–17",
+        "collection": "大都会艺术博物馆",
+        "detail": "看向雕像最底部，一只张着嘴的豹子正抬起前爪扑向藤蔓。顺着树干往上，法翁的身体向后仰倒，右侧一个胖乎乎的小男孩正踩着树枝去够果实。你可以仔细对比法翁大腿紧绷的肌肉线条，和旁边树干坑洼粗糙的树皮纹理，这两种截然不同的质感是在同一块大理石上凿出来的。"
+      },
+      "fun_fact": "为了铸造圣彼得大教堂那座近三十米高的青铜华盖，贝尼尼的工坊需要海量金属。教皇乌尔班八世直接下令，把古罗马万神殿门廊顶部的青铜构件全部拆下来熔掉，送去给他当铸造原料。",
+      "quote": {
+        "text": "一个人静止不动时，绝不如他运动和说话时那般像他自己。",
+        "original": "Un homme n'est jamais si semblable à lui-même que lorsqu'il est en action.",
+        "source": "尚特卢《贝尼尼法国之旅日记》（1665年）"
+      },
+      "card_path": "artists/2026/08/2026-08-15-gian-lorenzo-bernini.md"
     }
   ],
   "statistics": {
-    "total_artists": 5,
+    "total_artists": 8,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 1,
+      "m": 2,
       "f": 1
     },
     "by_column": {
@@ -326,12 +374,12 @@
       "east": 1,
       "overlooked": 0,
       "modern": 1,
-      "makers": 0,
+      "makers": 1,
       "wildcard": 0
     },
     "by_country": {
       "NL": 1,
-      "IT": 2,
+      "IT": 3,
       "JP": 1,
       "FR": 1
     },

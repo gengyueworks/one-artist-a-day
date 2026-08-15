@@ -928,7 +928,7 @@
         "name_en": "Gian Lorenzo Bernini",
         "years": "1598-1680",
         "country": "意大利",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "多纳泰罗",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 153
+  "total_queued": 152
 }
