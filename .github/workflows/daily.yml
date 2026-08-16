@@ -1,5 +1,10 @@
 name: daily-artist
 
+# ⚠️ 2026-08-16 起主通道为本地 launchd（com.local.one-artist-a-day，每日 8:30）。
+# 安全铁律：LLM key 严禁上传 GitHub（含 Secrets）。本 workflow 仅手动兜底，
+# 且不引用任何 secrets —— 云端触发会因缺 key 失败，属预期，请勿配置 secrets。
+# 本地脚本读 ~/.local/share/opencode/auth.json 或本地代理，key 不出本机。
+
 on:
   workflow_dispatch:
 
@@ -30,9 +35,5 @@ jobs:
       - name: Install dependencies
         run: pip install --quiet pillow requests
 
-      - name: Generate today's artist card
-        env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+      - name: Generate today's artist card (needs local LLM key - cloud will fail by design)
         run: python scripts/auto_publish.py
