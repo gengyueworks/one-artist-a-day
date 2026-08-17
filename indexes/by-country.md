@@ -15,6 +15,7 @@
 - [阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi](../artists/2026/08/2026-08-03-artemisia-gentileschi.md) — 1593–c.1653, ♀, 巴洛克/卡拉瓦乔主义, **她**
 - [阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi](../artists/2026/08/2026-08-11-artemisia-gentileschi.md) — 1593–1656, ♀, 巴洛克, **她**
 - [吉安·洛伦佐·贝尼尼 Gian Lorenzo Bernini](../artists/2026/08/2026-08-15-gian-lorenzo-bernini.md) — 1598–1680, ♂, 巴洛克, 匠人
+- [达芬奇 Leonardo da Vinci](../artists/2026/08/2026-08-17-leonardo-da-vinci.md) — 1452–1519, ♂, 文艺复兴, 巨匠
 - （待补充：达芬奇、米开朗基罗、拉斐尔、卡拉瓦乔、波提切利、提香等）
 
 ### 🇫🇷 法国 France

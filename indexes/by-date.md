@@ -14,6 +14,7 @@
 | 2026-08-07 | 🖥️ 现代 Modern | [塞尚](2026/08/2026-08-07-paul-cezanne.md) | `2026-08-07-paul-cezanne.md` |
 | 2026-08-14 | 🖥️ 现代 Modern | [亨利·马蒂斯](2026/08/2026-08-14-henri-matisse.md) | `2026-08-14-henri-matisse.md` |
 | 2026-08-15 | 🛠️ 匠人 Makers | [吉安·洛伦佐·贝尼尼](2026/08/2026-08-15-gian-lorenzo-bernini.md) | `2026-08-15-gian-lorenzo-bernini.md` |
+| 2026-08-17 | 🎩 巨匠 Masters | [达芬奇](2026/08/2026-08-17-leonardo-da-vinci.md) | `2026-08-17-leonardo-da-vinci.md` |
 <<<<<<< HEAD
 | 2026-08-11 | 👑 她 Her | [阿尔泰米西娅·真蒂莱斯基](2026/08/2026-08-11-artemisia-gentileschi.md) | `2026-08-11-artemisia-gentileschi.md` |
 =======
