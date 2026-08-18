@@ -406,19 +406,65 @@
         "source": "《弗斯特手稿》第三卷（Codex Forster III）"
       },
       "card_path": "artists/2026/08/2026-08-17-leonardo-da-vinci.md"
+    },
+    {
+      "date": "2026-08-18",
+      "column": "her",
+      "slug": "sofonisba-anguissola",
+      "name_zh": "索福尼斯瓦·安圭索拉",
+      "name_en": "Sofonisba Anguissola",
+      "name_native": "Sofonisba Anguissola",
+      "years": "约1532–1625",
+      "birthplace": "意大利 克雷莫纳",
+      "country": "意大利",
+      "country_code": "IT",
+      "era": "文艺复兴",
+      "movements": [
+        "文艺复兴",
+        "矫饰主义"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "f",
+      "hero_image": "",
+      "hero_caption": "《下棋的姐妹》，1555年",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Sofonisba_Anguissola_-_The_Chess_Game_-_WGA00698.jpg",
+      "verified": false,
+      "one_liner": "她在文艺复兴时期发明了带有剧情互动的家庭群像，把同时代男性画家笔下僵硬的肖像套路甩在了身后。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "意大利 克雷莫纳"
+      },
+      "key_work": {
+        "title": "下棋的姐妹",
+        "year": "1555年",
+        "collection": "波兹南国家博物馆",
+        "detail": "左侧大姐手捏棋子直视画外，中间的妹妹正抬头看大姐，而右边最年幼的妹妹张着嘴笑看中间的姐姐。这三道视线连缀在一起，完全打破了早期肖像画干瞪眼的僵硬感。注意看画面右侧边缘那位年迈的女仆，她粗糙的面容与三个贵族少女光洁的皮肤形成了极强的质感对比。"
+      },
+      "fun_fact": "1624年，年轻的凡·戴克在西西里岛拜访了92岁且几近失明的安圭索拉。凡·戴克在日记里记下，这位老妇人仍在教他如何顺着脸部轮廓打光，并特意叮嘱“光源不要太低，以免把老人的皱纹显得太深”。",
+      "quote": {
+        "text": "我已尽我微薄的才华所能，以最勤勉的态度去再现真实。",
+        "original": "Ho usato tutta quella diligenza che dalle mie deboli forze si è potuto, per rappresentare la verità...",
+        "source": "1561年致教皇庇护四世的信"
+      },
+      "card_path": "artists/2026/08/2026-08-18-sofonisba-anguissola.md"
     }
   ],
   "statistics": {
-    "total_artists": 9,
+    "total_artists": 10,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 3,
-      "f": 1
+      "f": 2
     },
     "by_column": {
       "masters": 2,
-      "her": 2,
+      "her": 3,
       "east": 1,
       "overlooked": 0,
       "modern": 1,
@@ -427,7 +473,7 @@
     },
     "by_country": {
       "NL": 1,
-      "IT": 4,
+      "IT": 5,
       "JP": 1,
       "FR": 1
     },

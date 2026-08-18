@@ -199,7 +199,7 @@
         "name_en": "Sofonisba Anguissola",
         "years": "1532-1625",
         "country": "意大利",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "朱迪思·莱斯特",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 151
+  "total_queued": 150
 }
