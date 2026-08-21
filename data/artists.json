@@ -452,14 +452,63 @@
         "source": "1561年致教皇庇护四世的信"
       },
       "card_path": "artists/2026/08/2026-08-18-sofonisba-anguissola.md"
+    },
+    {
+      "date": "2026-08-21",
+      "column": "modern",
+      "slug": "pablo-picasso",
+      "name_zh": "巴勃罗·毕加索",
+      "name_en": "Pablo Picasso",
+      "name_native": "Pablo Ruiz Picasso",
+      "years": "1881–1973",
+      "birthplace": "西班牙 马拉加",
+      "country": "西班牙",
+      "country_code": "ES",
+      "era": "现代艺术",
+      "movements": [
+        "立体主义",
+        "超现实主义"
+      ],
+      "mediums": [
+        "绘画",
+        "雕塑",
+        "陶瓷",
+        "版画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《亚威农少女》，1907",
+      "image_license": "Link Only",
+      "image_source": "MoMA",
+      "image_source_url": "https://www.moma.org/collection/works/79766",
+      "verified": false,
+      "one_liner": "他把西方绘画延续了五百年的透视法砸得粉碎，然后用碎玻璃拼出了二十世纪的艺术规则。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "西班牙 马拉加"
+      },
+      "key_work": {
+        "title": "亚威农少女",
+        "year": "1907",
+        "collection": "纽约现代艺术博物馆",
+        "detail": "盯住画面右下角那个蹲着的女人。她的身体背对着你，脸却硬生生地扭转过来直视前方，五官像木头一样粗糙，这是他直接抄来的非洲面具造型。再看人物背后那些锋利的蓝色和白色色块，空间不再往深处退，而是像碎冰一样直直地朝你的眼睛扎过来。"
+      },
+      "fun_fact": "1911年《蒙娜丽莎》在卢浮宫被盗，巴黎警察把毕加索当成嫌疑犯抓去审问。因为他之前从一个小偷手里低价买过两件失窃的伊比利亚石雕，他的朋友阿波利奈尔在受审时因为害怕，直接把他供了出来。",
+      "quote": {
+        "text": "艺术是一种使我们认识真理的谎言，至少是使我们能够理解的真理。",
+        "original": "El arte es una mentira que nos hace darnos cuenta de la verdad.",
+        "source": "1923年接受马里乌斯·德·扎亚斯采访"
+      },
+      "card_path": "artists/2026/08/2026-08-21-pablo-picasso.md"
     }
   ],
   "statistics": {
-    "total_artists": 10,
+    "total_artists": 11,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 3,
+      "m": 4,
       "f": 2
     },
     "by_column": {
@@ -467,7 +516,7 @@
       "her": 3,
       "east": 1,
       "overlooked": 0,
-      "modern": 1,
+      "modern": 2,
       "makers": 1,
       "wildcard": 0
     },
@@ -475,7 +524,8 @@
       "NL": 1,
       "IT": 5,
       "JP": 1,
-      "FR": 1
+      "FR": 1,
+      "ES": 1
     },
     "artists": 7
   }

@@ -16,6 +16,7 @@
 | 2026-08-15 | 🛠️ 匠人 Makers | [吉安·洛伦佐·贝尼尼](2026/08/2026-08-15-gian-lorenzo-bernini.md) | `2026-08-15-gian-lorenzo-bernini.md` |
 | 2026-08-17 | 🎩 巨匠 Masters | [达芬奇](2026/08/2026-08-17-leonardo-da-vinci.md) | `2026-08-17-leonardo-da-vinci.md` |
 | 2026-08-18 | 👑 她 Her | [索福尼斯瓦·安圭索拉](2026/08/2026-08-18-sofonisba-anguissola.md) | `2026-08-18-sofonisba-anguissola.md` |
+| 2026-08-21 | 🖥️ 现代 Modern | [巴勃罗·毕加索](2026/08/2026-08-21-pablo-picasso.md) | `2026-08-21-pablo-picasso.md` |
 <<<<<<< HEAD
 | 2026-08-11 | 👑 她 Her | [阿尔泰米西娅·真蒂莱斯基](2026/08/2026-08-11-artemisia-gentileschi.md) | `2026-08-11-artemisia-gentileschi.md` |
 =======

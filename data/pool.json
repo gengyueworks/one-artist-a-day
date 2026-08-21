@@ -758,7 +758,7 @@
         "name_en": "Pablo Picasso",
         "years": "1881-1973",
         "country": "西班牙",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "布拉克",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 150
+  "total_queued": 149
 }
