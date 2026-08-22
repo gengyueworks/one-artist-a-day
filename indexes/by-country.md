@@ -17,6 +17,7 @@
 - [吉安·洛伦佐·贝尼尼 Gian Lorenzo Bernini](../artists/2026/08/2026-08-15-gian-lorenzo-bernini.md) — 1598–1680, ♂, 巴洛克, 匠人
 - [达芬奇 Leonardo da Vinci](../artists/2026/08/2026-08-17-leonardo-da-vinci.md) — 1452–1519, ♂, 文艺复兴, 巨匠
 - [索福尼斯瓦·安圭索拉 Sofonisba Anguissola](../artists/2026/08/2026-08-18-sofonisba-anguissola.md) — 约1532–1625, ♀, 文艺复兴, **她**
+- [多纳泰罗 Donatello](../artists/2026/08/2026-08-22-donatello.md) — 1386–1466, ♂, 文艺复兴早期, 匠人
 - （待补充：达芬奇、米开朗基罗、拉斐尔、卡拉瓦乔、波提切利、提香等）
 
 ### 🇫🇷 法国 France

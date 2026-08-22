@@ -15,6 +15,7 @@ _（待补充）_
 | 艺术家 | 国别 | 性别 | 栏目 | 卡片 |
 |--------|------|------|------|------|
 | 达芬奇 Leonardo da Vinci | 意大利 | ♂ | 巨匠 | [→](../artists/2026/08/2026-08-17-leonardo-da-vinci.md) |
+| 多纳泰罗 Donatello | 意大利 | ♂ | 匠人 | [→](../artists/2026/08/2026-08-22-donatello.md) |
 | 索福尼斯瓦·安圭索拉 Sofonisba Anguissola | 意大利 | ♀ | **她** | [→](../artists/2026/08/2026-08-18-sofonisba-anguissola.md) |
 
 ## 巴洛克 Baroque（1600–1750）

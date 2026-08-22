@@ -501,14 +501,62 @@
         "source": "1923年接受马里乌斯·德·扎亚斯采访"
       },
       "card_path": "artists/2026/08/2026-08-21-pablo-picasso.md"
+    },
+    {
+      "date": "2026-08-22",
+      "column": "makers",
+      "slug": "donatello",
+      "name_zh": "多纳泰罗",
+      "name_en": "Donatello",
+      "name_native": "Donato di Niccolò di Betto Bardi",
+      "years": "1386–1466",
+      "birthplace": "意大利 佛罗伦萨",
+      "country": "意大利",
+      "country_code": "IT",
+      "era": "文艺复兴早期",
+      "movements": [
+        "文艺复兴"
+      ],
+      "mediums": [
+        "青铜",
+        "大理石",
+        "木雕",
+        "灰泥"
+      ],
+      "gender": "m",
+      "hero_image": "https://www.artic.edu/artworks/16143",
+      "hero_caption": "《耶稣降生》（The Nativity），约1465年",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/16143",
+      "verified": false,
+      "one_liner": "他把雕塑从教堂墙壁上扯下来，让青铜和大理石重新拥有了人的体温和肌肉的重量。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "意大利 佛罗伦萨"
+      },
+      "key_work": {
+        "title": "The Nativity",
+        "year": "约1465",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "注意看画面极浅的浮雕层次，这是多纳泰罗首创的“平浮雕”技法。视线顺着圣母祈祷的双手往下，婴儿耶稣躺在画面偏下方的边缘，身体的起伏极其微妙。背景里砖墙和木棚的线条非常微弱，仅用几毫米的高低差就推远了空间距离，让原本坚硬的灰泥有了画笔晕染的错觉。"
+      },
+      "fun_fact": "多纳泰罗对钱毫无防备心。他把赚来的钱币装在一个篮子里，用绳子吊在工作室的天花板上。他的助手和学徒如果缺钱买材料或生活用品，可以自己把篮子降下来拿钱，完全不需要向他请示。",
+      "quote": {
+        "text": "说话啊，你这头猪，给我说话！",
+        "original": "Favella, porco, favella!",
+        "source": "瓦萨里《艺苑名人传》，记载多纳泰罗在雕刻先知《哈巴谷》时对大理石的喊叫"
+      },
+      "card_path": "artists/2026/08/2026-08-22-donatello.md"
     }
   ],
   "statistics": {
-    "total_artists": 11,
+    "total_artists": 12,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 4,
+      "m": 5,
       "f": 2
     },
     "by_column": {
@@ -517,12 +565,12 @@
       "east": 1,
       "overlooked": 0,
       "modern": 2,
-      "makers": 1,
+      "makers": 2,
       "wildcard": 0
     },
     "by_country": {
       "NL": 1,
-      "IT": 5,
+      "IT": 6,
       "JP": 1,
       "FR": 1,
       "ES": 1

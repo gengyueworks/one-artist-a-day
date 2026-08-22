@@ -935,7 +935,7 @@
         "name_en": "Donatello",
         "years": "1386-1466",
         "country": "意大利",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "罗丹",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 149
+  "total_queued": 148
 }
