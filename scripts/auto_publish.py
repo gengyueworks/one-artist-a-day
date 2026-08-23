@@ -19,8 +19,8 @@
 
 环境变量（GitHub Actions Secrets 同名）：
   LLM_API_KEY   必填
-  LLM_BASE_URL  默认 https://api.deepseek.com
-  LLM_MODEL     默认 deepseek-chat
+  LLM_BASE_URL  默认 http://127.0.0.1:8317（本机免费代理）
+  LLM_MODEL     默认 gemini-pro-agent（免费）
 
 依赖：Python 3.9+, requests, Pillow
 """
@@ -762,8 +762,8 @@ def main():
     args = parser.parse_args()
 
     api_key = args.llm_api_key or os.environ.get("LLM_API_KEY", "")
-    base_url = args.llm_base_url or os.environ.get("LLM_BASE_URL", "https://api.deepseek.com")
-    model = args.llm_model or os.environ.get("LLM_MODEL", "deepseek-chat")
+    base_url = args.llm_base_url or os.environ.get("LLM_BASE_URL", "http://127.0.0.1:8317")
+    model = args.llm_model or os.environ.get("LLM_MODEL", "gemini-pro-agent")
 
     if not api_key and not args.dry_run:
         log("❌ 缺少 LLM_API_KEY（环境变量）")
