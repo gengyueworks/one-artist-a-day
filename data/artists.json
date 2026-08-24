@@ -549,18 +549,67 @@
         "source": "瓦萨里《艺苑名人传》，记载多纳泰罗在雕刻先知《哈巴谷》时对大理石的喊叫"
       },
       "card_path": "artists/2026/08/2026-08-22-donatello.md"
+    },
+    {
+      "date": "2026-08-24",
+      "column": "masters",
+      "slug": "michelangelo-buonarroti",
+      "name_zh": "米开朗基罗",
+      "name_en": "Michelangelo Buonarroti",
+      "name_native": "Michelangelo di Lodovico Buonarroti Simoni",
+      "years": "1475–1564",
+      "birthplace": "佛罗伦萨共和国 卡普雷塞",
+      "country": "意大利",
+      "country_code": "IT",
+      "era": "文艺复兴高潮期",
+      "movements": [
+        "文艺复兴",
+        "样式主义"
+      ],
+      "mediums": [
+        "雕塑",
+        "湿壁画",
+        "素描",
+        "建筑"
+      ],
+      "gender": "m",
+      "hero_image": "https://www.artic.edu/artworks/4163",
+      "hero_caption": "《向赫尔墨斯射箭、巴克斯的凯旋及其他习作》，年代不详",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/4163",
+      "verified": false,
+      "one_liner": "他坚称自己只是个拿凿子的石匠，却被迫爬上脚手架，用画笔穷尽了人类肉体在痛苦与狂喜中的所有极限折叠。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "佛罗伦萨共和国 卡普雷塞"
+      },
+      "key_work": {
+        "title": "向赫尔墨斯射箭、巴克斯的凯旋及其他习作",
+        "year": "年代不详",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "看看画面左侧那群挤在一起的弓箭手。盯着他们的手看，你会发现他们根本没有拿弓，全在凭空做出拉弦放箭的动作。右下角那个熟睡的裸体人物，大腿和腹部的阴影是用极细的墨水排线一层层交叉织出来的。他压根不在乎物理逻辑，只关心人体在极端发力时的肌肉块面会如何隆起。"
+      },
+      "fun_fact": "1509年，他在脚手架上给朋友乔瓦尼写信大吐苦水，还在信纸边缘画了个自己仰头作画的速写。他抱怨颜料滴在脸上“活像马赛克地板”，并在结尾暴躁地强调自己根本不是个画家。",
+      "quote": {
+        "text": "我在这里待得毫无尊严，我也不是个画家。",
+        "original": "non sendo in loco bono, né io pittore.",
+        "source": "1509年写给乔瓦尼·达·皮斯托亚的十四行诗"
+      },
+      "card_path": "artists/2026/08/2026-08-24-michelangelo-buonarroti.md"
     }
   ],
   "statistics": {
-    "total_artists": 12,
+    "total_artists": 13,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 5,
+      "m": 6,
       "f": 2
     },
     "by_column": {
-      "masters": 2,
+      "masters": 3,
       "her": 3,
       "east": 1,
       "overlooked": 0,
@@ -570,7 +619,7 @@
     },
     "by_country": {
       "NL": 1,
-      "IT": 6,
+      "IT": 7,
       "JP": 1,
       "FR": 1,
       "ES": 1

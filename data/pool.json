@@ -15,7 +15,7 @@
         "name_en": "Michelangelo Buonarroti",
         "years": "1475-1564",
         "country": "意大利",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "伦勃朗",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 148
+  "total_queued": 147
 }

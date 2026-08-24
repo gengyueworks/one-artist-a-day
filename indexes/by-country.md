@@ -18,6 +18,7 @@
 - [达芬奇 Leonardo da Vinci](../artists/2026/08/2026-08-17-leonardo-da-vinci.md) — 1452–1519, ♂, 文艺复兴, 巨匠
 - [索福尼斯瓦·安圭索拉 Sofonisba Anguissola](../artists/2026/08/2026-08-18-sofonisba-anguissola.md) — 约1532–1625, ♀, 文艺复兴, **她**
 - [多纳泰罗 Donatello](../artists/2026/08/2026-08-22-donatello.md) — 1386–1466, ♂, 文艺复兴早期, 匠人
+- [米开朗基罗 Michelangelo Buonarroti](../artists/2026/08/2026-08-24-michelangelo-buonarroti.md) — 1475–1564, ♂, 文艺复兴高潮期, 巨匠
 - （待补充：达芬奇、米开朗基罗、拉斐尔、卡拉瓦乔、波提切利、提香等）
 
 ### 🇫🇷 法国 France
