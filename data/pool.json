@@ -206,7 +206,7 @@
         "name_en": "Judith Leyster",
         "years": "1609-1660",
         "country": "荷兰",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "拉维尼娅·丰塔纳",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 147
+  "total_queued": 146
 }

@@ -28,6 +28,7 @@ _（待补充）_
 | 阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi | 意大利 | ♀ | **她** | [→](../artists/2026/08/2026-08-11-artemisia-gentileschi.md) |
 | 卡雷尔·法布里蒂乌斯 Carel Fabritius | 荷兰 | ♂ | 遗珠 | [→](../artists/2026/08/2026-08-13-carel-fabritius.md) |
 | 吉安·洛伦佐·贝尼尼 Gian Lorenzo Bernini | 意大利 | ♂ | 匠人 | [→](../artists/2026/08/2026-08-15-gian-lorenzo-bernini.md) |
+| 朱迪思·莱斯特 Judith Leyster | 荷兰 | ♀ | **她** | [→](../artists/2026/08/2026-08-25-judith-leyster.md) |
 | 阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi | 🇮🇹 意大利 | ♀ | **她** | [→](../artists/2026/08/2026-08-03-artemisia-gentileschi.md) |
 
 ## 新古典主义 Neoclassicism（1750–1820）

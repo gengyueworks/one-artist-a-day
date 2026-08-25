@@ -598,19 +598,65 @@
         "source": "1509年写给乔瓦尼·达·皮斯托亚的十四行诗"
       },
       "card_path": "artists/2026/08/2026-08-24-michelangelo-buonarroti.md"
+    },
+    {
+      "date": "2026-08-25",
+      "column": "her",
+      "slug": "judith-leyster",
+      "name_zh": "朱迪思·莱斯特",
+      "name_en": "Judith Leyster",
+      "name_native": "",
+      "years": "1609–1660",
+      "birthplace": "哈勒姆",
+      "country": "荷兰",
+      "country_code": "NL",
+      "era": "荷兰黄金时代",
+      "movements": [
+        "巴洛克",
+        "荷兰黄金时代"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "f",
+      "hero_image": "",
+      "hero_caption": "《自画像》，约1630年",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.nga.gov/collection/art-object-page.37.html",
+      "verified": false,
+      "one_liner": "她是哈勒姆圣路加公会最早接纳的两位女画家之一，死后两百年里，画商为了卖高价，把她的签名刮掉换成了男画家的名字。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "哈勒姆"
+      },
+      "key_work": {
+        "title": "自画像",
+        "year": "约1630年",
+        "collection": "华盛顿国家美术馆",
+        "detail": "看画面的最右侧，画架上是一个正在拉小提琴的男人，这是她用来招揽生意的招牌风俗画。视线移到她的左手，大拇指穿过调色板的孔洞，指缝间足足夹着十几支粗细不同的画笔。她穿着极不实用的昂贵蕾丝大翻领，转过身直视画外，嘴唇微张，完全捕捉到了被人突然叫名字那一瞬间的动态。"
+      },
+      "fun_fact": "她的姓氏“莱斯特”在荷兰语里是“极星”的意思。她把这个词设计成了自己的专属签名，在首字母J和L交织的图案旁边，总是画着一颗带尾巴的小星星。",
+      "quote": {
+        "text": "",
+        "original": "",
+        "source": ""
+      },
+      "card_path": "artists/2026/08/2026-08-25-judith-leyster.md"
     }
   ],
   "statistics": {
-    "total_artists": 13,
+    "total_artists": 14,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 6,
-      "f": 2
+      "f": 3
     },
     "by_column": {
       "masters": 3,
-      "her": 3,
+      "her": 4,
       "east": 1,
       "overlooked": 0,
       "modern": 2,
@@ -618,7 +664,7 @@
       "wildcard": 0
     },
     "by_country": {
-      "NL": 1,
+      "NL": 2,
       "IT": 7,
       "JP": 1,
       "FR": 1,
