@@ -644,20 +644,66 @@
         "source": ""
       },
       "card_path": "artists/2026/08/2026-08-25-judith-leyster.md"
+    },
+    {
+      "date": "2026-08-26",
+      "column": "east",
+      "slug": "gu-kaizhi",
+      "name_zh": "顾恺之",
+      "name_en": "Gu Kaizhi",
+      "name_native": "顾恺之",
+      "years": "约348–约409",
+      "birthplace": "中国 无锡",
+      "country": "中国",
+      "country_code": "CN",
+      "era": "东晋",
+      "movements": [
+        "魏晋风度",
+        "早期卷轴画"
+      ],
+      "mediums": [
+        "绢本水墨设色"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《女史箴图》（唐代摹本），约公元6-8世纪",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.britishmuseum.org/collection/object/A_1903-0408-0-1",
+      "verified": false,
+      "one_liner": "他是中国绘画史上第一个真正拥有姓名与独立画论的画家，用一句“传神写照正在阿堵中”定下了东方人物画看重眼神的规矩。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "中国 无锡"
+      },
+      "key_work": {
+        "title": "女史箴图（唐代摹本）",
+        "year": "约公元6-8世纪",
+        "collection": "大英博物馆",
+        "detail": "重点看长卷中梳妆打扮的那一组。画面右侧贵妇坐在圆镜前，你可以清晰看到铜镜里映出她半张脸的镜像。再看侍女衣服上垂下的红色飘带，线条极细却连绵不断，这种完全靠手腕悬空控制的匀速线条后来被叫作‘高古游丝描’。"
+      },
+      "fun_fact": "《世说新语》记载，顾恺之吃甘蔗总喜欢从最没味道的尾巴开始吃，慢慢吃到最甜的根部，他把这种吃法叫作‘渐入佳境’。",
+      "quote": {
+        "text": "四体妍蚩，本无关于妙处，传神写照，正在阿堵中。（四肢长得美丑，本来就和画的精妙无关，传神写照的关键，就在这双眼睛里。）",
+        "original": "四体妍蚩，本无关于妙处，传神写照，正在阿堵中。",
+        "source": "《世说新语·巧艺》"
+      },
+      "card_path": "artists/2026/08/2026-08-26-gu-kaizhi.md"
     }
   ],
   "statistics": {
-    "total_artists": 14,
+    "total_artists": 15,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 6,
+      "m": 7,
       "f": 3
     },
     "by_column": {
       "masters": 3,
       "her": 4,
-      "east": 1,
+      "east": 2,
       "overlooked": 0,
       "modern": 2,
       "makers": 2,
@@ -668,7 +714,8 @@
       "IT": 7,
       "JP": 1,
       "FR": 1,
-      "ES": 1
+      "ES": 1,
+      "CN": 1
     },
     "artists": 7
   }

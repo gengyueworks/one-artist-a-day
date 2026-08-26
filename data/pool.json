@@ -376,7 +376,7 @@
         "name_en": "Gu Kaizhi",
         "years": "348-409",
         "country": "中国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "吴道子",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 146
+  "total_queued": 145
 }
