@@ -690,14 +690,62 @@
         "source": "《世说新语·巧艺》"
       },
       "card_path": "artists/2026/08/2026-08-26-gu-kaizhi.md"
+    },
+    {
+      "date": "2026-08-28",
+      "column": "modern",
+      "slug": "georges-braque",
+      "name_zh": "乔治·布拉克",
+      "name_en": "Georges Braque",
+      "name_native": "",
+      "years": "1882–1963",
+      "birthplace": "法国 阿让特伊",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "现代艺术",
+      "movements": [
+        "立体主义",
+        "野兽派"
+      ],
+      "mediums": [
+        "油画",
+        "拼贴画",
+        "版画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《小提琴与调色板》，1909",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.guggenheim.org/artwork/640",
+      "verified": false,
+      "one_liner": "布拉克不是毕加索的附庸，正是他把画笔换成刷墙工的木纹梳，把立体主义从概念变成了真正的视觉游戏。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 阿让特伊"
+      },
+      "key_work": {
+        "title": "小提琴与调色板",
+        "year": "1909",
+        "collection": "纽约古根海姆美术馆",
+        "detail": "看画面最顶端，布拉克画了一颗逼真的钉子，还给它加上了清晰的阴影。这颗钉子像在嘲笑观众的眼睛，因为它下方的小提琴全被拆解成了平面的几何碎片。这种极度写实的细节与极度破碎的物体的并置，就是他给观众设置的视觉陷阱。"
+      },
+      "fun_fact": "布拉克出身于粉刷匠世家，年轻时专门考取过工匠资格证。1912年他在阿维尼翁的一家五金店买了一卷印着橡木纹的墙纸，把它剪下来贴进素描里，就此发明了“拼贴画”。",
+      "quote": {
+        "text": "那几年毕加索和我对彼此说的话，以后再也不会有人说了。就算有人说，也没人能听懂，我们就像两个被绳子拴在一起的登山者。",
+        "original": "Les choses que Picasso et moi nous sommes dites pendant ces années-là, on ne les dira plus jamais...",
+        "source": "晚年回忆与毕加索创立立体主义的岁月"
+      },
+      "card_path": "artists/2026/08/2026-08-28-georges-braque.md"
     }
   ],
   "statistics": {
-    "total_artists": 15,
+    "total_artists": 16,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 7,
+      "m": 8,
       "f": 3
     },
     "by_column": {
@@ -705,7 +753,7 @@
       "her": 4,
       "east": 2,
       "overlooked": 0,
-      "modern": 2,
+      "modern": 3,
       "makers": 2,
       "wildcard": 0
     },
@@ -713,7 +761,7 @@
       "NL": 2,
       "IT": 7,
       "JP": 1,
-      "FR": 1,
+      "FR": 2,
       "ES": 1,
       "CN": 1
     },

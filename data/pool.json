@@ -765,7 +765,7 @@
         "name_en": "Georges Braque",
         "years": "1882-1963",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "康定斯基",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 145
+  "total_queued": 144
 }

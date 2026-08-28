@@ -26,6 +26,7 @@
 
 - [塞尚 Paul Cezanne](../artists/2026/08/2026-08-07-paul-cezanne.md) — 1839–1906, ♂, 后印象主义, 现代
 - [亨利·马蒂斯 Henri Matisse](../artists/2026/08/2026-08-14-henri-matisse.md) — 1869–1954, ♂, 现代主义, 现代
+- [乔治·布拉克 Georges Braque](../artists/2026/08/2026-08-28-georges-braque.md) — 1882–1963, ♂, 现代艺术, 现代
 
 ### 🇬🇧 英国 United Kingdom
 

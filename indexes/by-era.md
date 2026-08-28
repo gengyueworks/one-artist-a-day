@@ -51,6 +51,7 @@ _（待补充）_
 | 塞尚 Paul Cezanne | 法国 | ♂ | 现代 | [→](../artists/2026/08/2026-08-07-paul-cezanne.md) |
 | 亨利·马蒂斯 Henri Matisse | 法国 | ♂ | 现代 | [→](../artists/2026/08/2026-08-14-henri-matisse.md) |
 | 巴勃罗·毕加索 Pablo Picasso | 西班牙 | ♂ | 现代 | [→](../artists/2026/08/2026-08-21-pablo-picasso.md) |
+| 乔治·布拉克 Georges Braque | 法国 | ♂ | 现代 | [→](../artists/2026/08/2026-08-28-georges-braque.md) |
 
 ## 东方传统 Eastern Traditions
 

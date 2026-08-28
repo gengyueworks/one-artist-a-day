@@ -21,6 +21,7 @@
 | 2026-08-24 | 🎩 巨匠 Masters | [米开朗基罗](2026/08/2026-08-24-michelangelo-buonarroti.md) | `2026-08-24-michelangelo-buonarroti.md` |
 | 2026-08-25 | 👑 她 Her | [朱迪思·莱斯特](2026/08/2026-08-25-judith-leyster.md) | `2026-08-25-judith-leyster.md` |
 | 2026-08-26 | 🌊 东方 East | [顾恺之](2026/08/2026-08-26-gu-kaizhi.md) | `2026-08-26-gu-kaizhi.md` |
+| 2026-08-28 | 🖥️ 现代 Modern | [乔治·布拉克](2026/08/2026-08-28-georges-braque.md) | `2026-08-28-georges-braque.md` |
 <<<<<<< HEAD
 | 2026-08-11 | 👑 她 Her | [阿尔泰米西娅·真蒂莱斯基](2026/08/2026-08-11-artemisia-gentileschi.md) | `2026-08-11-artemisia-gentileschi.md` |
 =======
