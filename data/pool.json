@@ -942,7 +942,7 @@
         "name_en": "Auguste Rodin",
         "years": "1840-1917",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "布朗库西",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 144
+  "total_queued": 143
 }

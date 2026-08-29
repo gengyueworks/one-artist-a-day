@@ -738,14 +738,62 @@
         "source": "晚年回忆与毕加索创立立体主义的岁月"
       },
       "card_path": "artists/2026/08/2026-08-28-georges-braque.md"
+    },
+    {
+      "date": "2026-08-29",
+      "column": "makers",
+      "slug": "auguste-rodin",
+      "name_zh": "奥古斯特·罗丹",
+      "name_en": "Auguste Rodin",
+      "name_native": "Auguste Rodin",
+      "years": "1840–1917",
+      "birthplace": "法国 巴黎",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "现代艺术早期",
+      "movements": [
+        "印象派雕塑",
+        "现代雕塑"
+      ],
+      "mediums": [
+        "青铜",
+        "大理石",
+        "石膏"
+      ],
+      "gender": "m",
+      "hero_image": "https://www.artic.edu/artworks/719",
+      "hero_caption": "《加莱义民（让·达尔）》，1889年",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/719",
+      "verified": false,
+      "one_liner": "他把雕塑从高高的基座上拽下来，用带着指纹的坑洼表面，让冰冷的青铜和石膏长出了肌肉与神经。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 巴黎"
+      },
+      "key_work": {
+        "title": "加莱义民（让·达尔）",
+        "year": "1889年",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "看这件石膏原模，注意让·达尔那双大得不成比例的手。紧紧攥着城门钥匙的手指骨节突出，手臂上的血管清晰可见。再看他凹陷的脸颊和紧闭的双唇，表面保留着罗丹用手指刮擦、按压泥土留下的粗糙肌理。他故意放大了人物的手脚，把赴死前的沉重全都压在这具干瘪的躯体上。"
+      },
+      "fun_fact": "罗丹的工作室里有上百个专门装石膏零件的抽屉。他会把做好的手、脚、胳膊单独翻模，像搭积木一样拼接到不同的人物身上，《地狱之门》里很多受苦的灵魂其实共用着同一双手。",
+      "quote": {
+        "text": "我没有发明任何东西，我只是重新发现。",
+        "original": "Je n'invente rien, je redécouvre.",
+        "source": "罗丹访谈录《艺术》（1911年）"
+      },
+      "card_path": "artists/2026/08/2026-08-29-auguste-rodin.md"
     }
   ],
   "statistics": {
-    "total_artists": 16,
+    "total_artists": 17,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 8,
+      "m": 9,
       "f": 3
     },
     "by_column": {
@@ -754,14 +802,14 @@
       "east": 2,
       "overlooked": 0,
       "modern": 3,
-      "makers": 2,
+      "makers": 3,
       "wildcard": 0
     },
     "by_country": {
       "NL": 2,
       "IT": 7,
       "JP": 1,
-      "FR": 2,
+      "FR": 3,
       "ES": 1,
       "CN": 1
     },
