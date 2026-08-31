@@ -22,7 +22,7 @@
         "name_en": "Rembrandt van Rijn",
         "years": "1606-1669",
         "country": "荷兰",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "维米尔",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 143
+  "total_queued": 142
 }
