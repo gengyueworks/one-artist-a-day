@@ -213,7 +213,7 @@
         "name_en": "Lavinia Fontana",
         "years": "1552-1614",
         "country": "意大利",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "伊丽莎白·维热·勒布伦",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 142
+  "total_queued": 141
 }

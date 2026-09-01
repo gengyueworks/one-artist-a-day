@@ -30,6 +30,7 @@ _（待补充）_
 | 吉安·洛伦佐·贝尼尼 Gian Lorenzo Bernini | 意大利 | ♂ | 匠人 | [→](../artists/2026/08/2026-08-15-gian-lorenzo-bernini.md) |
 | 顾恺之 Gu Kaizhi | 中国 | ♂ | 东方 | [→](../artists/2026/08/2026-08-26-gu-kaizhi.md) |
 | 伦勃朗 Rembrandt van Rijn | 荷兰 | ♂ | 巨匠 | [→](../artists/2026/08/2026-08-31-rembrandt-van-rijn.md) |
+| 拉维尼娅·丰塔纳 Lavinia Fontana | 意大利 | ♀ | **她** | [→](../artists/2026/09/2026-09-01-lavinia-fontana.md) |
 | 朱迪思·莱斯特 Judith Leyster | 荷兰 | ♀ | **她** | [→](../artists/2026/08/2026-08-25-judith-leyster.md) |
 | 阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi | 🇮🇹 意大利 | ♀ | **她** | [→](../artists/2026/08/2026-08-03-artemisia-gentileschi.md) |
 
