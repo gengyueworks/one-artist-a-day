@@ -880,20 +880,67 @@
         "source": ""
       },
       "card_path": "artists/2026/09/2026-09-01-lavinia-fontana.md"
+    },
+    {
+      "date": "2026-09-02",
+      "column": "east",
+      "slug": "wu-daozi",
+      "name_zh": "吴道子",
+      "name_en": "Wu Daozi",
+      "name_native": "吴道子",
+      "years": "约685–约758",
+      "birthplace": "中国 禹州",
+      "country": "中国",
+      "country_code": "CN",
+      "era": "唐代",
+      "movements": [
+        "人物画",
+        "宗教画"
+      ],
+      "mediums": [
+        "水墨",
+        "壁画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《八十七神仙卷》（传），约8世纪",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://zh.wikipedia.org/wiki/%E5%85%AB%E5%8D%81%E4%B8%83%E7%A5%9E%E4%BB%99%E5%8D%B7",
+      "verified": false,
+      "one_liner": "他用粗细变化的线条打破了早期中国画均匀死板的铁线描，让画里人物的衣服像被风吹起来一样有了体积感。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "中国 禹州"
+      },
+      "key_work": {
+        "title": "八十七神仙卷（传）",
+        "year": "约8世纪",
+        "collection": "北京徐悲鸿纪念馆",
+        "detail": "看画面最前面几位神仙脚下的裙摆。这里的线条不是均匀的细线，而是中间粗、两头细，带有强烈的弹性。这种笔触让平面的布料看起来有了往后翻折的立体感，也就是后人说的“吴带当风”。"
+      },
+      "fun_fact": "唐代美术史家张彦远在书里记载，吴道子画壁画时经常只负责画黑白的墨线轮廓。上色的粗活，他都是直接外包给名叫史挍的工匠去填涂。",
+      "quote": {
+        "text": "臣无粉本，并记在心。",
+        "original": "",
+        "source": "朱景玄《唐朝名画录》"
+      },
+      "card_path": "artists/2026/09/2026-09-02-wu-daozi.md"
     }
   ],
   "statistics": {
-    "total_artists": 19,
+    "total_artists": 20,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 10,
+      "m": 11,
       "f": 4
     },
     "by_column": {
       "masters": 4,
       "her": 5,
-      "east": 2,
+      "east": 3,
       "overlooked": 0,
       "modern": 3,
       "makers": 3,
@@ -905,7 +952,7 @@
       "JP": 1,
       "FR": 3,
       "ES": 1,
-      "CN": 1
+      "CN": 2
     },
     "artists": 7
   }

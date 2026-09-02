@@ -383,7 +383,7 @@
         "name_en": "Wu Daozi",
         "years": "685-758",
         "country": "中国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "范宽",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 141
+  "total_queued": 140
 }
