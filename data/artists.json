@@ -927,27 +927,72 @@
         "source": "朱景玄《唐朝名画录》"
       },
       "card_path": "artists/2026/09/2026-09-02-wu-daozi.md"
+    },
+    {
+      "date": "2026-09-03",
+      "column": "overlooked",
+      "slug": "pieter-de-hooch",
+      "name_zh": "彼得·德·霍赫",
+      "name_en": "Pieter de Hooch",
+      "name_native": "Pieter de Hooch",
+      "years": "1629–1684",
+      "birthplace": "荷兰 鹿特丹",
+      "country": "荷兰",
+      "country_code": "NL",
+      "era": "荷兰黄金时代",
+      "movements": [
+        "风俗画"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "https://www.metmuseum.org/art/collection/search/459086",
+      "hero_caption": "《优雅环境中的休闲时光》，约1663–1665年",
+      "image_license": "Public Domain",
+      "image_source": "The Met (Open Access)",
+      "image_source_url": "https://www.metmuseum.org/art/collection/search/459086",
+      "verified": false,
+      "one_liner": "维米尔还在摸索透视时，是他率先在代尔夫特把连环房间和半掩的后门变成了光线的迷宫。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "荷兰 鹿特丹"
+      },
+      "key_work": {
+        "title": "Leisure Time in an Elegant Setting",
+        "year": "约1663–1665",
+        "collection": "The Met",
+        "detail": "看画面正后方那扇敞开的门，门外直接漏出了一小截阿姆斯特丹的运河与对岸的建筑。视线回到室内，注意地面上黑白相间的地砖，这些精确的透视线把整个空间的进深死死钉住。再看光线怎么穿过左侧，刚好落在站立女子的丝绸裙摆和右下角那只狗的背上。"
+      },
+      "fun_fact": "1655年的一份财产清单显示，富有的亚麻商人尤斯图斯·德·拉·格兰其一个人就拥有11幅德·霍赫的画；德·霍赫不仅卖画给他，还曾作为“仆人”陪他去莱顿和海牙出差。",
+      "quote": {
+        "text": "",
+        "original": "",
+        "source": ""
+      },
+      "card_path": "artists/2026/09/2026-09-03-pieter-de-hooch.md"
     }
   ],
   "statistics": {
-    "total_artists": 20,
+    "total_artists": 21,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 11,
+      "m": 12,
       "f": 4
     },
     "by_column": {
       "masters": 4,
       "her": 5,
       "east": 3,
-      "overlooked": 0,
+      "overlooked": 1,
       "modern": 3,
       "makers": 3,
       "wildcard": 0
     },
     "by_country": {
-      "NL": 3,
+      "NL": 4,
       "IT": 8,
       "JP": 1,
       "FR": 3,

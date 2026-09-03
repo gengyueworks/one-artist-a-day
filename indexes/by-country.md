@@ -10,6 +10,7 @@
 - [卡雷尔·法布里蒂乌斯 Carel Fabritius](../artists/2026/08/2026-08-13-carel-fabritius.md) — 1622–1654, ♂, 荷兰黄金时代, 遗珠
 - [朱迪思·莱斯特 Judith Leyster](../artists/2026/08/2026-08-25-judith-leyster.md) — 1609–1660, ♀, 荷兰黄金时代, **她**
 - [伦勃朗 Rembrandt van Rijn](../artists/2026/08/2026-08-31-rembrandt-van-rijn.md) — 1606–1669, ♂, 荷兰黄金时代, 巨匠
+- [彼得·德·霍赫 Pieter de Hooch](../artists/2026/09/2026-09-03-pieter-de-hooch.md) — 1629–1684, ♂, 荷兰黄金时代, 遗珠
 - （待补充：维米尔、埃舍尔等）
 
 ### 🇮🇹 意大利 Italy

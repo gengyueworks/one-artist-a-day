@@ -567,7 +567,7 @@
         "name_en": "Pieter de Hooch",
         "years": "1629-1684",
         "country": "荷兰",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "乔治·德·拉图尔",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 140
+  "total_queued": 139
 }
