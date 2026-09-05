@@ -56,6 +56,9 @@ _（待补充：列宾、康定斯基、夏加尔等）_
 
 _（待补充：蒙克、佐恩等）_
 
+### 罗马尼亚
+
+- [康斯坦丁·布朗库西 Constantin Brancusi](../artists/2026/09/2026-09-05-constantin-brancusi.md) — 1876–1957, ♂, 现代主义, 匠人
 ## 东亚 East Asia
 
 ### 🇯🇵 日本 Japan

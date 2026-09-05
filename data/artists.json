@@ -972,14 +972,62 @@
         "source": ""
       },
       "card_path": "artists/2026/09/2026-09-03-pieter-de-hooch.md"
+    },
+    {
+      "date": "2026-09-05",
+      "column": "makers",
+      "slug": "constantin-brancusi",
+      "name_zh": "康斯坦丁·布朗库西",
+      "name_en": "Constantin Brancusi",
+      "name_native": "Constantin Brâncuși",
+      "years": "1876–1957",
+      "birthplace": "罗马尼亚 霍比查",
+      "country": "罗马尼亚",
+      "country_code": "RO",
+      "era": "现代主义",
+      "movements": [
+        "现代主义",
+        "极简主义先驱"
+      ],
+      "mediums": [
+        "青铜",
+        "大理石",
+        "木材"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《空间中的鸟》，1923年",
+      "image_license": "Link Only",
+      "image_source": "The Met",
+      "image_source_url": "https://www.metmuseum.org/art/collection/search/490460",
+      "verified": false,
+      "one_liner": "当同代人还在用泥巴捏造逼真的肌肉时，他直接用刀在石头上切出了现代主义雕塑的第一道极简弧线。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "罗马尼亚 霍比查"
+      },
+      "key_work": {
+        "title": "空间中的鸟",
+        "year": "1923",
+        "collection": "纽约大都会艺术博物馆",
+        "detail": "视线从大理石底座往上移，你找不到翅膀、羽毛或是鸟喙。注意看中部那个微微膨胀的弧度，那是鸟类吸气准备起飞时鼓起的胸腔。再看最顶端，他没有雕刻头部，而是用一个干净利落的斜切面收尾，硬生生把向上冲刺的速度感截留在了半空中。"
+      },
+      "fun_fact": "1926年他的《空间中的鸟》运到纽约参展，美国海关官员看着这根光滑的铜柱，拒绝承认它是免税的“艺术品”。他们按“厨房用具或医院用品”的工业品名义征收了关税，布朗库西一纸诉状把美国海关告上法庭并最终胜诉，靠一份判决书重新定义了艺术的法律边界。",
+      "quote": {
+        "text": "简单并不是艺术的目标，但当你在接近事物真实本质的时候，你就会不由自主地走向简单。",
+        "original": "La simplicité n'est pas un but dans l'art, mais on arrive à la simplicité malgré soi en s'approchant du sens réel des choses.",
+        "source": "1925年布朗库西写于《This Quarter》杂志"
+      },
+      "card_path": "artists/2026/09/2026-09-05-constantin-brancusi.md"
     }
   ],
   "statistics": {
-    "total_artists": 21,
+    "total_artists": 22,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 12,
+      "m": 13,
       "f": 4
     },
     "by_column": {
@@ -988,7 +1036,7 @@
       "east": 3,
       "overlooked": 1,
       "modern": 3,
-      "makers": 3,
+      "makers": 4,
       "wildcard": 0
     },
     "by_country": {
@@ -997,7 +1045,8 @@
       "JP": 1,
       "FR": 3,
       "ES": 1,
-      "CN": 2
+      "CN": 2,
+      "RO": 1
     },
     "artists": 7
   }

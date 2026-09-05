@@ -949,7 +949,7 @@
         "name_en": "Constantin Brancusi",
         "years": "1876-1957",
         "country": "罗马尼亚",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "亨利·摩尔",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 139
+  "total_queued": 138
 }
