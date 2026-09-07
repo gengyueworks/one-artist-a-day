@@ -29,7 +29,7 @@
         "name_en": "Johannes Vermeer",
         "years": "1632-1675",
         "country": "荷兰",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "卡拉瓦乔",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 138
+  "total_queued": 137
 }

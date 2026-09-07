@@ -1020,18 +1020,63 @@
         "source": "1925年布朗库西写于《This Quarter》杂志"
       },
       "card_path": "artists/2026/09/2026-09-05-constantin-brancusi.md"
+    },
+    {
+      "date": "2026-09-07",
+      "column": "masters",
+      "slug": "johannes-vermeer",
+      "name_zh": "维米尔",
+      "name_en": "Johannes Vermeer",
+      "name_native": "Johannes Vermeer",
+      "years": "1632–1675",
+      "birthplace": "荷兰 代尔夫特",
+      "country": "荷兰",
+      "country_code": "NL",
+      "era": "荷兰黄金时代",
+      "movements": [
+        "荷兰风俗画"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-09-07-johannes-vermeer.jpg",
+      "hero_caption": "《熟睡的女孩》，约1656–1657年",
+      "image_license": "Public Domain",
+      "image_source": "The Met (Open Access)",
+      "image_source_url": "https://www.metmuseum.org/art/collection/search/437878",
+      "verified": false,
+      "one_liner": "他用比黄金还贵的天然群青颜料和近乎偏执的光学计算，把荷兰寻常家庭的角落冻结成了真空的几何标本。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "荷兰 代尔夫特"
+      },
+      "key_work": {
+        "title": "熟睡的女孩",
+        "year": "约1656–1657年",
+        "collection": "大都会艺术博物馆",
+        "detail": "看画面右上角那扇半开的门，X光扫描显示维米尔原本在门框里画了一个男人，右下角还有一只狗。但他最终用颜料把它们全盖住了，只留下一面空荡荡的过道墙壁。桌上倾倒的酒杯暗示了女孩刚刚喝醉，维米尔抹去了所有叙事性的活物，把世俗画面变成了绝对的静止。"
+      },
+      "fun_fact": "1675年维米尔暴毙，留下妻子、11个孩子和巨额债务。为了偿还全家多年欠下的617荷兰盾面包钱，他的遗孀不得不把两幅画抵押给代尔夫特的烘焙师亨德里克·范·拜腾。",
+      "quote": {
+        "text": "",
+        "original": "",
+        "source": ""
+      },
+      "card_path": "artists/2026/09/2026-09-07-johannes-vermeer.md"
     }
   ],
   "statistics": {
-    "total_artists": 22,
+    "total_artists": 23,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 13,
+      "m": 14,
       "f": 4
     },
     "by_column": {
-      "masters": 4,
+      "masters": 5,
       "her": 5,
       "east": 3,
       "overlooked": 1,
@@ -1040,7 +1085,7 @@
       "wildcard": 0
     },
     "by_country": {
-      "NL": 4,
+      "NL": 5,
       "IT": 8,
       "JP": 1,
       "FR": 3,
