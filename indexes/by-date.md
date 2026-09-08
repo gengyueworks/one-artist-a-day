@@ -13,6 +13,7 @@
 | 2026-09-03 | 🔦 遗珠 Overlooked | [彼得·德·霍赫](2026/09/2026-09-03-pieter-de-hooch.md) | `2026-09-03-pieter-de-hooch.md` |
 | 2026-09-05 | 🛠️ 匠人 Makers | [康斯坦丁·布朗库西](2026/09/2026-09-05-constantin-brancusi.md) | `2026-09-05-constantin-brancusi.md` |
 | 2026-09-07 | 🎩 巨匠 Masters | [维米尔](2026/09/2026-09-07-johannes-vermeer.md) | `2026-09-07-johannes-vermeer.md` |
+| 2026-09-08 | 👑 她 Her | [伊丽莎白·维热·勒布伦](2026/09/2026-09-08-elisabeth-vigee-le-brun.md) | `2026-09-08-elisabeth-vigee-le-brun.md` |
 
 ### 8 月
 

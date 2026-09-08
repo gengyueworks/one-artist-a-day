@@ -1065,19 +1065,66 @@
         "source": ""
       },
       "card_path": "artists/2026/09/2026-09-07-johannes-vermeer.md"
+    },
+    {
+      "date": "2026-09-08",
+      "column": "her",
+      "slug": "elisabeth-vigee-le-brun",
+      "name_zh": "伊丽莎白·维热·勒布伦",
+      "name_en": "Élisabeth Vigée Le Brun",
+      "name_native": "Élisabeth Louise Vigée Le Brun",
+      "years": "1755–1842",
+      "birthplace": "法国 巴黎",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "洛可可 / 新古典主义",
+      "movements": [
+        "洛可可",
+        "新古典主义"
+      ],
+      "mediums": [
+        "油画",
+        "色粉"
+      ],
+      "gender": "f",
+      "hero_image": "",
+      "hero_caption": "《戴草帽的自画像》，1782",
+      "image_license": "Link Only",
+      "image_source": "National Gallery, London",
+      "image_source_url": "https://www.nationalgallery.org.uk/paintings/elisabeth-louise-vigee-le-brun-self-portrait-in-a-straw-hat",
+      "verified": false,
+      "one_liner": "第一个在自画像里露齿大笑的法国宫廷女画师，用画笔把玛丽王后包装成慈母，又靠给全欧洲流亡贵族画像活过大革命。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 巴黎"
+      },
+      "key_work": {
+        "title": "戴草帽的自画像",
+        "year": "1782",
+        "collection": "伦敦国家美术馆",
+        "detail": "看她眼睛上方那片草帽投下的阴影。光线越过帽檐，精准地打在她的鼻尖和微张的嘴唇上，露出了几颗白牙。在当时的巴黎，画肖像露齿笑被视为严重违背礼仪的粗俗行为。她不仅笑了，还特意用高光强调了没有扑粉的自然卷发，左手握着调色板向观众宣告自己的职业。"
+      },
+      "fun_fact": "1789年10月逃离巴黎时，作为欧洲最赚钱的肖像画家，她口袋里只有80法郎。因为按照当时的法律，她画画赚来的巨额佣金全被她的艺术品商人丈夫合法占有了。",
+      "quote": {
+        "text": "我对绘画的热情是与生俱来的；它从未减退，我甚至觉得它随着时间的推移而增加了。",
+        "original": "Ma passion pour la peinture était innée; elle n'a jamais diminué, et je crois même qu'elle a augmenté avec le temps.",
+        "source": "《维热·勒布伦回忆录》"
+      },
+      "card_path": "artists/2026/09/2026-09-08-elisabeth-vigee-le-brun.md"
     }
   ],
   "statistics": {
-    "total_artists": 23,
+    "total_artists": 24,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 14,
-      "f": 4
+      "f": 5
     },
     "by_column": {
       "masters": 5,
-      "her": 5,
+      "her": 6,
       "east": 3,
       "overlooked": 1,
       "modern": 3,
@@ -1088,7 +1135,7 @@
       "NL": 5,
       "IT": 8,
       "JP": 1,
-      "FR": 3,
+      "FR": 4,
       "ES": 1,
       "CN": 2,
       "RO": 1

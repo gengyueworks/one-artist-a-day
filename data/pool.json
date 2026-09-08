@@ -220,7 +220,7 @@
         "name_en": "Elisabeth Vigee Le Brun",
         "years": "1755-1842",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "安杰莉卡·考夫曼",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 137
+  "total_queued": 136
 }
