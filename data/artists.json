@@ -1112,20 +1112,68 @@
         "source": "《维热·勒布伦回忆录》"
       },
       "card_path": "artists/2026/09/2026-09-08-elisabeth-vigee-le-brun.md"
+    },
+    {
+      "date": "2026-09-09",
+      "column": "east",
+      "slug": "fan-kuan",
+      "name_zh": "范宽",
+      "name_en": "Fan Kuan",
+      "name_native": "范中正",
+      "years": "约950–约1032",
+      "birthplace": "陕西 华原",
+      "country": "中国",
+      "country_code": "CN",
+      "era": "北宋",
+      "movements": [
+        "北宋山水",
+        "全景山水",
+        "北方山水画派"
+      ],
+      "mediums": [
+        "水墨",
+        "绢本"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《溪山行旅图》，约1000年",
+      "image_license": "Link Only",
+      "image_source": "台北故宫博物院",
+      "image_source_url": "https://theme.npm.edu.tw/selection/Article.aspx?sNo=04000961",
+      "verified": false,
+      "one_liner": "他用占据画面三分之二的巨碑式主峰，确立了北宋全景山水的绝对标准。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "陕西 华原"
+      },
+      "key_work": {
+        "title": "溪山行旅图",
+        "year": "约1000",
+        "collection": "台北故宫博物院",
+        "detail": "看画面右下角，几头骡子正驮着货物赶路。顺着骡队往右边树丛看，在树叶间藏着“范宽”两个极小的字，这是1958年台北故宫研究员李霖灿用放大镜才找出来的签名。再看占据大半幅画面的主峰，上面密密麻麻全是像雨点一样的垂直墨点，这种画法把北方黄土高原的粗糙石质表现得极其坚硬。"
+      },
+      "fun_fact": "他的本名其实叫范中正，因为性情温厚、不拘小节，关中当地人都管他叫“范宽”（宽在陕西话里有性子慢、随和的意思），久而久之本名反倒没人叫了。",
+      "quote": {
+        "text": "吾与其师于人者，未若师诸物也；吾与其师于物者，未若师诸心。",
+        "original": "",
+        "source": "《宣和画谱》"
+      },
+      "card_path": "artists/2026/09/2026-09-09-fan-kuan.md"
     }
   ],
   "statistics": {
-    "total_artists": 24,
+    "total_artists": 25,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 14,
+      "m": 15,
       "f": 5
     },
     "by_column": {
       "masters": 5,
       "her": 6,
-      "east": 3,
+      "east": 4,
       "overlooked": 1,
       "modern": 3,
       "makers": 4,
@@ -1137,7 +1185,7 @@
       "JP": 1,
       "FR": 4,
       "ES": 1,
-      "CN": 2,
+      "CN": 3,
       "RO": 1
     },
     "artists": 7

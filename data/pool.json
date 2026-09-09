@@ -390,7 +390,7 @@
         "name_en": "Fan Kuan",
         "years": "950-1032",
         "country": "中国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "郭熙",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 136
+  "total_queued": 135
 }

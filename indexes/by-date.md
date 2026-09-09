@@ -14,6 +14,7 @@
 | 2026-09-05 | 🛠️ 匠人 Makers | [康斯坦丁·布朗库西](2026/09/2026-09-05-constantin-brancusi.md) | `2026-09-05-constantin-brancusi.md` |
 | 2026-09-07 | 🎩 巨匠 Masters | [维米尔](2026/09/2026-09-07-johannes-vermeer.md) | `2026-09-07-johannes-vermeer.md` |
 | 2026-09-08 | 👑 她 Her | [伊丽莎白·维热·勒布伦](2026/09/2026-09-08-elisabeth-vigee-le-brun.md) | `2026-09-08-elisabeth-vigee-le-brun.md` |
+| 2026-09-09 | 🌊 东方 East | [范宽](2026/09/2026-09-09-fan-kuan.md) | `2026-09-09-fan-kuan.md` |
 
 ### 8 月
 
