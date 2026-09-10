@@ -1160,21 +1160,67 @@
         "source": "《宣和画谱》"
       },
       "card_path": "artists/2026/09/2026-09-09-fan-kuan.md"
+    },
+    {
+      "date": "2026-09-10",
+      "column": "overlooked",
+      "slug": "georges-de-la-tour",
+      "name_zh": "乔治·德·拉图尔",
+      "name_en": "Georges de La Tour",
+      "name_native": "Georges de La Tour",
+      "years": "1593–1652",
+      "birthplace": "法国 维克叙尔塞耶",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "巴洛克",
+      "movements": [
+        "卡拉瓦乔主义",
+        "古典主义"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-09-10-georges-de-la-tour.jpg",
+      "hero_caption": "《算命者》，约1630年代",
+      "image_license": "Public Domain",
+      "image_source": "The Met (Open Access)",
+      "image_source_url": "https://www.metmuseum.org/art/collection/search/436838",
+      "verified": false,
+      "one_liner": "他把卡拉瓦乔式的暴力光影变成了洛林平原上极度安静的静物画，却在死后被美术史彻底遗忘了近三百年。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 维克叙尔塞耶"
+      },
+      "key_work": {
+        "title": "算命者",
+        "year": "约1630年代",
+        "collection": "大都会艺术博物馆",
+        "detail": "视线直接找画面正中间那张苍白的少女脸庞。顺着她低垂的目光往下看，她的右手正拿着小剪刀，悄悄剪断阔少爷衣服上的金链子。再看最左侧那个半张脸藏在阴影里的女孩，她的手正从少爷口袋里把钱包摸出来。老妇人捏着少爷的手假装算命，三个女骗子靠眼神和手部动作完成了一场天衣无缝的连环盗窃。"
+      },
+      "fun_fact": "档案记录显示他在生活中是个性格暴躁的恶霸乡绅。1646年吕内维尔的居民向洛林公爵写信控告他，说他不仅纵容自家的狗踩坏平民庄稼，还把上门抗议的农民打得头破血流。",
+      "quote": {
+        "text": "",
+        "original": "",
+        "source": ""
+      },
+      "card_path": "artists/2026/09/2026-09-10-georges-de-la-tour.md"
     }
   ],
   "statistics": {
-    "total_artists": 25,
+    "total_artists": 26,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 15,
+      "m": 16,
       "f": 5
     },
     "by_column": {
       "masters": 5,
       "her": 6,
       "east": 4,
-      "overlooked": 1,
+      "overlooked": 2,
       "modern": 3,
       "makers": 4,
       "wildcard": 0
@@ -1183,7 +1229,7 @@
       "NL": 5,
       "IT": 8,
       "JP": 1,
-      "FR": 4,
+      "FR": 5,
       "ES": 1,
       "CN": 3,
       "RO": 1

@@ -574,7 +574,7 @@
         "name_en": "Georges de La Tour",
         "years": "1593-1652",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "让-巴蒂斯特·夏尔丹",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 135
+  "total_queued": 134
 }

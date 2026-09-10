@@ -33,6 +33,7 @@
 - [乔治·布拉克 Georges Braque](../artists/2026/08/2026-08-28-georges-braque.md) — 1882–1963, ♂, 现代艺术, 现代
 - [奥古斯特·罗丹 Auguste Rodin](../artists/2026/08/2026-08-29-auguste-rodin.md) — 1840–1917, ♂, 现代艺术早期, 匠人
 - [伊丽莎白·维热·勒布伦 Élisabeth Vigée Le Brun](../artists/2026/09/2026-09-08-elisabeth-vigee-le-brun.md) — 1755–1842, ♀, 洛可可 / 新古典主义, **她**
+- [乔治·德·拉图尔 Georges de La Tour](../artists/2026/09/2026-09-10-georges-de-la-tour.md) — 1593–1652, ♂, 巴洛克, 遗珠
 
 ### 🇬🇧 英国 United Kingdom
 
