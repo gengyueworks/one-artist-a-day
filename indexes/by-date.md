@@ -16,6 +16,7 @@
 | 2026-09-08 | 👑 她 Her | [伊丽莎白·维热·勒布伦](2026/09/2026-09-08-elisabeth-vigee-le-brun.md) | `2026-09-08-elisabeth-vigee-le-brun.md` |
 | 2026-09-09 | 🌊 东方 East | [范宽](2026/09/2026-09-09-fan-kuan.md) | `2026-09-09-fan-kuan.md` |
 | 2026-09-10 | 🔦 遗珠 Overlooked | [乔治·德·拉图尔](2026/09/2026-09-10-georges-de-la-tour.md) | `2026-09-10-georges-de-la-tour.md` |
+| 2026-09-11 | 🖥️ 现代 Modern | [康定斯基](2026/09/2026-09-11-wassily-kandinsky.md) | `2026-09-11-wassily-kandinsky.md` |
 
 ### 8 月
 

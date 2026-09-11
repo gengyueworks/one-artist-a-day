@@ -1206,14 +1206,63 @@
         "source": ""
       },
       "card_path": "artists/2026/09/2026-09-10-georges-de-la-tour.md"
+    },
+    {
+      "date": "2026-09-11",
+      "column": "modern",
+      "slug": "wassily-kandinsky",
+      "name_zh": "康定斯基",
+      "name_en": "Wassily Kandinsky",
+      "name_native": "Василий Кандинский",
+      "years": "1866–1944",
+      "birthplace": "俄罗斯 莫斯科",
+      "country": "俄罗斯",
+      "country_code": "RU",
+      "era": "现代艺术",
+      "movements": [
+        "抽象艺术",
+        "青骑士",
+        "包豪斯"
+      ],
+      "mediums": [
+        "油画",
+        "水彩",
+        "版画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《构图八号》（Composition VIII），1923年",
+      "image_license": "Link Only",
+      "image_source": "Solomon R. Guggenheim Museum",
+      "image_source_url": "https://www.guggenheim.org/artwork/1924",
+      "verified": false,
+      "one_liner": "他把绘画变成了可以直接“听”的交响乐，彻底清除了画布上的风景和人体，画出了西方美术史上第一张纯抽象水彩。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "俄罗斯 莫斯科"
+      },
+      "key_work": {
+        "title": "构图八号",
+        "year": "1923",
+        "collection": "纽约古根海姆美术馆",
+        "detail": "视线先落在左上角那个巨大的、带有紫色边缘的黑圈上，它像是一个强有力的重音。画面中间斜插着几条锋利的黑色直线，把背景分割成淡粉和浅黄的几何色块。右下角有一簇细小的半圆形和网格线，像是轻快跳跃的碎拍子。"
+      },
+      "fun_fact": "30岁之前他是个前途无量的法学学者。1896年，为了去慕尼黑学画画，他直接拒绝了爱沙尼亚多帕特大学提供给他的罗马法教授教职。",
+      "quote": {
+        "text": "色彩是琴键，眼睛是琴槌，灵魂是带有许多琴弦的钢琴。艺术家就是弹琴的手，有意地按下各个琴键，引起灵魂的震动。",
+        "original": "Цвет — это клавиш; глаз — молоток; душа — многострунный рояль. Художник есть рука, которая посредством того или иного клавиша целесообразно приводит в вибрацию человеческую душу.",
+        "source": "《论艺术的精神》（1911）"
+      },
+      "card_path": "artists/2026/09/2026-09-11-wassily-kandinsky.md"
     }
   ],
   "statistics": {
-    "total_artists": 26,
+    "total_artists": 27,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 16,
+      "m": 17,
       "f": 5
     },
     "by_column": {
@@ -1221,7 +1270,7 @@
       "her": 6,
       "east": 4,
       "overlooked": 2,
-      "modern": 3,
+      "modern": 4,
       "makers": 4,
       "wildcard": 0
     },
@@ -1232,7 +1281,8 @@
       "FR": 5,
       "ES": 1,
       "CN": 3,
-      "RO": 1
+      "RO": 1,
+      "RU": 1
     },
     "artists": 7
   }

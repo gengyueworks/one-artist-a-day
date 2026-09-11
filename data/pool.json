@@ -772,7 +772,7 @@
         "name_en": "Wassily Kandinsky",
         "years": "1866-1944",
         "country": "俄罗斯",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "克利",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 134
+  "total_queued": 133
 }

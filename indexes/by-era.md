@@ -64,6 +64,7 @@ _（待补充）_
 | 巴勃罗·毕加索 Pablo Picasso | 西班牙 | ♂ | 现代 | [→](../artists/2026/08/2026-08-21-pablo-picasso.md) |
 | 乔治·布拉克 Georges Braque | 法国 | ♂ | 现代 | [→](../artists/2026/08/2026-08-28-georges-braque.md) |
 | 康斯坦丁·布朗库西 Constantin Brancusi | 罗马尼亚 | ♂ | 匠人 | [→](../artists/2026/09/2026-09-05-constantin-brancusi.md) |
+| 康定斯基 Wassily Kandinsky | 俄罗斯 | ♂ | 现代 | [→](../artists/2026/09/2026-09-11-wassily-kandinsky.md) |
 
 ## 东方传统 Eastern Traditions
 

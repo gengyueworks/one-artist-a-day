@@ -53,7 +53,7 @@ _（待补充：鲁本斯、马格利特等）_
 
 ### 🇷🇺 俄罗斯 Russia
 
-_（待补充：列宾、康定斯基、夏加尔等）_
+- [康定斯基 Wassily Kandinsky](../artists/2026/09/2026-09-11-wassily-kandinsky.md) — 1866–1944, ♂, 现代艺术, 现代
 
 ### 北欧 Northern Europe
 
