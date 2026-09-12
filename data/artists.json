@@ -1255,14 +1255,62 @@
         "source": "《论艺术的精神》（1911）"
       },
       "card_path": "artists/2026/09/2026-09-11-wassily-kandinsky.md"
+    },
+    {
+      "date": "2026-09-12",
+      "column": "makers",
+      "slug": "henry-moore",
+      "name_zh": "亨利·摩尔",
+      "name_en": "Henry Moore",
+      "name_native": "",
+      "years": "1898–1986",
+      "birthplace": "英国 卡斯尔福德",
+      "country": "英国",
+      "country_code": "GB",
+      "era": "现代主义",
+      "movements": [
+        "现代雕塑",
+        "生物形态主义"
+      ],
+      "mediums": [
+        "青铜",
+        "石材",
+        "木材"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《斜倚的人体》，1938",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.tate.org.uk/art/artworks/moore-reclining-figure-n05301",
+      "verified": false,
+      "one_liner": "他在青铜和石头上凿出孔洞，让风景直接穿透人体，把雕塑变成了带有人类体温的起伏山脉。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "英国 卡斯尔福德"
+      },
+      "key_work": {
+        "title": "斜倚的人体",
+        "year": "1938",
+        "collection": "伦敦泰特美术馆",
+        "detail": "视线穿过这件绿色霍顿石雕塑胸腔和腹部巨大的孔洞，你能直接看到它背后的真实风景。注意看右侧高高耸立的膝盖，它没有骨骼和肌肉的起伏，而是像被风雨侵蚀的悬崖断层面。他连面部五官也完全抹去，只留下两个浅浅的凹坑作为眼睛。"
+      },
+      "fun_fact": "摩尔的工作室里堆满了从海滩捡来的鹅卵石、贝壳和动物骨头。1968年，生物学家朱丽叶·赫胥黎送给他一个巨大的大象头骨，他不仅把头骨当成雕塑的原型，还专门为头骨内部复杂的腔道制作了一整套蚀刻版画。",
+      "quote": {
+        "text": "孔洞本身可以和坚实的体块具有同等的形状意义。",
+        "original": "A hole can itself have as much shape-meaning as a solid mass.",
+        "source": "《雕塑家的目标》（The Sculptor's Aims），1934年"
+      },
+      "card_path": "artists/2026/09/2026-09-12-henry-moore.md"
     }
   ],
   "statistics": {
-    "total_artists": 27,
+    "total_artists": 28,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 17,
+      "m": 18,
       "f": 5
     },
     "by_column": {
@@ -1271,7 +1319,7 @@
       "east": 4,
       "overlooked": 2,
       "modern": 4,
-      "makers": 4,
+      "makers": 5,
       "wildcard": 0
     },
     "by_country": {
@@ -1282,7 +1330,8 @@
       "ES": 1,
       "CN": 3,
       "RO": 1,
-      "RU": 1
+      "RU": 1,
+      "GB": 1
     },
     "artists": 7
   }

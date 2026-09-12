@@ -956,7 +956,7 @@
         "name_en": "Henry Moore",
         "years": "1898-1986",
         "country": "英国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "芭芭拉·赫普沃斯",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 133
+  "total_queued": 132
 }

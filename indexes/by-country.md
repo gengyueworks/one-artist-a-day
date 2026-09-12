@@ -37,7 +37,7 @@
 
 ### 🇬🇧 英国 United Kingdom
 
-_（待补充：透纳、霍克尼等）_
+- [亨利·摩尔 Henry Moore](../artists/2026/09/2026-09-12-henry-moore.md) — 1898–1986, ♂, 现代主义, 匠人
 
 ### 🇩🇪 德国 Germany
 
