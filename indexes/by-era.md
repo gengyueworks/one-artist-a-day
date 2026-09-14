@@ -35,6 +35,7 @@ _（待补充）_
 | 维米尔 Johannes Vermeer | 荷兰 | ♂ | 巨匠 | [→](../artists/2026/09/2026-09-07-johannes-vermeer.md) |
 | 范宽 Fan Kuan | 中国 | ♂ | 东方 | [→](../artists/2026/09/2026-09-09-fan-kuan.md) |
 | 乔治·德·拉图尔 Georges de La Tour | 法国 | ♂ | 遗珠 | [→](../artists/2026/09/2026-09-10-georges-de-la-tour.md) |
+| 卡拉瓦乔 Michelangelo Merisi da Caravaggio | 意大利 | ♂ | 巨匠 | [→](../artists/2026/09/2026-09-14-caravaggio.md) |
 | 拉维尼娅·丰塔纳 Lavinia Fontana | 意大利 | ♀ | **她** | [→](../artists/2026/09/2026-09-01-lavinia-fontana.md) |
 | 朱迪思·莱斯特 Judith Leyster | 荷兰 | ♀ | **她** | [→](../artists/2026/08/2026-08-25-judith-leyster.md) |
 | 阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi | 🇮🇹 意大利 | ♀ | **她** | [→](../artists/2026/08/2026-08-03-artemisia-gentileschi.md) |

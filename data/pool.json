@@ -36,7 +36,7 @@
         "name_en": "Caravaggio",
         "years": "1571-1610",
         "country": "意大利",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "委拉斯开兹",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 132
+  "total_queued": 131
 }

@@ -18,6 +18,7 @@
 | 2026-09-10 | 🔦 遗珠 Overlooked | [乔治·德·拉图尔](2026/09/2026-09-10-georges-de-la-tour.md) | `2026-09-10-georges-de-la-tour.md` |
 | 2026-09-11 | 🖥️ 现代 Modern | [康定斯基](2026/09/2026-09-11-wassily-kandinsky.md) | `2026-09-11-wassily-kandinsky.md` |
 | 2026-09-12 | 🛠️ 匠人 Makers | [亨利·摩尔](2026/09/2026-09-12-henry-moore.md) | `2026-09-12-henry-moore.md` |
+| 2026-09-14 | 🎩 巨匠 Masters | [卡拉瓦乔](2026/09/2026-09-14-caravaggio.md) | `2026-09-14-caravaggio.md` |
 
 ### 8 月
 

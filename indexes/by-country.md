@@ -24,6 +24,7 @@
 - [多纳泰罗 Donatello](../artists/2026/08/2026-08-22-donatello.md) — 1386–1466, ♂, 文艺复兴早期, 匠人
 - [米开朗基罗 Michelangelo Buonarroti](../artists/2026/08/2026-08-24-michelangelo-buonarroti.md) — 1475–1564, ♂, 文艺复兴高潮期, 巨匠
 - [拉维尼娅·丰塔纳 Lavinia Fontana](../artists/2026/09/2026-09-01-lavinia-fontana.md) — 1552–1614, ♀, 风格主义, **她**
+- [卡拉瓦乔 Michelangelo Merisi da Caravaggio](../artists/2026/09/2026-09-14-caravaggio.md) — 1571–1610, ♂, 巴洛克, 巨匠
 - （待补充：达芬奇、米开朗基罗、拉斐尔、卡拉瓦乔、波提切利、提香等）
 
 ### 🇫🇷 法国 France

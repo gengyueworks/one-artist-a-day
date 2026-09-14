@@ -1303,18 +1303,64 @@
         "source": "《雕塑家的目标》（The Sculptor's Aims），1934年"
       },
       "card_path": "artists/2026/09/2026-09-12-henry-moore.md"
+    },
+    {
+      "date": "2026-09-14",
+      "column": "masters",
+      "slug": "caravaggio",
+      "name_zh": "卡拉瓦乔",
+      "name_en": "Michelangelo Merisi da Caravaggio",
+      "name_native": "Michelangelo Merisi da Caravaggio",
+      "years": "1571–1610",
+      "birthplace": "意大利 米兰",
+      "country": "意大利",
+      "country_code": "IT",
+      "era": "巴洛克",
+      "movements": [
+        "巴洛克",
+        "暗色调主义"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-09-14-caravaggio.jpg",
+      "hero_caption": "《音乐家们》，1597",
+      "image_license": "Public Domain",
+      "image_source": "The Met (Open Access)",
+      "image_source_url": "https://www.metmuseum.org/art/collection/search/435844",
+      "verified": false,
+      "one_liner": "把罗马街头的流氓拉进画室扮作圣徒，用剧场般的强光劈开黑暗，硬生生砸出了巴洛克艺术的血肉。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "意大利 米兰"
+      },
+      "key_work": {
+        "title": "音乐家们",
+        "year": "1597",
+        "collection": "大都会艺术博物馆",
+        "detail": "看画面右后方那个拿着号角的男孩，那是卡拉瓦乔本人的脸，他正越过同伴的肩膀死死盯着你。再看前景中央那把鲁特琴，琴弦被画得根根分明，男孩的手指正按在弦上调音，你能感觉到肌肉微小的紧绷感。左下角散落的乐谱边缘自然卷曲，上面隐约能辨认出当时流行的牧歌音符。"
+      },
+      "fun_fact": "1604年4月24日，罗马警察局的审讯记录显示，卡拉瓦乔在摩尔人酒馆因为一盘洋蓟到底是用黄油还是菜油做的，和酒保发生激烈争执，直接把盘子砸在了对方脸上。",
+      "quote": {
+        "text": "对我来说，『好人』这个词的意思就是懂得把事情做好。所以一个好画家，就是懂得画好画，并且善于模仿自然事物的人。",
+        "original": "Un pittore valent'huomo che sappi depinger bene et imitar bene le cose naturali.",
+        "source": "1603年罗马法庭诽谤案审讯记录"
+      },
+      "card_path": "artists/2026/09/2026-09-14-caravaggio.md"
     }
   ],
   "statistics": {
-    "total_artists": 28,
+    "total_artists": 29,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 18,
+      "m": 19,
       "f": 5
     },
     "by_column": {
-      "masters": 5,
+      "masters": 6,
       "her": 6,
       "east": 4,
       "overlooked": 2,
@@ -1324,7 +1370,7 @@
     },
     "by_country": {
       "NL": 5,
-      "IT": 8,
+      "IT": 9,
       "JP": 1,
       "FR": 5,
       "ES": 1,
