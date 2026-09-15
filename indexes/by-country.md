@@ -63,6 +63,9 @@ _（待补充：蒙克、佐恩等）_
 ### 罗马尼亚
 
 - [康斯坦丁·布朗库西 Constantin Brancusi](../artists/2026/09/2026-09-05-constantin-brancusi.md) — 1876–1957, ♂, 现代主义, 匠人
+### 瑞士
+
+- [安杰莉卡·考夫曼 Angelica Kauffman](../artists/2026/09/2026-09-15-angelica-kauffman.md) — 1741–1807, ♀, 新古典主义, **她**
 ## 东亚 East Asia
 
 ### 🇯🇵 日本 Japan

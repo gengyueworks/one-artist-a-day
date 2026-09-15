@@ -1349,19 +1349,67 @@
         "source": "1603年罗马法庭诽谤案审讯记录"
       },
       "card_path": "artists/2026/09/2026-09-14-caravaggio.md"
+    },
+    {
+      "date": "2026-09-15",
+      "column": "her",
+      "slug": "angelica-kauffman",
+      "name_zh": "安杰莉卡·考夫曼",
+      "name_en": "Angelica Kauffman",
+      "name_native": "Maria Anna Angelika Kauffmann",
+      "years": "1741–1807",
+      "birthplace": "瑞士 库尔",
+      "country": "瑞士",
+      "country_code": "CH",
+      "era": "新古典主义",
+      "movements": [
+        "新古典主义",
+        "浪漫主义"
+      ],
+      "mediums": [
+        "油画",
+        "壁画",
+        "版画"
+      ],
+      "gender": "f",
+      "hero_image": "images/2026-09-15-angelica-kauffman.jpg",
+      "hero_caption": "《休·摩根夫人与女儿》，约1771年",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/12658",
+      "verified": false,
+      "one_liner": "英国皇家艺术学院创办时唯二的女性之一，她无视了“女人只能画花鸟肖像”的规矩，硬是用男性专属的历史画在十八世纪的伦敦砸开了大门。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "瑞士 库尔"
+      },
+      "key_work": {
+        "title": "休·摩根夫人与女儿",
+        "year": "约1771",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "看画面右侧小女孩手里的那串花环。她正把这条花环绕在母亲的肩膀上，而母亲的左手轻轻托住了女儿的手腕。考夫曼没有让这对母女僵硬地排排坐，而是用一条花环和两只交叠的手，串起了一个流动的动作。注意母亲裙摆上丝绸的高光，那种轻盈的褶皱质感，是她常年研究古典雕塑衣纹的直接结果。"
+      },
+      "fun_fact": "英国著名画家乔舒亚·雷诺兹曾在他的私人记事本里亲昵地称呼她为“天使小姐”（Miss Angel）。两人在1767年互相为对方画了肖像，当时的伦敦社交圈甚至疯传雷诺兹向她求过婚。",
+      "quote": {
+        "text": "罗马仍然是艺术家唯一能够生活和工作的地方。",
+        "original": "Rom ist doch der einzige Ort, wo der Künstler leben und arbeiten kann.",
+        "source": "1788年致歌德的信"
+      },
+      "card_path": "artists/2026/09/2026-09-15-angelica-kauffman.md"
     }
   ],
   "statistics": {
-    "total_artists": 29,
+    "total_artists": 30,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 19,
-      "f": 5
+      "f": 6
     },
     "by_column": {
       "masters": 6,
-      "her": 6,
+      "her": 7,
       "east": 4,
       "overlooked": 2,
       "modern": 4,
@@ -1377,7 +1425,8 @@
       "CN": 3,
       "RO": 1,
       "RU": 1,
-      "GB": 1
+      "GB": 1,
+      "CH": 1
     },
     "artists": 7
   }

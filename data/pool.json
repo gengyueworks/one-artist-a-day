@@ -227,7 +227,7 @@
         "name_en": "Angelica Kauffman",
         "years": "1741-1807",
         "country": "瑞士",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "罗莎·博纳尔",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 131
+  "total_queued": 130
 }

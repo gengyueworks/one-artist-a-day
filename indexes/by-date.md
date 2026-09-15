@@ -19,6 +19,7 @@
 | 2026-09-11 | 🖥️ 现代 Modern | [康定斯基](2026/09/2026-09-11-wassily-kandinsky.md) | `2026-09-11-wassily-kandinsky.md` |
 | 2026-09-12 | 🛠️ 匠人 Makers | [亨利·摩尔](2026/09/2026-09-12-henry-moore.md) | `2026-09-12-henry-moore.md` |
 | 2026-09-14 | 🎩 巨匠 Masters | [卡拉瓦乔](2026/09/2026-09-14-caravaggio.md) | `2026-09-14-caravaggio.md` |
+| 2026-09-15 | 👑 她 Her | [安杰莉卡·考夫曼](2026/09/2026-09-15-angelica-kauffman.md) | `2026-09-15-angelica-kauffman.md` |
 
 ### 8 月
 
