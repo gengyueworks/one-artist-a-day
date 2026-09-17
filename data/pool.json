@@ -581,7 +581,7 @@
         "name_en": "Jean-Baptiste-Simeon Chardin",
         "years": "1699-1779",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "古斯塔夫·卡耶博特",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 130
+  "total_queued": 129
 }

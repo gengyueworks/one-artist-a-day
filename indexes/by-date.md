@@ -20,6 +20,7 @@
 | 2026-09-12 | 🛠️ 匠人 Makers | [亨利·摩尔](2026/09/2026-09-12-henry-moore.md) | `2026-09-12-henry-moore.md` |
 | 2026-09-14 | 🎩 巨匠 Masters | [卡拉瓦乔](2026/09/2026-09-14-caravaggio.md) | `2026-09-14-caravaggio.md` |
 | 2026-09-15 | 👑 她 Her | [安杰莉卡·考夫曼](2026/09/2026-09-15-angelica-kauffman.md) | `2026-09-15-angelica-kauffman.md` |
+| 2026-09-17 | 🔦 遗珠 Overlooked | [让-巴蒂斯特·西梅翁·夏尔丹](2026/09/2026-09-17-jean-baptiste-simeon-chardin.md) | `2026-09-17-jean-baptiste-simeon-chardin.md` |
 
 ### 8 月
 

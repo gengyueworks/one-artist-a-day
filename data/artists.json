@@ -1397,21 +1397,68 @@
         "source": "1788年致歌德的信"
       },
       "card_path": "artists/2026/09/2026-09-15-angelica-kauffman.md"
+    },
+    {
+      "date": "2026-09-17",
+      "column": "overlooked",
+      "slug": "jean-baptiste-simeon-chardin",
+      "name_zh": "让-巴蒂斯特·西梅翁·夏尔丹",
+      "name_en": "Jean-Baptiste-Siméon Chardin",
+      "name_native": "Jean-Baptiste-Siméon Chardin",
+      "years": "1699–1779",
+      "birthplace": "法国 巴黎",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "洛可可时期",
+      "movements": [
+        "静物画",
+        "风俗画"
+      ],
+      "mediums": [
+        "油画",
+        "色粉画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《鳐鱼》，1728年",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://collections.louvre.fr/en/ark:/53355/cl010062826",
+      "verified": false,
+      "one_liner": "当凡尔赛宫的画师们忙着用粉色颜料画裸女和丘比特时，他用一辈子时间在巴黎的厨房里盯着反光的铜锅和被剖开的死鱼。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 巴黎"
+      },
+      "key_work": {
+        "title": "鳐鱼",
+        "year": "1728",
+        "collection": "巴黎卢浮宫",
+        "detail": "看画面正中央那条挂在铁钩上的鳐鱼，腹部被完全剖开，暗红色的内脏和白色的软骨直接暴露在光线下。注意左下角那只背毛竖起的猫，它正踩在生蚝壳上弓起身体对着鳐鱼哈气。再看右侧那口铜锅边缘的高光，夏尔丹只用了几笔厚涂的白颜料，就把金属在暗处的冷硬反光交代得明明白白。"
+      },
+      "fun_fact": "晚年的夏尔丹因为长期接触油画颜料导致铅中毒，加上视力严重衰退，在1771年被迫彻底放弃了油画。七十二岁的他改用没有刺鼻气味的色粉笔在纸上画自画像，居然靠着这门新手艺迎来了创作的第二春。",
+      "quote": {
+        "text": "我们用颜料作画，但真正用来描绘的是情感。",
+        "original": "On se sert de couleurs, mais on peint avec le sentiment.",
+        "source": "查尔斯-尼古拉斯·科钦撰写的夏尔丹悼文，1780年"
+      },
+      "card_path": "artists/2026/09/2026-09-17-jean-baptiste-simeon-chardin.md"
     }
   ],
   "statistics": {
-    "total_artists": 30,
+    "total_artists": 31,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 19,
+      "m": 20,
       "f": 6
     },
     "by_column": {
       "masters": 6,
       "her": 7,
       "east": 4,
-      "overlooked": 2,
+      "overlooked": 3,
       "modern": 4,
       "makers": 5,
       "wildcard": 0
@@ -1420,7 +1467,7 @@
       "NL": 5,
       "IT": 9,
       "JP": 1,
-      "FR": 5,
+      "FR": 6,
       "ES": 1,
       "CN": 3,
       "RO": 1,
