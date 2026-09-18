@@ -1444,14 +1444,63 @@
         "source": "查尔斯-尼古拉斯·科钦撰写的夏尔丹悼文，1780年"
       },
       "card_path": "artists/2026/09/2026-09-17-jean-baptiste-simeon-chardin.md"
+    },
+    {
+      "date": "2026-09-18",
+      "column": "modern",
+      "slug": "paul-klee",
+      "name_zh": "保罗·克利",
+      "name_en": "Paul Klee",
+      "name_native": "Paul Klee",
+      "years": "1879–1940",
+      "birthplace": "瑞士 慕尼黑布赫塞",
+      "country": "瑞士",
+      "country_code": "CH",
+      "era": "现代艺术",
+      "movements": [
+        "表现主义",
+        "包豪斯",
+        "超现实主义"
+      ],
+      "mediums": [
+        "水彩",
+        "油画",
+        "版画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《推特机器》，1922年",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.moma.org/collection/works/79986",
+      "verified": false,
+      "one_liner": "他把绘画变成了“牵着一根线条去散步”，用音乐的复调法则在方寸之间搭建童话与几何的迷宫。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "瑞士 慕尼黑布赫塞"
+      },
+      "key_work": {
+        "title": "推特机器",
+        "year": "1922",
+        "collection": "纽约现代艺术博物馆",
+        "detail": "看画面正下方那个手摇曲柄。它连着一根歪歪扭扭的铁丝，上面停着四只长着尖嘴的机器鸟。最左边那只鸟的嘴朝天张开，舌头画成了一个红色的惊叹号。"
+      },
+      "fun_fact": "从1911年起，克利给自己的每一件作品都编了号。他用一本厚厚的黑色账本记录，按年份和字母顺序给九千多张画上了户口，连一张几厘米大的草图都不放过。",
+      "quote": {
+        "text": "艺术并不描绘可见的东西，而是把不可见的东西创造出来。",
+        "original": "Kunst gibt nicht das Sichtbare wieder, sondern macht sichtbar.",
+        "source": "《创作信条》，1920年"
+      },
+      "card_path": "artists/2026/09/2026-09-18-paul-klee.md"
     }
   ],
   "statistics": {
-    "total_artists": 31,
+    "total_artists": 32,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 20,
+      "m": 21,
       "f": 6
     },
     "by_column": {
@@ -1459,7 +1508,7 @@
       "her": 7,
       "east": 4,
       "overlooked": 3,
-      "modern": 4,
+      "modern": 5,
       "makers": 5,
       "wildcard": 0
     },
@@ -1473,7 +1522,7 @@
       "RO": 1,
       "RU": 1,
       "GB": 1,
-      "CH": 1
+      "CH": 2
     },
     "artists": 7
   }

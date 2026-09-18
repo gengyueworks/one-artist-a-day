@@ -67,6 +67,7 @@ _（待补充：蒙克、佐恩等）_
 ### 瑞士
 
 - [安杰莉卡·考夫曼 Angelica Kauffman](../artists/2026/09/2026-09-15-angelica-kauffman.md) — 1741–1807, ♀, 新古典主义, **她**
+- [保罗·克利 Paul Klee](../artists/2026/09/2026-09-18-paul-klee.md) — 1879–1940, ♂, 现代艺术, 现代
 ## 东亚 East Asia
 
 ### 🇯🇵 日本 Japan

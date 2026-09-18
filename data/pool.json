@@ -779,7 +779,7 @@
         "name_en": "Paul Klee",
         "years": "1879-1940",
         "country": "瑞士",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "蒙德里安",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 129
+  "total_queued": 128
 }

@@ -70,6 +70,7 @@ _（待补充）_
 | 康斯坦丁·布朗库西 Constantin Brancusi | 罗马尼亚 | ♂ | 匠人 | [→](../artists/2026/09/2026-09-05-constantin-brancusi.md) |
 | 康定斯基 Wassily Kandinsky | 俄罗斯 | ♂ | 现代 | [→](../artists/2026/09/2026-09-11-wassily-kandinsky.md) |
 | 亨利·摩尔 Henry Moore | 英国 | ♂ | 匠人 | [→](../artists/2026/09/2026-09-12-henry-moore.md) |
+| 保罗·克利 Paul Klee | 瑞士 | ♂ | 现代 | [→](../artists/2026/09/2026-09-18-paul-klee.md) |
 
 ## 东方传统 Eastern Traditions
 
