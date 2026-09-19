@@ -963,7 +963,7 @@
         "name_en": "Barbara Hepworth",
         "years": "1903-1975",
         "country": "英国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "亚历山大·考尔德",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 128
+  "total_queued": 127
 }

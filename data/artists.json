@@ -1493,15 +1493,64 @@
         "source": "《创作信条》，1920年"
       },
       "card_path": "artists/2026/09/2026-09-18-paul-klee.md"
+    },
+    {
+      "date": "2026-09-19",
+      "column": "makers",
+      "slug": "barbara-hepworth",
+      "name_zh": "芭芭拉·赫普沃斯",
+      "name_en": "Barbara Hepworth",
+      "name_native": "",
+      "years": "1903–1975",
+      "birthplace": "英国 韦克菲尔德",
+      "country": "英国",
+      "country_code": "GB",
+      "era": "现代主义",
+      "movements": [
+        "现代主义雕塑",
+        "抽象艺术",
+        "圣艾夫斯画派"
+      ],
+      "mediums": [
+        "木材",
+        "石材",
+        "青铜"
+      ],
+      "gender": "f",
+      "hero_image": "",
+      "hero_caption": "《海洋》，1946年",
+      "image_license": "Link Only",
+      "image_source": "Tate",
+      "image_source_url": "https://www.tate.org.uk/art/artworks/hepworth-pelagos-t00699",
+      "verified": false,
+      "one_liner": "她在坚硬的石头中间凿开一个洞，让大西洋的风和康沃尔的风景直接穿过雕塑的身体。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "英国 韦克菲尔德"
+      },
+      "key_work": {
+        "title": "海洋",
+        "year": "1946",
+        "collection": "伦敦泰特美术馆",
+        "detail": "看这块榆木内部被掏空的球形空间，以及连接两端的拉紧棉线。木头外侧保留了原本粗糙的棕色纹理，内侧却被刮平并涂成了冷调的浅蓝色。那几根像乐器琴弦一样的线，在视觉上死死拽住木头的两端，制造出一种随时会回弹的物理张力。"
+      },
+      "fun_fact": "1954年，她收到了一批从尼日利亚运来的非洲桃花心木，重达17吨。因为原木实在太大，她不得不雇人拆掉圣艾夫斯工作室的一堵墙，才把这堆巨木搬进院子，后来这些木头被她雕成了代表作《科林斯》。",
+      "quote": {
+        "text": "我，作为雕塑家，就是风景本身。我是形体，也是空洞；是张力，也是轮廓。",
+        "original": "I, the sculptor, am the landscape. I am the form and I am the hollow, the thrust and the contour.",
+        "source": "《芭芭拉·赫普沃斯：图文自传》（1970年）"
+      },
+      "card_path": "artists/2026/09/2026-09-19-barbara-hepworth.md"
     }
   ],
   "statistics": {
-    "total_artists": 32,
+    "total_artists": 33,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 21,
-      "f": 6
+      "f": 7
     },
     "by_column": {
       "masters": 6,
@@ -1509,7 +1558,7 @@
       "east": 4,
       "overlooked": 3,
       "modern": 5,
-      "makers": 5,
+      "makers": 6,
       "wildcard": 0
     },
     "by_country": {
@@ -1521,7 +1570,7 @@
       "CN": 3,
       "RO": 1,
       "RU": 1,
-      "GB": 1,
+      "GB": 2,
       "CH": 2
     },
     "artists": 7

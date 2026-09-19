@@ -71,6 +71,7 @@ _（待补充）_
 | 康定斯基 Wassily Kandinsky | 俄罗斯 | ♂ | 现代 | [→](../artists/2026/09/2026-09-11-wassily-kandinsky.md) |
 | 亨利·摩尔 Henry Moore | 英国 | ♂ | 匠人 | [→](../artists/2026/09/2026-09-12-henry-moore.md) |
 | 保罗·克利 Paul Klee | 瑞士 | ♂ | 现代 | [→](../artists/2026/09/2026-09-18-paul-klee.md) |
+| 芭芭拉·赫普沃斯 Barbara Hepworth | 英国 | ♀ | 匠人 | [→](../artists/2026/09/2026-09-19-barbara-hepworth.md) |
 
 ## 东方传统 Eastern Traditions
 
