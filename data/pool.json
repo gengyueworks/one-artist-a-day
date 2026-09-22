@@ -234,7 +234,7 @@
         "name_en": "Rosa Bonheur",
         "years": "1822-1899",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "贝尔特·莫里索",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 127
+  "total_queued": 126
 }

@@ -23,6 +23,7 @@
 | 2026-09-17 | 🔦 遗珠 Overlooked | [让-巴蒂斯特·西梅翁·夏尔丹](2026/09/2026-09-17-jean-baptiste-simeon-chardin.md) | `2026-09-17-jean-baptiste-simeon-chardin.md` |
 | 2026-09-18 | 🖥️ 现代 Modern | [保罗·克利](2026/09/2026-09-18-paul-klee.md) | `2026-09-18-paul-klee.md` |
 | 2026-09-19 | 🛠️ 匠人 Makers | [芭芭拉·赫普沃斯](2026/09/2026-09-19-barbara-hepworth.md) | `2026-09-19-barbara-hepworth.md` |
+| 2026-09-22 | 👑 她 Her | [罗莎·博纳尔](2026/09/2026-09-22-rosa-bonheur.md) | `2026-09-22-rosa-bonheur.md` |
 
 ### 8 月
 

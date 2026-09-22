@@ -37,6 +37,7 @@ _（待补充）_
 | 乔治·德·拉图尔 Georges de La Tour | 法国 | ♂ | 遗珠 | [→](../artists/2026/09/2026-09-10-georges-de-la-tour.md) |
 | 卡拉瓦乔 Michelangelo Merisi da Caravaggio | 意大利 | ♂ | 巨匠 | [→](../artists/2026/09/2026-09-14-caravaggio.md) |
 | 让-巴蒂斯特·西梅翁·夏尔丹 Jean-Baptiste-Siméon Chardin | 法国 | ♂ | 遗珠 | [→](../artists/2026/09/2026-09-17-jean-baptiste-simeon-chardin.md) |
+| 罗莎·博纳尔 Rosa Bonheur | 法国 | ♀ | **她** | [→](../artists/2026/09/2026-09-22-rosa-bonheur.md) |
 | 拉维尼娅·丰塔纳 Lavinia Fontana | 意大利 | ♀ | **她** | [→](../artists/2026/09/2026-09-01-lavinia-fontana.md) |
 | 朱迪思·莱斯特 Judith Leyster | 荷兰 | ♀ | **她** | [→](../artists/2026/08/2026-08-25-judith-leyster.md) |
 | 阿尔泰米西娅·真蒂莱斯基 Artemisia Gentileschi | 🇮🇹 意大利 | ♀ | **她** | [→](../artists/2026/08/2026-08-03-artemisia-gentileschi.md) |
