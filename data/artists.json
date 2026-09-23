@@ -1589,20 +1589,67 @@
         "source": "安娜·克伦普克所著传记《罗莎·博纳尔》"
       },
       "card_path": "artists/2026/09/2026-09-22-rosa-bonheur.md"
+    },
+    {
+      "date": "2026-09-23",
+      "column": "east",
+      "slug": "guo-xi",
+      "name_zh": "郭熙",
+      "name_en": "Guo Xi",
+      "name_native": "郭熙",
+      "years": "约1020–约1090",
+      "birthplace": "中国 河南温县",
+      "country": "中国",
+      "country_code": "CN",
+      "era": "北宋",
+      "movements": [
+        "北宋院体山水",
+        "李郭画派"
+      ],
+      "mediums": [
+        "水墨绢本",
+        "水墨纸本"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-09-23-guo-xi.jpg",
+      "hero_caption": "《双松水阁图》，14–15世纪",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/105786",
+      "verified": false,
+      "one_liner": "他为中国山水画定下了高远、深远、平远的视觉法则，把巨碑式大山变成了一个可以走进去的真实空间。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "中国 河南温县"
+      },
+      "key_work": {
+        "title": "双松水阁图",
+        "year": "14–15世纪",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "看画面正前方那两棵纠缠的老松树。树枝末端向下弯曲，像螃蟹的爪子一样锐利地抓向空中，这是郭熙一派标志性的『蟹爪枝』画法。再看松树掩映下的那座水阁，屋顶线条极简，与背后大面积留白的江水融为一体，把视线直接推向远处的淡墨山影。"
+      },
+      "fun_fact": "宋神宗死后，新皇帝宋哲宗不喜欢郭熙的画。宫里把他的巨幅山水全部从墙上扯下来退回内库，据《画继》记载，后来有人去库房办事，发现工匠竟然拿着郭熙的画当抹布擦桌子。",
+      "quote": {
+        "text": "春山澹冶而如笑，夏山苍翠而如滴，秋山明净而如妆，冬山惨淡而如睡。",
+        "original": "春山澹冶而如笑，夏山苍翠而如滴，秋山明净而如妆，冬山惨淡而如睡。",
+        "source": "《林泉高致》"
+      },
+      "card_path": "artists/2026/09/2026-09-23-guo-xi.md"
     }
   ],
   "statistics": {
-    "total_artists": 34,
+    "total_artists": 35,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 21,
+      "m": 22,
       "f": 8
     },
     "by_column": {
       "masters": 6,
       "her": 8,
-      "east": 4,
+      "east": 5,
       "overlooked": 3,
       "modern": 5,
       "makers": 6,
@@ -1614,7 +1661,7 @@
       "JP": 1,
       "FR": 7,
       "ES": 1,
-      "CN": 3,
+      "CN": 4,
       "RO": 1,
       "RU": 1,
       "GB": 2,

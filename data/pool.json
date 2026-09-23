@@ -397,7 +397,7 @@
         "name_en": "Guo Xi",
         "years": "1020-1090",
         "country": "中国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "李唐",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 126
+  "total_queued": 125
 }
