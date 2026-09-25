@@ -1636,14 +1636,61 @@
         "source": "《林泉高致》"
       },
       "card_path": "artists/2026/09/2026-09-23-guo-xi.md"
+    },
+    {
+      "date": "2026-09-25",
+      "column": "modern",
+      "slug": "piet-mondrian",
+      "name_zh": "皮特·蒙德里安",
+      "name_en": "Piet Mondrian",
+      "name_native": "Pieter Cornelis Mondriaan",
+      "years": "1872–1944",
+      "birthplace": "荷兰 阿默斯福特",
+      "country": "荷兰",
+      "country_code": "NL",
+      "era": "现代艺术",
+      "movements": [
+        "风格派",
+        "新造型主义",
+        "抽象艺术"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-09-25-piet-mondrian.jpg",
+      "hero_caption": "《菱形构图：黄、黑、蓝、红与灰》，1921",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/109819",
+      "verified": false,
+      "one_liner": "他用尺子和红黄蓝三原色把宇宙拆解成了最基础的网格，证明了没有曲线和具象也能画出爵士乐的节奏。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "荷兰 阿默斯福特"
+      },
+      "key_work": {
+        "title": "菱形构图：黄、黑、蓝、红与灰",
+        "year": "1921",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "视线先放在画布形状上，正方形被转了45度角变成菱形。看画面正中间那根最粗的黑色垂直线，它向下延伸时并没有碰到画布底端，而是悬空断开了。再看右上角的黄块和左下角的红块，它们都被画布边缘硬生生切断。这些没画完的黑线和色块，暗示着画布只是截取了无限延伸的宇宙网格中的一小块。"
+      },
+      "fun_fact": "蒙德里安极度厌恶大自然里的绿色和不规则线条。他在巴黎和朋友去咖啡馆时，总是刻意挑选背对窗户的座位，就为了不看见街边的树木。",
+      "quote": {
+        "text": "物体本身的外观总是会掩盖美的本质情感。所以，必须把物体从画面中剔除。",
+        "original": "The emotion of beauty is always obscured by the appearance of the object. Therefore, the object must be eliminated from the picture.",
+        "source": "《造型艺术与纯粹造型艺术》（1937年）"
+      },
+      "card_path": "artists/2026/09/2026-09-25-piet-mondrian.md"
     }
   ],
   "statistics": {
-    "total_artists": 35,
+    "total_artists": 36,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 22,
+      "m": 23,
       "f": 8
     },
     "by_column": {
@@ -1651,12 +1698,12 @@
       "her": 8,
       "east": 5,
       "overlooked": 3,
-      "modern": 5,
+      "modern": 6,
       "makers": 6,
       "wildcard": 0
     },
     "by_country": {
-      "NL": 5,
+      "NL": 6,
       "IT": 9,
       "JP": 1,
       "FR": 7,

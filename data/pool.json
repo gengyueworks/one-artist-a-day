@@ -786,7 +786,7 @@
         "name_en": "Piet Mondrian",
         "years": "1872-1944",
         "country": "荷兰",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "马列维奇",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 125
+  "total_queued": 124
 }
