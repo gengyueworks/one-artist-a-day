@@ -1683,14 +1683,62 @@
         "source": "《造型艺术与纯粹造型艺术》（1937年）"
       },
       "card_path": "artists/2026/09/2026-09-25-piet-mondrian.md"
+    },
+    {
+      "date": "2026-09-26",
+      "column": "makers",
+      "slug": "alexander-calder",
+      "name_zh": "亚历山大·考尔德",
+      "name_en": "Alexander Calder",
+      "name_native": "",
+      "years": "1898–1976",
+      "birthplace": "美国 劳顿",
+      "country": "美国",
+      "country_code": "US",
+      "era": "现代艺术",
+      "movements": [
+        "动态艺术",
+        "超现实主义"
+      ],
+      "mediums": [
+        "雕塑",
+        "金属线",
+        "金属板"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《龙虾陷阱与鱼尾》，1939",
+      "image_license": "Link Only",
+      "image_source": "The Museum of Modern Art (MoMA)",
+      "image_source_url": "https://www.moma.org/collection/works/81335",
+      "verified": false,
+      "one_liner": "他把雕塑从沉重的底座上拔了出来挂在半空，让风成了替他完成作品的最后一位助手。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "美国 劳顿"
+      },
+      "key_work": {
+        "title": "龙虾陷阱与鱼尾",
+        "year": "1939",
+        "collection": "纽约现代艺术博物馆",
+        "detail": "抬头看这件悬挂在楼梯井里的庞然大物。最下面那排黑色的铝片被剪成了鱼尾巴的形状，用细铁丝串联起来，上面那个红色的网状结构就是“龙虾陷阱”。注意看铁丝弯折的节点，他没有用任何焊接技术，而是像首饰匠一样把两根铁丝互相穿插打结。只要有人走过带起一丝微风，黑色的鱼群就会在红色的陷阱下方缓缓打转。"
+      },
+      "fun_fact": "1922年，机械工程专业毕业的考尔德在一艘开往旧金山的客船上当锅炉工。一天清晨他在危地马拉海域的甲板上醒来，看到右边是初升的红日，左边是一轮满月。这成了他日后无数件动态雕塑里那两块标志性红黑圆片的视觉来源。",
+      "quote": {
+        "text": "对大多数人来说，动态雕塑不过是一串会动的扁平物体。但对少数人而言，那是诗。",
+        "original": "To most people who look at a mobile, it's no more than a series of flat objects that move. To a few, though, it may be poetry.",
+        "source": "《考尔德自传》（1966）"
+      },
+      "card_path": "artists/2026/09/2026-09-26-alexander-calder.md"
     }
   ],
   "statistics": {
-    "total_artists": 36,
+    "total_artists": 37,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 23,
+      "m": 24,
       "f": 8
     },
     "by_column": {
@@ -1699,7 +1747,7 @@
       "east": 5,
       "overlooked": 3,
       "modern": 6,
-      "makers": 6,
+      "makers": 7,
       "wildcard": 0
     },
     "by_country": {
@@ -1712,7 +1760,8 @@
       "RO": 1,
       "RU": 1,
       "GB": 2,
-      "CH": 2
+      "CH": 2,
+      "US": 1
     },
     "artists": 7
   }

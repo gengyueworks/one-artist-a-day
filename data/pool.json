@@ -970,7 +970,7 @@
         "name_en": "Alexander Calder",
         "years": "1898-1976",
         "country": "美国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "野口勇",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 124
+  "total_queued": 123
 }

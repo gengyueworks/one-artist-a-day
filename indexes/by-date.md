@@ -26,6 +26,7 @@
 | 2026-09-22 | 👑 她 Her | [罗莎·博纳尔](2026/09/2026-09-22-rosa-bonheur.md) | `2026-09-22-rosa-bonheur.md` |
 | 2026-09-23 | 🌊 东方 East | [郭熙](2026/09/2026-09-23-guo-xi.md) | `2026-09-23-guo-xi.md` |
 | 2026-09-25 | 🖥️ 现代 Modern | [皮特·蒙德里安](2026/09/2026-09-25-piet-mondrian.md) | `2026-09-25-piet-mondrian.md` |
+| 2026-09-26 | 🛠️ 匠人 Makers | [亚历山大·考尔德](2026/09/2026-09-26-alexander-calder.md) | `2026-09-26-alexander-calder.md` |
 
 ### 8 月
 
