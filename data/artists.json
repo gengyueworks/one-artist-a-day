@@ -1731,18 +1731,64 @@
         "source": "《考尔德自传》（1966）"
       },
       "card_path": "artists/2026/09/2026-09-26-alexander-calder.md"
+    },
+    {
+      "date": "2026-09-28",
+      "column": "masters",
+      "slug": "diego-velazquez",
+      "name_zh": "委拉斯开兹",
+      "name_en": "Diego Velázquez",
+      "name_native": "Diego Rodríguez de Silva y Velázquez",
+      "years": "1599–1660",
+      "birthplace": "西班牙 塞维利亚",
+      "country": "西班牙",
+      "country_code": "ES",
+      "era": "巴洛克",
+      "movements": [
+        "巴洛克",
+        "西班牙黄金时代"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-09-28-diego-velazquez.jpg",
+      "hero_caption": "《厨房场景》，1618–1620年",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/21934",
+      "verified": false,
+      "one_liner": "他把西班牙国王画得像个普通疲惫的中年男人，又把厨房里的粗糙陶罐画得像王冠一样庄严。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "西班牙 塞维利亚"
+      },
+      "key_work": {
+        "title": "厨房场景",
+        "year": "1618–1620",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "重点看画面正前方那个白釉陶罐口的反光，以及旁边倒扣铜盆边缘磕碰出的凹凸质感。视线往左移，女仆的手指正按在桌面的白布上，皮肤的粗糙感清晰可见。再穿过她身后左上角的墙壁开口，你会发现背景深处藏着一个微缩场景：那是《以马忤斯的晚餐》里正在掰面包的耶稣。"
+      },
+      "fun_fact": "为了加入象征贵族身份的圣地亚哥骑士团，他花了整整三年时间找人作证，证明自己“从未为了挣钱而画画”，只是为了“取悦国王”。1659年他终于如愿，随后在《宫娥》里自己的胸前补画了那道红十字。",
+      "quote": {
+        "text": "我宁愿做画平凡事物的第一人，也不做画高雅艺术的第二人。",
+        "original": "Prefiero ser el primero en las cosas vulgares que el segundo en las delicadas.",
+        "source": "弗朗西斯科·帕切科《绘画艺术》"
+      },
+      "card_path": "artists/2026/09/2026-09-28-diego-velazquez.md"
     }
   ],
   "statistics": {
-    "total_artists": 37,
+    "total_artists": 38,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 24,
+      "m": 25,
       "f": 8
     },
     "by_column": {
-      "masters": 6,
+      "masters": 7,
       "her": 8,
       "east": 5,
       "overlooked": 3,
@@ -1755,7 +1801,7 @@
       "IT": 9,
       "JP": 1,
       "FR": 7,
-      "ES": 1,
+      "ES": 2,
       "CN": 4,
       "RO": 1,
       "RU": 1,

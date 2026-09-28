@@ -43,7 +43,7 @@
         "name_en": "Diego Velazquez",
         "years": "1599-1660",
         "country": "西班牙",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "戈雅",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 123
+  "total_queued": 122
 }
