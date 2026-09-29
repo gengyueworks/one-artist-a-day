@@ -241,7 +241,7 @@
         "name_en": "Berthe Morisot",
         "years": "1841-1895",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "玛丽·卡萨特",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 122
+  "total_queued": 121
 }

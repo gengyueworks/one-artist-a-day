@@ -38,6 +38,7 @@
 - [乔治·德·拉图尔 Georges de La Tour](../artists/2026/09/2026-09-10-georges-de-la-tour.md) — 1593–1652, ♂, 巴洛克, 遗珠
 - [让-巴蒂斯特·西梅翁·夏尔丹 Jean-Baptiste-Siméon Chardin](../artists/2026/09/2026-09-17-jean-baptiste-simeon-chardin.md) — 1699–1779, ♂, 洛可可时期, 遗珠
 - [罗莎·博纳尔 Rosa Bonheur](../artists/2026/09/2026-09-22-rosa-bonheur.md) — 1822–1899, ♀, 现实主义, **她**
+- [贝尔特·莫里索 Berthe Morisot](../artists/2026/09/2026-09-29-berthe-morisot.md) — 1841–1895, ♀, 印象派, **她**
 
 ### 🇬🇧 英国 United Kingdom
 

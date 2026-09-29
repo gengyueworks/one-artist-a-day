@@ -28,6 +28,7 @@
 | 2026-09-25 | 🖥️ 现代 Modern | [皮特·蒙德里安](2026/09/2026-09-25-piet-mondrian.md) | `2026-09-25-piet-mondrian.md` |
 | 2026-09-26 | 🛠️ 匠人 Makers | [亚历山大·考尔德](2026/09/2026-09-26-alexander-calder.md) | `2026-09-26-alexander-calder.md` |
 | 2026-09-28 | 🎩 巨匠 Masters | [委拉斯开兹](2026/09/2026-09-28-diego-velazquez.md) | `2026-09-28-diego-velazquez.md` |
+| 2026-09-29 | 👑 她 Her | [贝尔特·莫里索](2026/09/2026-09-29-berthe-morisot.md) | `2026-09-29-berthe-morisot.md` |
 
 ### 8 月
 

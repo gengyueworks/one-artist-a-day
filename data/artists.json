@@ -1777,19 +1777,66 @@
         "source": "弗朗西斯科·帕切科《绘画艺术》"
       },
       "card_path": "artists/2026/09/2026-09-28-diego-velazquez.md"
+    },
+    {
+      "date": "2026-09-29",
+      "column": "her",
+      "slug": "berthe-morisot",
+      "name_zh": "贝尔特·莫里索",
+      "name_en": "Berthe Morisot",
+      "name_native": "",
+      "years": "1841–1895",
+      "birthplace": "法国 布尔日",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "印象派",
+      "movements": [
+        "印象派"
+      ],
+      "mediums": [
+        "油画",
+        "水彩",
+        "粉彩"
+      ],
+      "gender": "f",
+      "hero_image": "images/2026-09-29-berthe-morisot.jpg",
+      "hero_caption": "《年轻女子在编织》，约 1883 年",
+      "image_license": "Public Domain",
+      "image_source": "The Met (Open Access)",
+      "image_source_url": "https://www.metmuseum.org/art/collection/search/437159",
+      "verified": false,
+      "one_liner": "当男画家们在酒馆高谈阔论时，她把资产阶级女性被限制的客厅画成了印象派最激进的笔触实验场。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 布尔日"
+      },
+      "key_work": {
+        "title": "Young Woman Knitting",
+        "year": "约 1883",
+        "collection": "大都会艺术博物馆",
+        "detail": "看画面下半部分那双正在编织的手。莫里索没有画出具体的毛线或手指结构，而是用几道凌乱的白色和灰色颜料直接刮擦在画布上。再看女人右侧的背景，笔触已经彻底解体，变成了狂乱的斜线。她用这种看似『没画完』的画法，打破了传统肖像画必须把人物边缘交代清楚的死规矩。"
+      },
+      "fun_fact": "1895 年莫里索因肺炎去世。尽管她一生办过多次画展并靠卖画赚钱，但在官方的死亡证明上，她的职业一栏填的依然是『无业』。",
+      "quote": {
+        "text": "我不认为有哪个男人曾经把女人当作平等的存在。而这恰恰是我唯一的诉求，因为我知道自己的价值。",
+        "original": "Je ne crois pas qu'il y ait jamais eu un homme traitant une femme en égale, et c'est tout ce que je demanderais, car je sais que je les vaux.",
+        "source": "莫里索笔记（1890年）"
+      },
+      "card_path": "artists/2026/09/2026-09-29-berthe-morisot.md"
     }
   ],
   "statistics": {
-    "total_artists": 38,
+    "total_artists": 39,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 25,
-      "f": 8
+      "f": 9
     },
     "by_column": {
       "masters": 7,
-      "her": 8,
+      "her": 9,
       "east": 5,
       "overlooked": 3,
       "modern": 6,
@@ -1800,7 +1847,7 @@
       "NL": 6,
       "IT": 9,
       "JP": 1,
-      "FR": 7,
+      "FR": 8,
       "ES": 2,
       "CN": 4,
       "RO": 1,
