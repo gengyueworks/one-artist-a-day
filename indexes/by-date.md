@@ -29,6 +29,7 @@
 | 2026-09-26 | 🛠️ 匠人 Makers | [亚历山大·考尔德](2026/09/2026-09-26-alexander-calder.md) | `2026-09-26-alexander-calder.md` |
 | 2026-09-28 | 🎩 巨匠 Masters | [委拉斯开兹](2026/09/2026-09-28-diego-velazquez.md) | `2026-09-28-diego-velazquez.md` |
 | 2026-09-29 | 👑 她 Her | [贝尔特·莫里索](2026/09/2026-09-29-berthe-morisot.md) | `2026-09-29-berthe-morisot.md` |
+| 2026-09-30 | 🌊 东方 East | [李唐](2026/09/2026-09-30-li-tang.md) | `2026-09-30-li-tang.md` |
 
 ### 8 月
 

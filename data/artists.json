@@ -1824,20 +1824,66 @@
         "source": "莫里索笔记（1890年）"
       },
       "card_path": "artists/2026/09/2026-09-29-berthe-morisot.md"
+    },
+    {
+      "date": "2026-09-30",
+      "column": "east",
+      "slug": "li-tang",
+      "name_zh": "李唐",
+      "name_en": "Li Tang",
+      "name_native": "",
+      "years": "约1066–约1150",
+      "birthplace": "中国 孟州",
+      "country": "中国",
+      "country_code": "CN",
+      "era": "宋代",
+      "movements": [
+        "南宋院体画",
+        "水墨山水"
+      ],
+      "mediums": [
+        "绢本水墨"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《万壑松风图》，1124年",
+      "image_license": "Link Only",
+      "image_source": "National Palace Museum, Taipei",
+      "image_source_url": "https://theme.npm.edu.tw/opendata/DigitImageSets.aspx?sNo=04013146",
+      "verified": false,
+      "one_liner": "他用像斧头劈凿岩石般的刚硬笔触，亲手截断了北宋的全景高山，辟出南宋留白的半壁江山。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "中国 孟州"
+      },
+      "key_work": {
+        "title": "万壑松风图",
+        "year": "1124",
+        "collection": "台北故宫博物院",
+        "detail": "看画面正中央的主峰岩石。他没有用前人画山常用的柔和长线条，而是把毛笔侧过来，像砍柴一样斜着重重刮擦绢面。这种留下大块棱角分明、仿佛刚被劈开的石面画法，就是后来统治南宋画院的『斧劈皴』。"
+      },
+      "fun_fact": "据元代《图绘宝鉴》记载，李唐在逃往南方的路上途经太行山，遇到土匪打劫。土匪头子萧照翻出他行李中的纸笔，得知他是画院名家后，当场散伙不干了，拜他为师跟着一路逃到杭州。",
+      "quote": {
+        "text": "早知不入时人眼，多买胭脂画牡丹。",
+        "original": "",
+        "source": "李唐《题画诗》（记录于元代夏文彦《图绘宝鉴》）"
+      },
+      "card_path": "artists/2026/09/2026-09-30-li-tang.md"
     }
   ],
   "statistics": {
-    "total_artists": 39,
+    "total_artists": 40,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 25,
+      "m": 26,
       "f": 9
     },
     "by_column": {
       "masters": 7,
       "her": 9,
-      "east": 5,
+      "east": 6,
       "overlooked": 3,
       "modern": 6,
       "makers": 7,
@@ -1849,7 +1895,7 @@
       "JP": 1,
       "FR": 8,
       "ES": 2,
-      "CN": 4,
+      "CN": 5,
       "RO": 1,
       "RU": 1,
       "GB": 2,

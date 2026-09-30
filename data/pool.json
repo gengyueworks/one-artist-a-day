@@ -404,7 +404,7 @@
         "name_en": "Li Tang",
         "years": "1066-1150",
         "country": "中国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "马远",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 121
+  "total_queued": 120
 }
