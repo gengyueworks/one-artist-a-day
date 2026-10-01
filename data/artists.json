@@ -1870,21 +1870,67 @@
         "source": "李唐《题画诗》（记录于元代夏文彦《图绘宝鉴》）"
       },
       "card_path": "artists/2026/09/2026-09-30-li-tang.md"
+    },
+    {
+      "date": "2026-10-01",
+      "column": "overlooked",
+      "slug": "gustave-caillebotte",
+      "name_zh": "古斯塔夫·卡耶博特",
+      "name_en": "Gustave Caillebotte",
+      "name_native": "",
+      "years": "1848–1894",
+      "birthplace": "法国 巴黎",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "印象派",
+      "movements": [
+        "印象派",
+        "现实主义"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-10-01-gustave-caillebotte.jpg",
+      "hero_caption": "《巴黎街道，雨天》，1877年",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/20684",
+      "verified": false,
+      "one_liner": "他把印象派画出了建筑制图般的精确，却在死后七十多年里只被当成莫奈和雷诺阿的提款机。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 巴黎"
+      },
+      "key_work": {
+        "title": "巴黎街道，雨天",
+        "year": "1877",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "看画面正中央那根绿色的煤气灯柱，它像一把尺子把画布劈成左右两半。再盯住最右侧那对打伞的男女，画框直接切断了男人的右半个身子。这种像照相机快门没按好造成的截断感，是他捕捉现代都市冷漠感的最强武器。"
+      },
+      "fun_fact": "1876年，28岁的卡耶博特因为弟弟猝死感到恐慌，早早找公证人立下遗嘱。他在账本里明确留出一笔专款，用来操办1878年的印象派画展，连场地费和画框钱都包了。",
+      "quote": {
+        "text": "我要求这些画既不进外省的美术馆，也不要被塞进阁楼，而是要进卢森堡博物馆，以后还要进卢浮宫。",
+        "original": "Je demande que les tableaux n'aillent ni dans un grenier ni dans un musée de province mais bien au Luxembourg et plus tard au Louvre.",
+        "source": "1876年卡耶博特的遗嘱"
+      },
+      "card_path": "artists/2026/10/2026-10-01-gustave-caillebotte.md"
     }
   ],
   "statistics": {
-    "total_artists": 40,
+    "total_artists": 41,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 26,
+      "m": 27,
       "f": 9
     },
     "by_column": {
       "masters": 7,
       "her": 9,
       "east": 6,
-      "overlooked": 3,
+      "overlooked": 4,
       "modern": 6,
       "makers": 7,
       "wildcard": 0
@@ -1893,7 +1939,7 @@
       "NL": 6,
       "IT": 9,
       "JP": 1,
-      "FR": 8,
+      "FR": 9,
       "ES": 2,
       "CN": 5,
       "RO": 1,

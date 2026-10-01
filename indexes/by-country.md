@@ -39,6 +39,7 @@
 - [让-巴蒂斯特·西梅翁·夏尔丹 Jean-Baptiste-Siméon Chardin](../artists/2026/09/2026-09-17-jean-baptiste-simeon-chardin.md) — 1699–1779, ♂, 洛可可时期, 遗珠
 - [罗莎·博纳尔 Rosa Bonheur](../artists/2026/09/2026-09-22-rosa-bonheur.md) — 1822–1899, ♀, 现实主义, **她**
 - [贝尔特·莫里索 Berthe Morisot](../artists/2026/09/2026-09-29-berthe-morisot.md) — 1841–1895, ♀, 印象派, **她**
+- [古斯塔夫·卡耶博特 Gustave Caillebotte](../artists/2026/10/2026-10-01-gustave-caillebotte.md) — 1848–1894, ♂, 印象派, 遗珠
 
 ### 🇬🇧 英国 United Kingdom
 

@@ -588,7 +588,7 @@
         "name_en": "Gustave Caillebotte",
         "years": "1848-1894",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "费利克斯·瓦洛东",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 120
+  "total_queued": 119
 }
