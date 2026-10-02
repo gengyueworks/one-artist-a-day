@@ -1916,14 +1916,62 @@
         "source": "1876年卡耶博特的遗嘱"
       },
       "card_path": "artists/2026/10/2026-10-01-gustave-caillebotte.md"
+    },
+    {
+      "date": "2026-10-02",
+      "column": "modern",
+      "slug": "kazimir-malevich",
+      "name_zh": "马列维奇",
+      "name_en": "Kazimir Malevich",
+      "name_native": "Казимир Северинович Малевич",
+      "years": "1878–1935",
+      "birthplace": "俄罗斯帝国 基辅",
+      "country": "俄罗斯",
+      "country_code": "RU",
+      "era": "俄罗斯先锋派",
+      "movements": [
+        "至上主义",
+        "立体未来主义",
+        "几何抽象"
+      ],
+      "mediums": [
+        "油画",
+        "理论写作"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《黑方块》，1915",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.tretyakovgallery.ru/en/collection/black-square/",
+      "verified": false,
+      "one_liner": "他用一个纯粹的黑方块把绘画逼到了零点，宣称剥离所有现实物象后，艺术只剩下纯粹的感知。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "俄罗斯帝国 基辅"
+      },
+      "key_work": {
+        "title": "黑方块",
+        "year": "1915",
+        "collection": "莫斯科特列季亚科夫画廊",
+        "detail": "凑近看这幅画，你会发现黑方块表面布满了像干涸河床一样的细碎裂纹。透过这些裂纹，能隐约看到下面盖着一层五颜六色的立体主义构图，这是他没等底漆干透就急着涂黑的结果。画布四周留出的白边并不规整，方块的四条边没有一条是绝对平行的，全凭他徒手画出。"
+      },
+      "fun_fact": "1935年马列维奇因癌症去世，他的学生尼古拉·苏埃廷为他设计了一口至上主义棺材。棺材是个几何长方体，盖子上画着一个黑方块和一个黑圆圈，他穿着白衬衫、黑裤子和红鞋子躺在里面下葬。",
+      "quote": {
+        "text": "当我绝望地试图把艺术从客观世界的废墟中解救出来时，我逃进了正方形的形式里。",
+        "original": "Когда я в отчаянной попытке освободить искусство от балласта объективности бежал в форму квадрата...",
+        "source": "《非客观的世界》（1927年）"
+      },
+      "card_path": "artists/2026/10/2026-10-02-kazimir-malevich.md"
     }
   ],
   "statistics": {
-    "total_artists": 41,
+    "total_artists": 42,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 27,
+      "m": 28,
       "f": 9
     },
     "by_column": {
@@ -1931,7 +1979,7 @@
       "her": 9,
       "east": 6,
       "overlooked": 4,
-      "modern": 6,
+      "modern": 7,
       "makers": 7,
       "wildcard": 0
     },
@@ -1943,7 +1991,7 @@
       "ES": 2,
       "CN": 5,
       "RO": 1,
-      "RU": 1,
+      "RU": 2,
       "GB": 2,
       "CH": 2,
       "US": 1

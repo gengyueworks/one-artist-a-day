@@ -62,6 +62,7 @@ _（待补充：鲁本斯、马格利特等）_
 ### 🇷🇺 俄罗斯 Russia
 
 - [康定斯基 Wassily Kandinsky](../artists/2026/09/2026-09-11-wassily-kandinsky.md) — 1866–1944, ♂, 现代艺术, 现代
+- [马列维奇 Kazimir Malevich](../artists/2026/10/2026-10-02-kazimir-malevich.md) — 1878–1935, ♂, 俄罗斯先锋派, 现代
 
 ### 北欧 Northern Europe
 

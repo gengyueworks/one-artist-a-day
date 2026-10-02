@@ -9,6 +9,7 @@
 | 日期 | 栏目 | 艺术家 | 文件 |
 |------|------|--------|------|
 | 2026-10-01 | 🔦 遗珠 Overlooked | [古斯塔夫·卡耶博特](2026/10/2026-10-01-gustave-caillebotte.md) | `2026-10-01-gustave-caillebotte.md` |
+| 2026-10-02 | 🖥️ 现代 Modern | [马列维奇](2026/10/2026-10-02-kazimir-malevich.md) | `2026-10-02-kazimir-malevich.md` |
 
 ### 9 月
 

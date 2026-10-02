@@ -793,7 +793,7 @@
         "name_en": "Kazimir Malevich",
         "years": "1878-1935",
         "country": "俄罗斯",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "蒙克",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 119
+  "total_queued": 118
 }
