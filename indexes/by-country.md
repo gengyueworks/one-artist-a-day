@@ -99,6 +99,7 @@ _（待补充：郑敾、金弘道等）_
 ### 🇺🇸 美国 USA
 
 - [亚历山大·考尔德 Alexander Calder](../artists/2026/09/2026-09-26-alexander-calder.md) — 1898–1976, ♂, 现代艺术, 匠人
+- [野口勇 Isamu Noguchi](../artists/2026/10/2026-10-03-isamu-noguchi.md) — 1904–1988, ♂, 现代主义, 匠人
 
 ### 🇲🇽 墨西哥 Mexico
 

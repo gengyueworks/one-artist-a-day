@@ -1964,14 +1964,63 @@
         "source": "《非客观的世界》（1927年）"
       },
       "card_path": "artists/2026/10/2026-10-02-kazimir-malevich.md"
+    },
+    {
+      "date": "2026-10-03",
+      "column": "makers",
+      "slug": "isamu-noguchi",
+      "name_zh": "野口勇",
+      "name_en": "Isamu Noguchi",
+      "name_native": "野口 勇",
+      "years": "1904–1988",
+      "birthplace": "美国 洛杉矶",
+      "country": "美国",
+      "country_code": "US",
+      "era": "现代主义",
+      "movements": [
+        "现代主义",
+        "生物形态主义"
+      ],
+      "mediums": [
+        "雕塑",
+        "家具设计",
+        "景观设计",
+        "灯具设计"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《玻璃茶几》，1944",
+      "image_license": "Link Only",
+      "image_source": "The Noguchi Museum",
+      "image_source_url": "https://www.noguchi.org/",
+      "verified": false,
+      "one_liner": "他把沉重的石头和木头变成了光与风，让雕塑彻底走下基座，变成你家客厅的茶几和头顶悬挂的纸灯。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "美国 洛杉矶"
+      },
+      "key_work": {
+        "title": "玻璃茶几",
+        "year": "1944",
+        "collection": "纽约现代艺术博物馆",
+        "detail": "视线往下，盯着撑起玻璃桌面的木质底座。那是两块形状完全相同的弯曲胡桃木，其中一块翻转过来，两块木头只靠一个圆柱形销钉咬合。整张桌子没有一颗螺丝，却稳稳托住了一块厚达两厘米、像水滴般不对称的沉重玻璃。"
+      },
+      "fun_fact": "1942年，为了给被关押的日裔美国人设计公园和休闲设施，他自愿进入亚利桑那州的波斯顿拘留营。结果军方压根不理会他的图纸，他想走却被扣留，硬生生在营地里被关了七个月才脱身。",
+      "quote": {
+        "text": "一切皆是雕塑。任何材料、任何毫无阻碍地诞生于空间中的想法，我都认为是雕塑。",
+        "original": "Everything is sculpture. Any material, any idea without hindrance born into space, I consider sculpture.",
+        "source": "1968年自传《野口勇：雕塑家的世界》"
+      },
+      "card_path": "artists/2026/10/2026-10-03-isamu-noguchi.md"
     }
   ],
   "statistics": {
-    "total_artists": 42,
+    "total_artists": 43,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 28,
+      "m": 29,
       "f": 9
     },
     "by_column": {
@@ -1980,7 +2029,7 @@
       "east": 6,
       "overlooked": 4,
       "modern": 7,
-      "makers": 7,
+      "makers": 8,
       "wildcard": 0
     },
     "by_country": {
@@ -1994,7 +2043,7 @@
       "RU": 2,
       "GB": 2,
       "CH": 2,
-      "US": 1
+      "US": 2
     },
     "artists": 7
   }

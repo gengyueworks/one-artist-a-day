@@ -977,7 +977,7 @@
         "name_en": "Isamu Noguchi",
         "years": "1904-1988",
         "country": "美国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "帕拉第奥",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 118
+  "total_queued": 117
 }
