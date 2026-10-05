@@ -55,6 +55,7 @@ _（待补充）_
 
 | 艺术家 | 国别 | 性别 | 栏目 | 卡片 |
 |--------|------|------|------|------|
+| 戈雅 Francisco Goya | 西班牙 | ♂ | 巨匠 | [→](../artists/2026/10/2026-10-05-francisco-goya.md) |
 | 安杰莉卡·考夫曼 Angelica Kauffman | 瑞士 | ♀ | **她** | [→](../artists/2026/09/2026-09-15-angelica-kauffman.md) |
 
 ## 印象派及之后 Impressionism & After（1860–1920）

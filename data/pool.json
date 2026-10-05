@@ -50,7 +50,7 @@
         "name_en": "Francisco Goya",
         "years": "1746-1828",
         "country": "西班牙",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "透纳",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 117
+  "total_queued": 116
 }
