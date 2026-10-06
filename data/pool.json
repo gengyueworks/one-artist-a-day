@@ -248,7 +248,7 @@
         "name_en": "Mary Cassatt",
         "years": "1844-1926",
         "country": "美国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "卡米耶·克洛岱尔",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 116
+  "total_queued": 115
 }

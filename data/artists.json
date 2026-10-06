@@ -2061,19 +2061,67 @@
         "source": "《狂想曲》第43号版画题词"
       },
       "card_path": "artists/2026/10/2026-10-05-francisco-goya.md"
+    },
+    {
+      "date": "2026-10-06",
+      "column": "her",
+      "slug": "mary-cassatt",
+      "name_zh": "玛丽·卡萨特",
+      "name_en": "Mary Cassatt",
+      "name_native": "",
+      "years": "1844–1926",
+      "birthplace": "美国 宾夕法尼亚州",
+      "country": "美国",
+      "country_code": "US",
+      "era": "印象派",
+      "movements": [
+        "印象派",
+        "日本主义"
+      ],
+      "mediums": [
+        "油画",
+        "粉彩",
+        "版画"
+      ],
+      "gender": "f",
+      "hero_image": "https://www.artic.edu/artworks/111442",
+      "hero_caption": "《洗浴》，1893",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/111442",
+      "verified": false,
+      "one_liner": "唯一真正打入法国印象派核心圈的美国人，她把被视作『不入流』的育儿日常画成了毫无廉价温情的心理学观察。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "美国 宾夕法尼亚州"
+      },
+      "key_work": {
+        "title": "洗浴",
+        "year": "1893",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "视线直接从正上方劈下来，把碎花地毯、条纹裙子和水盆压扁在同一个平面里。注意看画面中心，母亲的左手稳稳钳住小孩肉乎乎的右脚，右手正在水盆里搓洗。两个人没有眼神交流，全神贯注盯着水面，这种紧绷的肢体接触比任何甜腻的笑容都更有张力。"
+      },
+      "fun_fact": "1915年她拿出18幅作品办展，为美国妇女参政运动筹款。当时她的嫂子公开反对女性投票，她气得直接和家族决裂，卖掉了手里所有嫂子家族成员的肖像画。",
+      "quote": {
+        "text": "我讨厌传统的艺术。我开始活过来了。",
+        "original": "I hated conventional art. I began to live.",
+        "source": "晚年向传记作家回忆1875年第一次在橱窗里看到德加粉彩画的感受"
+      },
+      "card_path": "artists/2026/10/2026-10-06-mary-cassatt.md"
     }
   ],
   "statistics": {
-    "total_artists": 44,
+    "total_artists": 45,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 30,
-      "f": 9
+      "f": 10
     },
     "by_column": {
       "masters": 8,
-      "her": 9,
+      "her": 10,
       "east": 6,
       "overlooked": 4,
       "modern": 7,
@@ -2091,7 +2139,7 @@
       "RU": 2,
       "GB": 2,
       "CH": 2,
-      "US": 2
+      "US": 3
     },
     "artists": 7
   }

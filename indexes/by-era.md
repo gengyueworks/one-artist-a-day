@@ -64,6 +64,7 @@ _（待补充）_
 |--------|------|------|------|------|
 | 奥古斯特·罗丹 Auguste Rodin | 法国 | ♂ | 匠人 | [→](../artists/2026/08/2026-08-29-auguste-rodin.md) |
 | 古斯塔夫·卡耶博特 Gustave Caillebotte | 法国 | ♂ | 遗珠 | [→](../artists/2026/10/2026-10-01-gustave-caillebotte.md) |
+| 玛丽·卡萨特 Mary Cassatt | 美国 | ♀ | **她** | [→](../artists/2026/10/2026-10-06-mary-cassatt.md) |
 | 贝尔特·莫里索 Berthe Morisot | 法国 | ♀ | **她** | [→](../artists/2026/09/2026-09-29-berthe-morisot.md) |
 
 ## 现代与当代 Modern & Contemporary（1900–）

@@ -12,6 +12,7 @@
 | 2026-10-02 | 🖥️ 现代 Modern | [马列维奇](2026/10/2026-10-02-kazimir-malevich.md) | `2026-10-02-kazimir-malevich.md` |
 | 2026-10-03 | 🛠️ 匠人 Makers | [野口勇](2026/10/2026-10-03-isamu-noguchi.md) | `2026-10-03-isamu-noguchi.md` |
 | 2026-10-05 | 🎩 巨匠 Masters | [戈雅](2026/10/2026-10-05-francisco-goya.md) | `2026-10-05-francisco-goya.md` |
+| 2026-10-06 | 👑 她 Her | [玛丽·卡萨特](2026/10/2026-10-06-mary-cassatt.md) | `2026-10-06-mary-cassatt.md` |
 
 ### 9 月
 
