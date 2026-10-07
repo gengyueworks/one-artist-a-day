@@ -411,7 +411,7 @@
         "name_en": "Ma Yuan",
         "years": "1160-1225",
         "country": "中国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "赵孟頫",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 115
+  "total_queued": 114
 }

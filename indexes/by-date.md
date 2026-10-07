@@ -13,6 +13,7 @@
 | 2026-10-03 | 🛠️ 匠人 Makers | [野口勇](2026/10/2026-10-03-isamu-noguchi.md) | `2026-10-03-isamu-noguchi.md` |
 | 2026-10-05 | 🎩 巨匠 Masters | [戈雅](2026/10/2026-10-05-francisco-goya.md) | `2026-10-05-francisco-goya.md` |
 | 2026-10-06 | 👑 她 Her | [玛丽·卡萨特](2026/10/2026-10-06-mary-cassatt.md) | `2026-10-06-mary-cassatt.md` |
+| 2026-10-07 | 🌊 东方 East | [马远](2026/10/2026-10-07-ma-yuan.md) | `2026-10-07-ma-yuan.md` |
 
 ### 9 月
 

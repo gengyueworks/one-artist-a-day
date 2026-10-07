@@ -40,6 +40,7 @@ _（待补充）_
 | 郭熙 Guo Xi | 中国 | ♂ | 东方 | [→](../artists/2026/09/2026-09-23-guo-xi.md) |
 | 委拉斯开兹 Diego Velázquez | 西班牙 | ♂ | 巨匠 | [→](../artists/2026/09/2026-09-28-diego-velazquez.md) |
 | 李唐 Li Tang | 中国 | ♂ | 东方 | [→](../artists/2026/09/2026-09-30-li-tang.md) |
+| 马远 Ma Yuan | 中国 | ♂ | 东方 | [→](../artists/2026/10/2026-10-07-ma-yuan.md) |
 | 罗莎·博纳尔 Rosa Bonheur | 法国 | ♀ | **她** | [→](../artists/2026/09/2026-09-22-rosa-bonheur.md) |
 | 拉维尼娅·丰塔纳 Lavinia Fontana | 意大利 | ♀ | **她** | [→](../artists/2026/09/2026-09-01-lavinia-fontana.md) |
 | 朱迪思·莱斯特 Judith Leyster | 荷兰 | ♀ | **她** | [→](../artists/2026/08/2026-08-25-judith-leyster.md) |
