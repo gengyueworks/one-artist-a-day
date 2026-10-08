@@ -2156,21 +2156,67 @@
         "source": ""
       },
       "card_path": "artists/2026/10/2026-10-07-ma-yuan.md"
+    },
+    {
+      "date": "2026-10-08",
+      "column": "overlooked",
+      "slug": "felix-vallotton",
+      "name_zh": "费利克斯·瓦洛东",
+      "name_en": "Félix Vallotton",
+      "name_native": "",
+      "years": "1865–1925",
+      "birthplace": "瑞士 洛桑",
+      "country": "瑞士",
+      "country_code": "CH",
+      "era": "后印象派",
+      "movements": [
+        "纳比派"
+      ],
+      "mediums": [
+        "木刻版画",
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《球》，1899",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.musee-orsay.fr/fr/oeuvres/le-ballon-coin-de-parc-10656",
+      "verified": false,
+      "one_liner": "纳比派里最冷酷的眼睛，他用大面积的纯色块把巴黎中产阶级的日常画成了潜藏危机的犯罪现场。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "瑞士 洛桑"
+      },
+      "key_work": {
+        "title": "球",
+        "year": "1899",
+        "collection": "巴黎奥赛博物馆",
+        "detail": "画面左下角被一块巨大的、毫无起伏的绿色阴影死死压住。视线顺着那条斜线往右上角走，一个戴草帽的小孩正追着一颗红球跑进阳光里。他刻意拉高了视角，把普通的公园散步画出了一种悬疑电影般的窥视感。"
+      },
+      "fun_fact": "他是个极度严谨的强迫症。从1885年起，他建立了一本名为『理性之书』（Livre de raison）的账本，给自己的每一幅油画按顺序编号，详细记录下尺寸、主题甚至买家的名字，一笔不落。",
+      "quote": {
+        "text": "用一点黑色和白色就能表达自己，这是一件极其幸福的事。",
+        "original": "C'est un grand bonheur que de pouvoir s'exprimer avec un peu de noir et de blanc.",
+        "source": "瓦洛东私人日记"
+      },
+      "card_path": "artists/2026/10/2026-10-08-felix-vallotton.md"
     }
   ],
   "statistics": {
-    "total_artists": 46,
+    "total_artists": 47,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 31,
+      "m": 32,
       "f": 10
     },
     "by_column": {
       "masters": 8,
       "her": 10,
       "east": 7,
-      "overlooked": 4,
+      "overlooked": 5,
       "modern": 7,
       "makers": 8,
       "wildcard": 0
@@ -2185,7 +2231,7 @@
       "RO": 1,
       "RU": 2,
       "GB": 2,
-      "CH": 2,
+      "CH": 3,
       "US": 3
     },
     "artists": 7

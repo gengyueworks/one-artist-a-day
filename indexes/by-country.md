@@ -76,6 +76,7 @@ _（待补充：蒙克、佐恩等）_
 
 - [安杰莉卡·考夫曼 Angelica Kauffman](../artists/2026/09/2026-09-15-angelica-kauffman.md) — 1741–1807, ♀, 新古典主义, **她**
 - [保罗·克利 Paul Klee](../artists/2026/09/2026-09-18-paul-klee.md) — 1879–1940, ♂, 现代艺术, 现代
+- [费利克斯·瓦洛东 Félix Vallotton](../artists/2026/10/2026-10-08-felix-vallotton.md) — 1865–1925, ♂, 后印象派, 遗珠
 ## 东亚 East Asia
 
 ### 🇯🇵 日本 Japan

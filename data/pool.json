@@ -595,7 +595,7 @@
         "name_en": "Felix Vallotton",
         "years": "1865-1925",
         "country": "瑞士",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "维尔赫姆·哈默休伊",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 114
+  "total_queued": 113
 }
