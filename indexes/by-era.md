@@ -86,6 +86,7 @@ _（待补充）_
 | 亚历山大·考尔德 Alexander Calder | 美国 | ♂ | 匠人 | [→](../artists/2026/09/2026-09-26-alexander-calder.md) |
 | 马列维奇 Kazimir Malevich | 俄罗斯 | ♂ | 现代 | [→](../artists/2026/10/2026-10-02-kazimir-malevich.md) |
 | 野口勇 Isamu Noguchi | 美国 | ♂ | 匠人 | [→](../artists/2026/10/2026-10-03-isamu-noguchi.md) |
+| 蒙克 Edvard Munch | 挪威 | ♂ | 现代 | [→](../artists/2026/10/2026-10-09-edvard-munch.md) |
 
 ## 东方传统 Eastern Traditions
 

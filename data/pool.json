@@ -800,7 +800,7 @@
         "name_en": "Edvard Munch",
         "years": "1863-1944",
         "country": "挪威",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "席勒",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 113
+  "total_queued": 112
 }

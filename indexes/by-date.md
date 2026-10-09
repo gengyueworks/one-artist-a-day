@@ -15,6 +15,7 @@
 | 2026-10-06 | 👑 她 Her | [玛丽·卡萨特](2026/10/2026-10-06-mary-cassatt.md) | `2026-10-06-mary-cassatt.md` |
 | 2026-10-07 | 🌊 东方 East | [马远](2026/10/2026-10-07-ma-yuan.md) | `2026-10-07-ma-yuan.md` |
 | 2026-10-08 | 🔦 遗珠 Overlooked | [费利克斯·瓦洛东](2026/10/2026-10-08-felix-vallotton.md) | `2026-10-08-felix-vallotton.md` |
+| 2026-10-09 | 🖥️ 现代 Modern | [蒙克](2026/10/2026-10-09-edvard-munch.md) | `2026-10-09-edvard-munch.md` |
 
 ### 9 月
 

@@ -2202,14 +2202,61 @@
         "source": "瓦洛东私人日记"
       },
       "card_path": "artists/2026/10/2026-10-08-felix-vallotton.md"
+    },
+    {
+      "date": "2026-10-09",
+      "column": "modern",
+      "slug": "edvard-munch",
+      "name_zh": "蒙克",
+      "name_en": "Edvard Munch",
+      "name_native": "Edvard Munch",
+      "years": "1863–1944",
+      "birthplace": "挪威 勒滕",
+      "country": "挪威",
+      "country_code": "NO",
+      "era": "现代",
+      "movements": [
+        "表现主义",
+        "象征主义"
+      ],
+      "mediums": [
+        "油画",
+        "版画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-10-09-edvard-munch.jpg",
+      "hero_caption": "《窗边的女孩》，1893",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/154235",
+      "verified": false,
+      "one_liner": "他把现代人的焦虑、嫉妒和死亡恐惧，画成了像声波一样扭曲周围环境的物理力量。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "挪威 勒滕"
+      },
+      "key_work": {
+        "title": "窗边的女孩",
+        "year": "1893",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "注意画面右下角那道从窗框投射进来的巨大十字形阴影，它直接切断了女孩退回房间的路径。女孩穿着白色睡裙的背影几乎融入了窗外的深蓝色夜景中，而她右侧肩膀的轮廓线被刻意模糊处理。地板的木纹线条没有遵循透视规律，而是像斜坡一样把她的身体推向那扇幽暗的窗户。"
+      },
+      "fun_fact": "蒙克有个被称为“马疗法”的习惯。他经常把没干透的油画直接扔在户外的雪地和雨水里，甚至让狗在上面踩踏。他觉得刚画完的画布太新了，必须经过自然风化和物理破坏，才能获得他想要的粗糙斑驳感。",
+      "quote": {
+        "text": "我们不应该再画那些在室内读书的男人和织毛衣的女人。我们应该画那些呼吸着、感觉着、痛苦着并相爱着的活生生的人。",
+        "original": "Vi skal ikke lenger male interiører med menn som leser og kvinner som strikker. Vi skal male levende mennesker som puster og føler, lider og elsker.",
+        "source": "1889年《圣克卢宣言》"
+      },
+      "card_path": "artists/2026/10/2026-10-09-edvard-munch.md"
     }
   ],
   "statistics": {
-    "total_artists": 47,
+    "total_artists": 48,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 32,
+      "m": 33,
       "f": 10
     },
     "by_column": {
@@ -2217,7 +2264,7 @@
       "her": 10,
       "east": 7,
       "overlooked": 5,
-      "modern": 7,
+      "modern": 8,
       "makers": 8,
       "wildcard": 0
     },
@@ -2232,7 +2279,8 @@
       "RU": 2,
       "GB": 2,
       "CH": 3,
-      "US": 3
+      "US": 3,
+      "NO": 1
     },
     "artists": 7
   }
