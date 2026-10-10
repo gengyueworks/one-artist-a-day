@@ -984,7 +984,7 @@
         "name_en": "Andrea Palladio",
         "years": "1508-1580",
         "country": "意大利",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "高迪",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 112
+  "total_queued": 111
 }
