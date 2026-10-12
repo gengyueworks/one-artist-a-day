@@ -57,7 +57,7 @@
         "name_en": "J.M.W. Turner",
         "years": "1775-1851",
         "country": "英国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "马奈",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 111
+  "total_queued": 110
 }

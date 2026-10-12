@@ -17,6 +17,7 @@
 | 2026-10-08 | 🔦 遗珠 Overlooked | [费利克斯·瓦洛东](2026/10/2026-10-08-felix-vallotton.md) | `2026-10-08-felix-vallotton.md` |
 | 2026-10-09 | 🖥️ 现代 Modern | [蒙克](2026/10/2026-10-09-edvard-munch.md) | `2026-10-09-edvard-munch.md` |
 | 2026-10-10 | 🛠️ 匠人 Makers | [帕拉第奥](2026/10/2026-10-10-andrea-palladio.md) | `2026-10-10-andrea-palladio.md` |
+| 2026-10-12 | 🎩 巨匠 Masters | [透纳](2026/10/2026-10-12-j-m-w-turner.md) | `2026-10-12-j-m-w-turner.md` |
 
 ### 9 月
 

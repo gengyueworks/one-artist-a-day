@@ -46,6 +46,7 @@
 
 - [亨利·摩尔 Henry Moore](../artists/2026/09/2026-09-12-henry-moore.md) — 1898–1986, ♂, 现代主义, 匠人
 - [芭芭拉·赫普沃斯 Barbara Hepworth](../artists/2026/09/2026-09-19-barbara-hepworth.md) — 1903–1975, ♀, 现代主义, 匠人
+- [透纳 J.M.W. Turner](../artists/2026/10/2026-10-12-j-m-w-turner.md) — 1775–1851, ♂, 浪漫主义, 巨匠
 
 ### 🇩🇪 德国 Germany
 

@@ -2296,18 +2296,65 @@
         "source": "《建筑四书》（1570年）"
       },
       "card_path": "artists/2026/10/2026-10-10-andrea-palladio.md"
+    },
+    {
+      "date": "2026-10-12",
+      "column": "masters",
+      "slug": "j-m-w-turner",
+      "name_zh": "透纳",
+      "name_en": "J.M.W. Turner",
+      "name_native": "",
+      "years": "1775–1851",
+      "birthplace": "英国 伦敦",
+      "country": "英国",
+      "country_code": "GB",
+      "era": "浪漫主义",
+      "movements": [
+        "浪漫主义",
+        "印象派先驱"
+      ],
+      "mediums": [
+        "油画",
+        "水彩"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《战舰无畏号》，1839",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire",
+      "verified": false,
+      "one_liner": "他把颜料当成发光的蒸汽和被烧化的空气来抹，在工业革命的呛人煤烟里，提前半个世纪把古典风景撕成了纯粹的光色。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "英国 伦敦"
+      },
+      "key_work": {
+        "title": "战舰无畏号",
+        "year": "1839",
+        "collection": "英国国家美术馆，伦敦",
+        "detail": "看画面左侧那艘泛着幽灵般苍白光晕的退役木帆船，它正被右前方一艘喷着滚滚黑烟的黑色蒸汽拖轮拽去拆船厂。右侧水面上的落日余晖根本不是细细抹匀的笔触，而是他用刮刀把厚堆的铬黄和朱红硬生生砸在画布上，连旧时代的尊严一起拖进了工业火光里。"
+      },
+      "fun_fact": "皇家艺术学院每年展出前有几天允许画家进场上保护漆。1832年，透纳的灰暗海景画挂在康斯太勃尔色彩鲜艳的画作旁边显得很平淡，他一言不发走过去，在自己的灰色浪涛正中央狠狠按下一块未调开的鲜红铅丹，然后转身走开；康斯太勃尔当场崩溃，对旁人说：『他刚才走进来，朝我放了一枪。』",
+      "quote": {
+        "text": "我画它不是为了让人看懂，我是想让人看到那种景象真正是什么模样。",
+        "original": "I don't paint it in order that people should understand it; I paint it to show what such a scene was like.",
+        "source": "约翰·拉斯金《现代画家》（Modern Painters）所引透纳言论"
+      },
+      "card_path": "artists/2026/10/2026-10-12-j-m-w-turner.md"
     }
   ],
   "statistics": {
-    "total_artists": 49,
+    "total_artists": 50,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 34,
+      "m": 35,
       "f": 10
     },
     "by_column": {
-      "masters": 8,
+      "masters": 9,
       "her": 10,
       "east": 7,
       "overlooked": 5,
@@ -2324,7 +2371,7 @@
       "CN": 6,
       "RO": 1,
       "RU": 2,
-      "GB": 2,
+      "GB": 3,
       "CH": 3,
       "US": 3,
       "NO": 1
