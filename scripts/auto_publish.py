@@ -20,7 +20,7 @@
 环境变量（GitHub Actions Secrets 同名）：
   LLM_API_KEY   必填
   LLM_BASE_URL  默认 http://127.0.0.1:8317（本机免费代理）
-  LLM_MODEL     默认 gemini-pro-agent（免费）
+  LLM_MODEL     默认动态读取 ~/.config/opencode/opencode.json（gemini 提供方可用模型，回退 gemini-3.8-flash-high）
 
 依赖：Python 3.9+, requests, Pillow
 """
@@ -750,6 +750,23 @@ def already_published(target_date):
     return any(f.name.startswith(target_date) and f.suffix == ".md" for f in d.iterdir())
 
 
+def get_default_model():
+    """获取网关模型：优先读取 ~/.config/opencode/opencode.json 中 gemini 提供方的可用模型，
+    回退到 gemini-3.8-flash-high，避免硬编码过时模型导致网关返回 HTTP 400。"""
+    cfg_path = Path.home() / ".config" / "opencode" / "opencode.json"
+    if cfg_path.exists():
+        try:
+            cfg = json.loads(cfg_path.read_text(encoding="utf-8"))
+            gemini_models = cfg.get("provider", {}).get("gemini", {}).get("models", {})
+            if "gemini-3.8-flash-high" in gemini_models:
+                return "gemini-3.8-flash-high"
+            if gemini_models:
+                return next(iter(gemini_models.keys()))
+        except Exception:
+            pass
+    return "gemini-3.8-flash-high"
+
+
 def main():
     parser = argparse.ArgumentParser(description="每天认识一位艺术家 — 全自动发布引擎")
     parser.add_argument("--date", help="指定日期 (YYYY-MM-DD)", default=None)
@@ -763,7 +780,7 @@ def main():
 
     api_key = args.llm_api_key or os.environ.get("LLM_API_KEY", "")
     base_url = args.llm_base_url or os.environ.get("LLM_BASE_URL", "http://127.0.0.1:8317")
-    model = args.llm_model or os.environ.get("LLM_MODEL", "gemini-pro-agent")
+    model = args.llm_model or os.environ.get("LLM_MODEL") or get_default_model()
 
     if not api_key and not args.dry_run:
         log("❌ 缺少 LLM_API_KEY（环境变量）")
