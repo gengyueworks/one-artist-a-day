@@ -2343,18 +2343,65 @@
         "source": "约翰·拉斯金《现代画家》（Modern Painters）所引透纳言论"
       },
       "card_path": "artists/2026/10/2026-10-12-j-m-w-turner.md"
+    },
+    {
+      "date": "2026-10-19",
+      "column": "masters",
+      "slug": "edouard-manet",
+      "name_zh": "爱德华·马奈",
+      "name_en": "Édouard Manet",
+      "name_native": "",
+      "years": "1832–1883",
+      "birthplace": "法国 巴黎",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "19世纪现实主义与印象派",
+      "movements": [
+        "现实主义",
+        "印象派"
+      ],
+      "mediums": [
+        "油画",
+        "版画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-10-19-edouard-manet.jpg",
+      "hero_caption": "《悲剧演员（饰演哈姆雷特的鲁维耶尔）》，1865–66",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/15243",
+      "verified": false,
+      "one_liner": "他用毫不留情的平面感和冷淡视线砸烂了五百年的景深幻觉，骨子里却一辈子渴望被他砸碎的那个官方体制认可。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 巴黎"
+      },
+      "key_work": {
+        "title": "悲剧演员（饰演哈姆雷特的鲁维耶尔）",
+        "year": "1865–66",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "背景完全被抽干了，没有舞台布景，也没有地平线，黑衣演员像张剪纸贴在灰白虚空里。往下看他的双脚，地面只有几笔仓促带过的杂乱擦痕，影子敷衍得根本撑不住身体的重量。演员手里按着剑，脸上一片死灰，找不到一丝莎士比亚式的慷慨激昂，只有戏演完后卸不掉的木然。"
+      },
+      "fun_fact": "画里的演员鲁维耶尔在作品完成前突然病逝，马奈为了画完这幅全身像，特地把死者的哈姆雷特黑丝绒戏服借出来，套在一个当替身的市井模特身上才收尾。",
+      "quote": {
+        "text": "一个人必须属于他自己的时代，画他自己亲眼看到的东西。",
+        "original": "Il faut être de son temps et faire ce que l'on voit.",
+        "source": "安托南·普鲁斯特《爱德华·马奈回忆录》（1913年）"
+      },
+      "card_path": "artists/2026/10/2026-10-19-edouard-manet.md"
     }
   ],
   "statistics": {
-    "total_artists": 50,
+    "total_artists": 51,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 35,
+      "m": 36,
       "f": 10
     },
     "by_column": {
-      "masters": 9,
+      "masters": 10,
       "her": 10,
       "east": 7,
       "overlooked": 5,
@@ -2366,7 +2413,7 @@
       "NL": 6,
       "IT": 10,
       "JP": 1,
-      "FR": 9,
+      "FR": 10,
       "ES": 3,
       "CN": 6,
       "RO": 1,

@@ -64,7 +64,7 @@
         "name_en": "Edouard Manet",
         "years": "1832-1883",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "莫奈",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 110
+  "total_queued": 109
 }
