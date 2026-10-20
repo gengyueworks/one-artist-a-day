@@ -255,7 +255,7 @@
         "name_en": "Camille Claudel",
         "years": "1864-1943",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "苏珊娜·瓦拉东",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 109
+  "total_queued": 108
 }

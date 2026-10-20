@@ -19,6 +19,7 @@
 | 2026-10-10 | 🛠️ 匠人 Makers | [帕拉第奥](2026/10/2026-10-10-andrea-palladio.md) | `2026-10-10-andrea-palladio.md` |
 | 2026-10-12 | 🎩 巨匠 Masters | [透纳](2026/10/2026-10-12-j-m-w-turner.md) | `2026-10-12-j-m-w-turner.md` |
 | 2026-10-19 | 🎩 巨匠 Masters | [爱德华·马奈](2026/10/2026-10-19-edouard-manet.md) | `2026-10-19-edouard-manet.md` |
+| 2026-10-20 | 👑 她 Her | [卡米耶·克洛岱尔](2026/10/2026-10-20-camille-claudel.md) | `2026-10-20-camille-claudel.md` |
 
 ### 9 月
 

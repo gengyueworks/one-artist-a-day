@@ -2390,19 +2390,68 @@
         "source": "安托南·普鲁斯特《爱德华·马奈回忆录》（1913年）"
       },
       "card_path": "artists/2026/10/2026-10-19-edouard-manet.md"
+    },
+    {
+      "date": "2026-10-20",
+      "column": "her",
+      "slug": "camille-claudel",
+      "name_zh": "卡米耶·克洛岱尔",
+      "name_en": "Camille Claudel",
+      "name_native": "",
+      "years": "1864–1943",
+      "birthplace": "法国 费尔昂塔德努瓦",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "19世纪末现代雕塑先驱",
+      "movements": [
+        "象征主义",
+        "现代雕塑"
+      ],
+      "mediums": [
+        "雕塑",
+        "石膏",
+        "大理石",
+        "青铜"
+      ],
+      "gender": "f",
+      "hero_image": "images/2026-10-20-camille-claudel.jpg",
+      "hero_caption": "《年轻的罗马人》，约 1882–1887",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/265059",
+      "verified": false,
+      "one_liner": "她不是罗丹的情人兼副手，而是在重力与硬石间正面击穿学院传统的雕塑天才。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 费尔昂塔德努瓦"
+      },
+      "key_work": {
+        "title": "年轻的罗马人",
+        "year": "约 1882–1887",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "看少年的右颈侧与锁骨连结处，皮下筋腱与胸锁乳突肌的拉扯感极其敏锐，完全脱离了学院派圆滑无趣的套路。再看深深陷进去的眼窝，眼眶内部没有刻画瞳孔，全凭骨骼边缘的阴影营造出一种冷峻甚至近乎枯寂的出神状态。"
+      },
+      "fun_fact": "1913年她被家人强行押送进精神病院，在禁闭中度过了人生的后三十年；在这整整三十年里，她拒绝碰触任何泥土、黏土和石头，至死再没做过一件雕塑。",
+      "quote": {
+        "text": "你看，这完全不再是罗丹，这是克洛岱尔。",
+        "original": "Tu vois bien que ce n'est plus du tout du Rodin, c'est du Claudel.",
+        "source": "1893年12月致弟弟保罗·克洛岱尔的信"
+      },
+      "card_path": "artists/2026/10/2026-10-20-camille-claudel.md"
     }
   ],
   "statistics": {
-    "total_artists": 51,
+    "total_artists": 52,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 36,
-      "f": 10
+      "f": 11
     },
     "by_column": {
       "masters": 10,
-      "her": 10,
+      "her": 11,
       "east": 7,
       "overlooked": 5,
       "modern": 8,
@@ -2413,7 +2462,7 @@
       "NL": 6,
       "IT": 10,
       "JP": 1,
-      "FR": 10,
+      "FR": 11,
       "ES": 3,
       "CN": 6,
       "RO": 1,
