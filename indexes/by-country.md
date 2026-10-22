@@ -84,6 +84,9 @@ _（待补充：蒙克、佐恩等）_
 ### 挪威
 
 - [蒙克 Edvard Munch](../artists/2026/10/2026-10-09-edvard-munch.md) — 1863–1944, ♂, 现代, 现代
+### 丹麦
+
+- [维尔赫姆·哈默休伊 Vilhelm Hammershoi](../artists/2026/10/2026-10-22-vilhelm-hammershoi.md) — 1864–1916, ♂, 19世纪末至20世纪初, 遗珠
 ## 东亚 East Asia
 
 ### 🇯🇵 日本 Japan

@@ -2439,21 +2439,67 @@
         "source": "1893年12月致弟弟保罗·克洛岱尔的信"
       },
       "card_path": "artists/2026/10/2026-10-20-camille-claudel.md"
+    },
+    {
+      "date": "2026-10-22",
+      "column": "overlooked",
+      "slug": "vilhelm-hammershoi",
+      "name_zh": "维尔赫姆·哈默休伊",
+      "name_en": "Vilhelm Hammershoi",
+      "name_native": "",
+      "years": "1864–1916",
+      "birthplace": "丹麦 哥本哈根",
+      "country": "丹麦",
+      "country_code": "DK",
+      "era": "19世纪末至20世纪初",
+      "movements": [
+        "象征主义",
+        "现实主义"
+      ],
+      "mediums": [
+        "布面油画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《尘粒在阳光中跳舞》，1900年",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://collection.smk.dk/en/detail/KMS3449",
+      "verified": false,
+      "one_liner": "把北欧漫长冰冷的冬天关进四面素壁，用五种灰度调出画史上最彻底的沉默。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "丹麦 哥本哈根"
+      },
+      "key_work": {
+        "title": "尘粒在阳光中跳舞",
+        "year": "1900",
+        "collection": "丹麦国立美术馆，哥本哈根",
+        "detail": "直接看画面中央斜切下来的那道冷光。光柱里漂浮着无数细小斑点，打在一尘不染的地板和光秃秃的双扇白门上。房间里连一把椅子都没有，光源在右侧窗外，视线顺着光线看过去，整间屋子安静得像抽干了空气。"
+      },
+      "fun_fact": "他在哥本哈根斯特兰加德30号租住了十年，几乎把这套老房子当成了唯一的模特。为了彻底消除杂音，他亲自动手把墙面全刷成暗灰浆色、门框全刷成白漆，还把屋里的家具搬得只剩几件，连妻子摆姿势时也只能低着头留给他一个后脑勺。",
+      "quote": {
+        "text": "我总觉得空无一人的房间有一种特殊的美，哪怕里面连一个活着的人都没有。",
+        "original": "Jeg har altid syntes, at der var en egen Skønhed over sådanne tomme Stuer, selv naar der ingen Mennesker er i dem.",
+        "source": "1907年丹麦杂志《Hver 8. Dag》专访"
+      },
+      "card_path": "artists/2026/10/2026-10-22-vilhelm-hammershoi.md"
     }
   ],
   "statistics": {
-    "total_artists": 52,
+    "total_artists": 53,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 36,
+      "m": 37,
       "f": 11
     },
     "by_column": {
       "masters": 10,
       "her": 11,
       "east": 7,
-      "overlooked": 5,
+      "overlooked": 6,
       "modern": 8,
       "makers": 9,
       "wildcard": 0
@@ -2470,7 +2516,8 @@
       "GB": 3,
       "CH": 3,
       "US": 3,
-      "NO": 1
+      "NO": 1,
+      "DK": 1
     },
     "artists": 7
   }

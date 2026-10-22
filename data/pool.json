@@ -602,7 +602,7 @@
         "name_en": "Vilhelm Hammershoi",
         "years": "1864-1916",
         "country": "丹麦",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "奥迪隆·雷东",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 108
+  "total_queued": 107
 }

@@ -90,6 +90,7 @@ _（待补充）_
 | 马列维奇 Kazimir Malevich | 俄罗斯 | ♂ | 现代 | [→](../artists/2026/10/2026-10-02-kazimir-malevich.md) |
 | 野口勇 Isamu Noguchi | 美国 | ♂ | 匠人 | [→](../artists/2026/10/2026-10-03-isamu-noguchi.md) |
 | 蒙克 Edvard Munch | 挪威 | ♂ | 现代 | [→](../artists/2026/10/2026-10-09-edvard-munch.md) |
+| 维尔赫姆·哈默休伊 Vilhelm Hammershoi | 丹麦 | ♂ | 遗珠 | [→](../artists/2026/10/2026-10-22-vilhelm-hammershoi.md) |
 | 卡米耶·克洛岱尔 Camille Claudel | 法国 | ♀ | **她** | [→](../artists/2026/10/2026-10-20-camille-claudel.md) |
 
 ## 东方传统 Eastern Traditions
