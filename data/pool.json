@@ -807,7 +807,7 @@
         "name_en": "Egon Schiele",
         "years": "1890-1918",
         "country": "奥地利",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "克林姆特",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 107
+  "total_queued": 106
 }

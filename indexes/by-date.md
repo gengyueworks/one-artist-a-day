@@ -21,6 +21,7 @@
 | 2026-10-19 | 🎩 巨匠 Masters | [爱德华·马奈](2026/10/2026-10-19-edouard-manet.md) | `2026-10-19-edouard-manet.md` |
 | 2026-10-20 | 👑 她 Her | [卡米耶·克洛岱尔](2026/10/2026-10-20-camille-claudel.md) | `2026-10-20-camille-claudel.md` |
 | 2026-10-22 | 🔦 遗珠 Overlooked | [维尔赫姆·哈默休伊](2026/10/2026-10-22-vilhelm-hammershoi.md) | `2026-10-22-vilhelm-hammershoi.md` |
+| 2026-10-23 | 🖥️ 现代 Modern | [埃贡·席勒](2026/10/2026-10-23-egon-schiele.md) | `2026-10-23-egon-schiele.md` |
 
 ### 9 月
 

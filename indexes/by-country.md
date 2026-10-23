@@ -87,6 +87,9 @@ _（待补充：蒙克、佐恩等）_
 ### 丹麦
 
 - [维尔赫姆·哈默休伊 Vilhelm Hammershoi](../artists/2026/10/2026-10-22-vilhelm-hammershoi.md) — 1864–1916, ♂, 19世纪末至20世纪初, 遗珠
+### 奥地利
+
+- [埃贡·席勒 Egon Schiele](../artists/2026/10/2026-10-23-egon-schiele.md) — 1890–1918, ♂, 表现主义, 现代
 ## 东亚 East Asia
 
 ### 🇯🇵 日本 Japan

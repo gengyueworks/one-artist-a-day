@@ -2485,14 +2485,62 @@
         "source": "1907年丹麦杂志《Hver 8. Dag》专访"
       },
       "card_path": "artists/2026/10/2026-10-22-vilhelm-hammershoi.md"
+    },
+    {
+      "date": "2026-10-23",
+      "column": "modern",
+      "slug": "egon-schiele",
+      "name_zh": "埃贡·席勒",
+      "name_en": "Egon Schiele",
+      "name_native": "",
+      "years": "1890–1918",
+      "birthplace": "奥地利 图尔恩",
+      "country": "奥地利",
+      "country_code": "AT",
+      "era": "表现主义",
+      "movements": [
+        "维也纳分离派",
+        "表现主义"
+      ],
+      "mediums": [
+        "油画",
+        "素描",
+        "水彩"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-10-23-egon-schiele.jpg",
+      "hero_caption": "《艺术家的母亲》，1907",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/29424",
+      "verified": false,
+      "one_liner": "用神经质的刮擦线条和病态畸形的裸体，撕破维也纳世纪末伪善的优雅皮囊。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "奥地利 图尔恩"
+      },
+      "key_work": {
+        "title": "艺术家的母亲",
+        "year": "1907",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "看画面正中沉睡的面孔，深陷的眼窝和前额被黑色蜡笔反复摩擦出大块灰暗阴影。席勒完全剥除了传统母性肖像里的温情，用干涩紧绷的硬线条勒出下巴与紧抿的嘴角，母亲显得衰老又疲惫。头颅下方是大片未着一笔的空白纸面，整张脸像断裂的石膏像一样悬在虚空里。"
+      },
+      "fun_fact": "席勒生前搬家无数次，行李里永远有一面从火车站当站长的父亲那里继承来的超大等身试衣镜。他整天脱光衣服站在镜子前，把自己扭曲成各种脱臼般的痉挛姿势，盯着镜子画下一张又一张神经质的自画像。",
+      "quote": {
+        "text": "限制艺术家是一种犯罪，那是在谋杀正在萌芽的生命！",
+        "original": "Den Künstler hemmen, ist ein Verbrechen, es heißt keimendes Leben morden!",
+        "source": "1912年4月诺伊伦巴赫狱中日记"
+      },
+      "card_path": "artists/2026/10/2026-10-23-egon-schiele.md"
     }
   ],
   "statistics": {
-    "total_artists": 53,
+    "total_artists": 54,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 37,
+      "m": 38,
       "f": 11
     },
     "by_column": {
@@ -2500,7 +2548,7 @@
       "her": 11,
       "east": 7,
       "overlooked": 6,
-      "modern": 8,
+      "modern": 9,
       "makers": 9,
       "wildcard": 0
     },
@@ -2517,7 +2565,8 @@
       "CH": 3,
       "US": 3,
       "NO": 1,
-      "DK": 1
+      "DK": 1,
+      "AT": 1
     },
     "artists": 7
   }
