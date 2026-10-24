@@ -991,7 +991,7 @@
         "name_en": "Antoni Gaudi",
         "years": "1852-1926",
         "country": "西班牙",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "赖特",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 106
+  "total_queued": 105
 }

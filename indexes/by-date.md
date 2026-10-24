@@ -22,6 +22,7 @@
 | 2026-10-20 | 👑 她 Her | [卡米耶·克洛岱尔](2026/10/2026-10-20-camille-claudel.md) | `2026-10-20-camille-claudel.md` |
 | 2026-10-22 | 🔦 遗珠 Overlooked | [维尔赫姆·哈默休伊](2026/10/2026-10-22-vilhelm-hammershoi.md) | `2026-10-22-vilhelm-hammershoi.md` |
 | 2026-10-23 | 🖥️ 现代 Modern | [埃贡·席勒](2026/10/2026-10-23-egon-schiele.md) | `2026-10-23-egon-schiele.md` |
+| 2026-10-24 | 🛠️ 匠人 Makers | [高迪](2026/10/2026-10-24-antoni-gaudi.md) | `2026-10-24-antoni-gaudi.md` |
 
 ### 9 月
 

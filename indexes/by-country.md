@@ -59,6 +59,7 @@ _（待补充：丢勒、弗里德里希、珂勒惠支等）_
 - [巴勃罗·毕加索 Pablo Picasso](../artists/2026/08/2026-08-21-pablo-picasso.md) — 1881–1973, ♂, 现代艺术, 现代
 - [委拉斯开兹 Diego Velázquez](../artists/2026/09/2026-09-28-diego-velazquez.md) — 1599–1660, ♂, 巴洛克, 巨匠
 - [戈雅 Francisco Goya](../artists/2026/10/2026-10-05-francisco-goya.md) — 1746–1828, ♂, 浪漫主义, 巨匠
+- [高迪 Antoni Gaudí](../artists/2026/10/2026-10-24-antoni-gaudi.md) — 1852–1926, ♂, 加泰罗尼亚现代主义, 匠人
 
 ### 🇧🇪 比利时 Belgium
 

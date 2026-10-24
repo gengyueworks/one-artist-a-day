@@ -2533,14 +2533,63 @@
         "source": "1912年4月诺伊伦巴赫狱中日记"
       },
       "card_path": "artists/2026/10/2026-10-23-egon-schiele.md"
+    },
+    {
+      "date": "2026-10-24",
+      "column": "makers",
+      "slug": "antoni-gaudi",
+      "name_zh": "高迪",
+      "name_en": "Antoni Gaudí",
+      "name_native": "",
+      "years": "1852–1926",
+      "birthplace": "西班牙 雷乌斯",
+      "country": "西班牙",
+      "country_code": "ES",
+      "era": "加泰罗尼亚现代主义",
+      "movements": [
+        "加泰罗尼亚现代主义",
+        "新艺术运动"
+      ],
+      "mediums": [
+        "建筑",
+        "雕塑",
+        "马赛克",
+        "铁艺"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《圣家族大教堂》，始建于1882年",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://sagradafamilia.org",
+      "verified": false,
+      "one_liner": "他把自然界的骨骼、蜂巢和悬链线算进结构里，彻底推翻了欧洲建筑沿用两千年的直线与方盒子规则。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "西班牙 雷乌斯"
+      },
+      "key_work": {
+        "title": "圣家族大教堂（诞生立面）",
+        "year": "1893–1936",
+        "collection": "西班牙巴塞罗那",
+        "detail": "走到诞生立面中央的慈悲门前，抬头看门廊正中那根把大门一分为二的立柱，柱底压着一只石雕海龟。视线往上走三米，石头像融化的蜡一样流淌下来，三十多种加泰罗尼亚本土植物的叶脉全被直接翻模刻进了石壁缝隙里。"
+      },
+      "fun_fact": "1926年他在巴塞罗那街头被电车撞倒，因为穿着破烂、口袋里只有一把坚果和一本福音书，被路人当成流浪汉送进了圣十字穷人医院，三天后才被认出来。",
+      "quote": {
+        "text": "直线属于人类，曲线属于上帝。",
+        "original": "La línia recta és dels homes, la corba és de Déu.",
+        "source": "高迪口述，传记学者 Joan Bergós 记录整理于《Gaudí: l'home i l'obra》"
+      },
+      "card_path": "artists/2026/10/2026-10-24-antoni-gaudi.md"
     }
   ],
   "statistics": {
-    "total_artists": 54,
+    "total_artists": 55,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 38,
+      "m": 39,
       "f": 11
     },
     "by_column": {
@@ -2549,7 +2598,7 @@
       "east": 7,
       "overlooked": 6,
       "modern": 9,
-      "makers": 9,
+      "makers": 10,
       "wildcard": 0
     },
     "by_country": {
@@ -2557,7 +2606,7 @@
       "IT": 10,
       "JP": 1,
       "FR": 11,
-      "ES": 3,
+      "ES": 4,
       "CN": 6,
       "RO": 1,
       "RU": 2,
