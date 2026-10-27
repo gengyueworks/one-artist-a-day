@@ -2582,19 +2582,67 @@
         "source": "高迪口述，传记学者 Joan Bergós 记录整理于《Gaudí: l'home i l'obra》"
       },
       "card_path": "artists/2026/10/2026-10-24-antoni-gaudi.md"
+    },
+    {
+      "date": "2026-10-27",
+      "column": "her",
+      "slug": "suzanne-valadon",
+      "name_zh": "苏珊娜·瓦拉东",
+      "name_en": "Suzanne Valadon",
+      "name_native": "",
+      "years": "1865–1938",
+      "birthplace": "法国 贝西讷叙加尔唐普",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "现代主义",
+      "movements": [
+        "后印象派",
+        "巴黎画派"
+      ],
+      "mediums": [
+        "油画",
+        "版画",
+        "素描"
+      ],
+      "gender": "f",
+      "hero_image": "images/2026-10-27-suzanne-valadon.jpg",
+      "hero_caption": "《沐浴的女人》，1908",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/3433",
+      "verified": false,
+      "one_liner": "从雷诺阿和德加画板前的裸体模特，变成第一个画出下垂乳房、粗壮大腿和男性全裸的女画家。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 贝西讷叙加尔唐普"
+      },
+      "key_work": {
+        "title": "沐浴的女人",
+        "year": "1908",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "看女人弓起的后背和粗壮的手臂，轮廓线被铜版蚀刻压得极深极硬，毫无印象派式的粉润光晕。她整个人蜷缩在狭小的洗澡盆里，重心压在脚踝上，动作笨拙而紧张，完全是一个平民女子关起门来擦洗身体时的日常劳作姿态。"
+      },
+      "fun_fact": "她十五岁在蒙马特当马戏团空中杂技演员，因摔伤摔断了肋骨才转行做画家模特。成名后她给家里的一群狗织毛衣，还坚持在每周五给自己的猫喂高级鱼子酱。",
+      "quote": {
+        "text": "",
+        "original": "",
+        "source": ""
+      },
+      "card_path": "artists/2026/10/2026-10-27-suzanne-valadon.md"
     }
   ],
   "statistics": {
-    "total_artists": 55,
+    "total_artists": 56,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 39,
-      "f": 11
+      "f": 12
     },
     "by_column": {
       "masters": 10,
-      "her": 11,
+      "her": 12,
       "east": 7,
       "overlooked": 6,
       "modern": 9,
@@ -2605,7 +2653,7 @@
       "NL": 6,
       "IT": 10,
       "JP": 1,
-      "FR": 11,
+      "FR": 12,
       "ES": 4,
       "CN": 6,
       "RO": 1,

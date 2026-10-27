@@ -262,7 +262,7 @@
         "name_en": "Suzanne Valadon",
         "years": "1865-1938",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "珂勒惠支",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 105
+  "total_queued": 104
 }
