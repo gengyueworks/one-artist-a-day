@@ -44,6 +44,7 @@
 - [爱德华·马奈 Édouard Manet](../artists/2026/10/2026-10-19-edouard-manet.md) — 1832–1883, ♂, 19世纪现实主义与印象派, 巨匠
 - [卡米耶·克洛岱尔 Camille Claudel](../artists/2026/10/2026-10-20-camille-claudel.md) — 1864–1943, ♀, 19世纪末现代雕塑先驱, **她**
 - [苏珊娜·瓦拉东 Suzanne Valadon](../artists/2026/10/2026-10-27-suzanne-valadon.md) — 1865–1938, ♀, 现代主义, **她**
+- [奥迪隆·雷东 Odilon Redon](../artists/2026/10/2026-10-29-odilon-redon.md) — 1840–1916, ♂, 19世纪末至20世纪初, 遗珠
 
 ### 🇬🇧 英国 United Kingdom
 

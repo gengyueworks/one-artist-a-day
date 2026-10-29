@@ -609,7 +609,7 @@
         "name_en": "Odilon Redon",
         "years": "1840-1916",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "詹姆斯·恩索尔",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 104
+  "total_queued": 103
 }

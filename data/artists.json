@@ -2630,21 +2630,68 @@
         "source": ""
       },
       "card_path": "artists/2026/10/2026-10-27-suzanne-valadon.md"
+    },
+    {
+      "date": "2026-10-29",
+      "column": "overlooked",
+      "slug": "odilon-redon",
+      "name_zh": "奥迪隆·雷东",
+      "name_en": "Odilon Redon",
+      "name_native": "",
+      "years": "1840–1916",
+      "birthplace": "法国 波尔多",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "19世纪末至20世纪初",
+      "movements": [
+        "象征主义"
+      ],
+      "mediums": [
+        "粉彩",
+        "石版画",
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-10-29-odilon-redon.jpg",
+      "hero_caption": "《花云》，约 1903",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/76395",
+      "verified": false,
+      "one_liner": "和莫奈同一年出生，却对画干草堆毫无兴趣，他只用粉彩抓取闭上眼睛才能看见的东西。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 波尔多"
+      },
+      "key_work": {
+        "title": "花云",
+        "year": "约 1903",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "视线先落在左下角那艘窄小的褐色帆船上，船里缩着两个模糊的祈祷身影。再往上看，整片天空没有一片真实的云，全是雷东用粉彩干擦、刻划出来的金黄色、洋红和群青色光斑，粉末在纸纹上爆开，像把春天的花瓣直接碾成了宇宙星云。"
+      },
+      "fun_fact": "1884年作家于斯曼出版小说《逆流》，安排虚构的怪癖男主角在卧室里挂满雷东的黑白石版画。雷东因此在巴黎文学圈一炮而红，可现实里他穷得连买昂贵颜料的钱都凑不齐。",
+      "quote": {
+        "text": "我的独创性在于，尽可能把可见之物的逻辑，拿去服务那些不可见之物。",
+        "original": "Mettre, autant que possible, la logique du visible au service de l'invisible.",
+        "source": "日记集《对自己说》（À soi-même）"
+      },
+      "card_path": "artists/2026/10/2026-10-29-odilon-redon.md"
     }
   ],
   "statistics": {
-    "total_artists": 56,
+    "total_artists": 57,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 39,
+      "m": 40,
       "f": 12
     },
     "by_column": {
       "masters": 10,
       "her": 12,
       "east": 7,
-      "overlooked": 6,
+      "overlooked": 7,
       "modern": 9,
       "makers": 10,
       "wildcard": 0
@@ -2653,7 +2700,7 @@
       "NL": 6,
       "IT": 10,
       "JP": 1,
-      "FR": 12,
+      "FR": 13,
       "ES": 4,
       "CN": 6,
       "RO": 1,

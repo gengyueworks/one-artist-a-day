@@ -94,6 +94,7 @@ _（待补充）_
 | 维尔赫姆·哈默休伊 Vilhelm Hammershoi | 丹麦 | ♂ | 遗珠 | [→](../artists/2026/10/2026-10-22-vilhelm-hammershoi.md) |
 | 埃贡·席勒 Egon Schiele | 奥地利 | ♂ | 现代 | [→](../artists/2026/10/2026-10-23-egon-schiele.md) |
 | 高迪 Antoni Gaudí | 西班牙 | ♂ | 匠人 | [→](../artists/2026/10/2026-10-24-antoni-gaudi.md) |
+| 奥迪隆·雷东 Odilon Redon | 法国 | ♂ | 遗珠 | [→](../artists/2026/10/2026-10-29-odilon-redon.md) |
 | 卡米耶·克洛岱尔 Camille Claudel | 法国 | ♀ | **她** | [→](../artists/2026/10/2026-10-20-camille-claudel.md) |
 
 ## 东方传统 Eastern Traditions
