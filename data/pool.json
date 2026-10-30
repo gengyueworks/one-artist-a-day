@@ -814,7 +814,7 @@
         "name_en": "Gustav Klimt",
         "years": "1862-1918",
         "country": "奥地利",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "夏加尔",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 103
+  "total_queued": 102
 }

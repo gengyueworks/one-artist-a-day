@@ -2677,14 +2677,63 @@
         "source": "日记集《对自己说》（À soi-même）"
       },
       "card_path": "artists/2026/10/2026-10-29-odilon-redon.md"
+    },
+    {
+      "date": "2026-10-30",
+      "column": "modern",
+      "slug": "gustav-klimt",
+      "name_zh": "古斯塔夫·克林姆特",
+      "name_en": "Gustav Klimt",
+      "name_native": "",
+      "years": "1862–1918",
+      "birthplace": "奥地利 维也纳",
+      "country": "奥地利",
+      "country_code": "AT",
+      "era": "现代艺术",
+      "movements": [
+        "维也纳分离派",
+        "象征主义",
+        "新艺术运动"
+      ],
+      "mediums": [
+        "油画",
+        "素描",
+        "壁画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-10-30-gustav-klimt.jpg",
+      "hero_caption": "《左脚踩在基座上的男性人体》，1879",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/154795",
+      "verified": false,
+      "one_liner": "把拜占庭金箔、情欲肉体和神经质的装饰纹样焊在一起，成了维也纳世纪末华丽又腐朽的视觉化身。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "奥地利 维也纳"
+      },
+      "key_work": {
+        "title": "左脚踩在基座上的男性人体",
+        "year": "1879",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "看模特悬空的左大腿与膝弯，石墨排线密实紧绷，极具解剖精准度。再看锁骨与肋骨处的白色提亮，在粗糙的棕色纸基上直接抓出高光，那是他在艺术工艺学校打下的坚实学院功底。"
+      },
+      "fun_fact": "克林姆特在画室里几乎只套一件宽大的蓝色亚麻长袍，里面不穿内衣；工作室里养了十几只猫，他常任由猫在速写草稿堆上踩来踩去。",
+      "quote": {
+        "text": "我对把自己作为绘画对象没有任何特别的兴趣。我对其他人更感兴趣，尤其是女人。",
+        "original": "Ich bin kein sonderlich interessanter Mensch. Es gibt nichts Besonderes an mir. Ich bin Maler, der von morgens bis abends malt.",
+        "source": "克林姆特未寄出的散记《关于我这个人的简评》，约1905年"
+      },
+      "card_path": "artists/2026/10/2026-10-30-gustav-klimt.md"
     }
   ],
   "statistics": {
-    "total_artists": 57,
+    "total_artists": 58,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 40,
+      "m": 41,
       "f": 12
     },
     "by_column": {
@@ -2692,7 +2741,7 @@
       "her": 12,
       "east": 7,
       "overlooked": 7,
-      "modern": 9,
+      "modern": 10,
       "makers": 10,
       "wildcard": 0
     },
@@ -2710,7 +2759,7 @@
       "US": 3,
       "NO": 1,
       "DK": 1,
-      "AT": 1
+      "AT": 2
     },
     "artists": 7
   }
