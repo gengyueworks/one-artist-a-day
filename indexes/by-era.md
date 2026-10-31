@@ -96,6 +96,7 @@ _（待补充）_
 | 高迪 Antoni Gaudí | 西班牙 | ♂ | 匠人 | [→](../artists/2026/10/2026-10-24-antoni-gaudi.md) |
 | 奥迪隆·雷东 Odilon Redon | 法国 | ♂ | 遗珠 | [→](../artists/2026/10/2026-10-29-odilon-redon.md) |
 | 古斯塔夫·克林姆特 Gustav Klimt | 奥地利 | ♂ | 现代 | [→](../artists/2026/10/2026-10-30-gustav-klimt.md) |
+| 弗兰克·劳埃德·赖特 Frank Lloyd Wright | 美国 | ♂ | 匠人 | [→](../artists/2026/10/2026-10-31-frank-lloyd-wright.md) |
 | 卡米耶·克洛岱尔 Camille Claudel | 法国 | ♀ | **她** | [→](../artists/2026/10/2026-10-20-camille-claudel.md) |
 
 ## 东方传统 Eastern Traditions

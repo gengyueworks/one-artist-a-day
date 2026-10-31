@@ -998,7 +998,7 @@
         "name_en": "Frank Lloyd Wright",
         "years": "1867-1959",
         "country": "美国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "密斯·凡·德·罗",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 102
+  "total_queued": 101
 }

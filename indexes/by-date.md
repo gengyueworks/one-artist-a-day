@@ -26,6 +26,7 @@
 | 2026-10-27 | 👑 她 Her | [苏珊娜·瓦拉东](2026/10/2026-10-27-suzanne-valadon.md) | `2026-10-27-suzanne-valadon.md` |
 | 2026-10-29 | 🔦 遗珠 Overlooked | [奥迪隆·雷东](2026/10/2026-10-29-odilon-redon.md) | `2026-10-29-odilon-redon.md` |
 | 2026-10-30 | 🖥️ 现代 Modern | [古斯塔夫·克林姆特](2026/10/2026-10-30-gustav-klimt.md) | `2026-10-30-gustav-klimt.md` |
+| 2026-10-31 | 🛠️ 匠人 Makers | [弗兰克·劳埃德·赖特](2026/10/2026-10-31-frank-lloyd-wright.md) | `2026-10-31-frank-lloyd-wright.md` |
 
 ### 9 月
 

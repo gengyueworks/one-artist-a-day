@@ -2726,14 +2726,62 @@
         "source": "克林姆特未寄出的散记《关于我这个人的简评》，约1905年"
       },
       "card_path": "artists/2026/10/2026-10-30-gustav-klimt.md"
+    },
+    {
+      "date": "2026-10-31",
+      "column": "makers",
+      "slug": "frank-lloyd-wright",
+      "name_zh": "弗兰克·劳埃德·赖特",
+      "name_en": "Frank Lloyd Wright",
+      "name_native": "",
+      "years": "1867–1959",
+      "birthplace": "美国 里奇兰森特",
+      "country": "美国",
+      "country_code": "US",
+      "era": "现代主义",
+      "movements": [
+        "有机建筑",
+        "草原学派"
+      ],
+      "mediums": [
+        "建筑",
+        "室内设计",
+        "彩绘玻璃"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《落水山庄》，1935",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://fallingwater.org",
+      "verified": false,
+      "one_liner": "他把房子从欧洲古典的封闭盒子里彻底解放，让建筑像树木与岩石一样直接从地底长出。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "美国 里奇兰森特"
+      },
+      "key_work": {
+        "title": "落水山庄",
+        "year": "1935",
+        "collection": "西宾夕法尼亚保护协会（米尔伦原址）",
+        "detail": "抬头看二层突出的米黄色悬臂露台，底下完全没有立柱支撑，像托盘一样凌空伸向瀑布上空。起居室中央的地坪特意裸露了原本就在那里的天然花岗岩，直接当作壁炉前的基石。转角窗户彻底去掉了垂直的金属角柱，两块玻璃在九十度角直接用胶拼接，把视线毫无阻隔地送进树林。"
+      },
+      "fun_fact": "考夫曼催了几个月图纸，赖特一直拖延说在画了。1935年9月的一个早晨，考夫曼突然来电说正在两小时车程外、马上登门看图。赖特挂断电话，在两个小时内当场在草图纸上画完了落水山庄整套初始方案。",
+      "quote": {
+        "text": "房子不应该建在小山顶上，也不该建在任何地块上。它应该从小山本身生长出来，属于那座山。",
+        "original": "No house should ever be on a hill or on anything. It should be of the hill. Belonging to it.",
+        "source": "《自传》（An Autobiography），1932"
+      },
+      "card_path": "artists/2026/10/2026-10-31-frank-lloyd-wright.md"
     }
   ],
   "statistics": {
-    "total_artists": 58,
+    "total_artists": 59,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 41,
+      "m": 42,
       "f": 12
     },
     "by_column": {
@@ -2742,7 +2790,7 @@
       "east": 7,
       "overlooked": 7,
       "modern": 10,
-      "makers": 10,
+      "makers": 11,
       "wildcard": 0
     },
     "by_country": {
@@ -2756,7 +2804,7 @@
       "RU": 2,
       "GB": 3,
       "CH": 3,
-      "US": 3,
+      "US": 4,
       "NO": 1,
       "DK": 1,
       "AT": 2
