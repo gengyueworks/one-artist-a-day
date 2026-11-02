@@ -71,7 +71,7 @@
         "name_en": "Claude Monet",
         "years": "1840-1926",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "梵高",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 101
+  "total_queued": 100
 }

@@ -2774,18 +2774,63 @@
         "source": "《自传》（An Autobiography），1932"
       },
       "card_path": "artists/2026/10/2026-10-31-frank-lloyd-wright.md"
+    },
+    {
+      "date": "2026-11-02",
+      "column": "masters",
+      "slug": "claude-monet",
+      "name_zh": "莫奈",
+      "name_en": "Claude Monet",
+      "name_native": "",
+      "years": "1840–1926",
+      "birthplace": "法国 巴黎",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "印象派",
+      "movements": [
+        "印象派"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "images/2026-11-02-claude-monet.jpg",
+      "hero_caption": "《睡莲》，1906",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/16568",
+      "verified": false,
+      "one_liner": "他不是在画风景，而是在把物质世界拆解成视网膜接收到的纯粹光斑与时间切片。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 巴黎"
+      },
+      "key_work": {
+        "title": "睡莲",
+        "year": "1906",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "整幅画找不到一条地平线，池水直接填满了整个视野。画面左侧和下半部是用浓重暗绿堆叠的水草与池底阴影，中央那几团粉白色睡莲悬在幽暗中；右上角那片泛着冷光的浅蓝灰，则是天空倒映在水面上碎裂的影子。"
+      },
+      "fun_fact": "莫奈在吉维尼雇了六位全职园丁，其中有一位专属水上园丁，每天清晨必须赶在莫奈支起画架前划着小木船下水，用湿布把睡莲叶片上的浮萍与泥尘一片一片擦洗干净。",
+      "quote": {
+        "text": "除了画画和园艺，我一无所长。",
+        "original": "En dehors de la peinture et du jardinage, je ne suis bon à rien.",
+        "source": "1926年莫奈在吉维尼与友人的交谈记录"
+      },
+      "card_path": "artists/2026/11/2026-11-02-claude-monet.md"
     }
   ],
   "statistics": {
-    "total_artists": 59,
+    "total_artists": 60,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 42,
+      "m": 43,
       "f": 12
     },
     "by_column": {
-      "masters": 10,
+      "masters": 11,
       "her": 12,
       "east": 7,
       "overlooked": 7,
@@ -2797,7 +2842,7 @@
       "NL": 6,
       "IT": 10,
       "JP": 1,
-      "FR": 13,
+      "FR": 14,
       "ES": 4,
       "CN": 6,
       "RO": 1,
