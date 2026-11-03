@@ -269,7 +269,7 @@
         "name_en": "Kathe Kollwitz",
         "years": "1867-1945",
         "country": "德国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "希尔玛·阿夫·克林特",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 100
+  "total_queued": 99
 }

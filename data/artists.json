@@ -2819,19 +2819,67 @@
         "source": "1926年莫奈在吉维尼与友人的交谈记录"
       },
       "card_path": "artists/2026/11/2026-11-02-claude-monet.md"
+    },
+    {
+      "date": "2026-11-03",
+      "column": "her",
+      "slug": "kathe-kollwitz",
+      "name_zh": "珂勒惠支",
+      "name_en": "Kathe Kollwitz",
+      "name_native": "Käthe Kollwitz",
+      "years": "1867–1945",
+      "birthplace": "普鲁士 柯尼斯堡",
+      "country": "德国",
+      "country_code": "DE",
+      "era": "表现主义",
+      "movements": [
+        "表现主义",
+        "社会现实主义"
+      ],
+      "mediums": [
+        "版画",
+        "雕塑",
+        "素描"
+      ],
+      "gender": "f",
+      "hero_image": "",
+      "hero_caption": "《抱死儿的母亲》，1903",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.kaethe-kollwitz.berlin",
+      "verified": false,
+      "one_liner": "用黑白粗线死死扣住丧子与饥饿的硬核版画家，画出来的不是痛苦的修辞，是压在皮肉骨头上的重量。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "普鲁士 柯尼斯堡"
+      },
+      "key_work": {
+        "title": "抱死儿的母亲",
+        "year": "1903",
+        "collection": "柏林珂勒惠支博物馆",
+        "detail": "看画面正中央，母亲把整个下巴死死卡进了死去男孩的锁骨窝里，整个人弓成一座沉重的肉丘。男孩光裸的右小腿软塌塌垂在母亲小臂边上，母亲青筋毕露的大手像铁夹一样抠进儿子的后背。没有眼泪，也没有圣母哀悼基督的神性光环，光全砸在母亲暴突的肩胛骨上，那是野兽护雏般的绝望。"
+      },
+      "fun_fact": "画《抱死儿的母亲》时她拿七岁的小儿子彼得当模特，让他脱光了趴在自己怀里摆姿势。十一年后，彼得在一战战场阵亡。",
+      "quote": {
+        "text": "我同意我的艺术是有目的的。在这个人人都感到无助、需要援手的时刻，我想发挥作用。",
+        "original": "Ich bin einverstanden damit, daß meine Kunst Zwecke hat. Ich will wirken in dieser Zeit, in der die Menschen so ratlos und hilfsbedürftig sind.",
+        "source": "1922年12月4日日记"
+      },
+      "card_path": "artists/2026/11/2026-11-03-kathe-kollwitz.md"
     }
   ],
   "statistics": {
-    "total_artists": 60,
+    "total_artists": 61,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 43,
-      "f": 12
+      "f": 13
     },
     "by_column": {
       "masters": 11,
-      "her": 12,
+      "her": 13,
       "east": 7,
       "overlooked": 7,
       "modern": 10,
@@ -2852,7 +2900,8 @@
       "US": 4,
       "NO": 1,
       "DK": 1,
-      "AT": 2
+      "AT": 2,
+      "DE": 1
     },
     "artists": 7
   }
