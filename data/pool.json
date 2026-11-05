@@ -616,7 +616,7 @@
         "name_en": "James Ensor",
         "years": "1860-1949",
         "country": "比利时",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "费尔南·赫诺普夫",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 99
+  "total_queued": 98
 }

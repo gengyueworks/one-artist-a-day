@@ -2867,21 +2867,68 @@
         "source": "1922年12月4日日记"
       },
       "card_path": "artists/2026/11/2026-11-03-kathe-kollwitz.md"
+    },
+    {
+      "date": "2026-11-05",
+      "column": "overlooked",
+      "slug": "james-ensor",
+      "name_zh": "詹姆斯·恩索尔",
+      "name_en": "James Ensor",
+      "name_native": "",
+      "years": "1860–1949",
+      "birthplace": "比利时 奥斯坦德",
+      "country": "比利时",
+      "country_code": "BE",
+      "era": "表现主义先驱",
+      "movements": [
+        "象征主义",
+        "表现主义"
+      ],
+      "mediums": [
+        "油画",
+        "版画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《基督进入布鲁塞尔》，1888",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.getty.edu/art/collection/object/103RDV",
+      "verified": false,
+      "one_liner": "同代人还在描摹光斑与睡莲，他已经在海边阁楼里掏空了狂欢节面具的眼眶，提前三十年把人群画成了吃人的骷髅。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "比利时 奥斯坦德"
+      },
+      "key_work": {
+        "title": "基督进入布鲁塞尔",
+        "year": "1888",
+        "collection": "洛杉矶 J. 保罗·盖蒂博物馆",
+        "detail": "视线不用找救世主。整张画布被千奇百怪的假面死死填满，基督本人被挤在画面正中央极小的一块，骑着毛驴，随时要被暴民踩扁。头顶上方拉着刺眼的猩红横幅，右下角戴高帽的军乐手正鼓起腮帮子，铜管乐器几乎戳到了前排观众的后脑勺。"
+      },
+      "fun_fact": "恩索尔的母亲在奥斯坦德海边开杂货铺，专卖干贝壳、风干的畸形鱼类和狂欢节用的廉价纸浆面具。恩索尔画了一辈子的骷髅与恶鬼，全是他从小在自家柜台和仓库里摸熟的库存。",
+      "quote": {
+        "text": "我的理性是懦弱的；本能、盲目的大脑、无意识的欲望引导着我。",
+        "original": "Mon raisonnement est lâche; l'instinct, le grand cerveau aveugle, les désirs inconscients me guident.",
+        "source": "1899年致评论家安德烈·丰泰纳斯（André Fontainas）的书信"
+      },
+      "card_path": "artists/2026/11/2026-11-05-james-ensor.md"
     }
   ],
   "statistics": {
-    "total_artists": 61,
+    "total_artists": 62,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 43,
+      "m": 44,
       "f": 13
     },
     "by_column": {
       "masters": 11,
       "her": 13,
       "east": 7,
-      "overlooked": 7,
+      "overlooked": 8,
       "modern": 10,
       "makers": 11,
       "wildcard": 0
@@ -2901,7 +2948,8 @@
       "NO": 1,
       "DK": 1,
       "AT": 2,
-      "DE": 1
+      "DE": 1,
+      "BE": 1
     },
     "artists": 7
   }
