@@ -1005,7 +1005,7 @@
         "name_en": "Mies van der Rohe",
         "years": "1886-1969",
         "country": "德国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "柯布西耶",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 98
+  "total_queued": 97
 }

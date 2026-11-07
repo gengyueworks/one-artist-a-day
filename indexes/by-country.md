@@ -56,6 +56,7 @@
 ### 🇩🇪 德国 Germany
 
 - [珂勒惠支 Kathe Kollwitz](../artists/2026/11/2026-11-03-kathe-kollwitz.md) — 1867–1945, ♀, 表现主义, **她**
+- [密斯·凡·德·罗 Ludwig Mies van der Rohe](../artists/2026/11/2026-11-07-mies-van-der-rohe.md) — 1886–1969, ♂, 现代主义, 匠人
 
 ### 🇪🇸 西班牙 Spain
 

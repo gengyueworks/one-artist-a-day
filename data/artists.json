@@ -2914,14 +2914,62 @@
         "source": "1899年致评论家安德烈·丰泰纳斯（André Fontainas）的书信"
       },
       "card_path": "artists/2026/11/2026-11-05-james-ensor.md"
+    },
+    {
+      "date": "2026-11-07",
+      "column": "makers",
+      "slug": "mies-van-der-rohe",
+      "name_zh": "密斯·凡·德·罗",
+      "name_en": "Ludwig Mies van der Rohe",
+      "name_native": "",
+      "years": "1886–1969",
+      "birthplace": "德国 亚琛",
+      "country": "德国",
+      "country_code": "DE",
+      "era": "现代主义",
+      "movements": [
+        "包豪斯",
+        "国际主义风格",
+        "现代主义建筑"
+      ],
+      "mediums": [
+        "建筑",
+        "家具设计"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《巴塞罗那德国馆》，1929",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://miesbcn.com/",
+      "verified": false,
+      "one_liner": "他把石材、钢与玻璃抽成极简的骨架，让“少即是多”定义了整个二十世纪城市天际线的轮廓。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "德国 亚琛"
+      },
+      "key_work": {
+        "title": "巴塞罗那德国馆",
+        "year": "1929",
+        "collection": "西班牙巴塞罗那（1986年于原址重建）",
+        "detail": "看室内中央那堵金黄带绿的玛瑙大理石墙，它不承担任何屋顶重量，纯粹用作视线引导。视线转向上方的天花板接缝，八根镜面般的十字形镀铬钢柱悄然立在角落，在反光中几乎隐形，整片屋顶像被气流悬浮在半空。"
+      },
+      "fun_fact": "为了巴塞罗那馆里那面主墙的大理石板，密斯亲自跑到阿尔及利亚的采石场翻找数天，直到找出一块花纹天然对称、切开能精准拼成镜面对仗图案的巨石。",
+      "quote": {
+        "text": "少就是多。",
+        "original": "Less is more.",
+        "source": "1947年接受《纽约先驱论坛报》采访时引述"
+      },
+      "card_path": "artists/2026/11/2026-11-07-mies-van-der-rohe.md"
     }
   ],
   "statistics": {
-    "total_artists": 62,
+    "total_artists": 63,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 44,
+      "m": 45,
       "f": 13
     },
     "by_column": {
@@ -2930,7 +2978,7 @@
       "east": 7,
       "overlooked": 8,
       "modern": 10,
-      "makers": 11,
+      "makers": 12,
       "wildcard": 0
     },
     "by_country": {
@@ -2948,7 +2996,7 @@
       "NO": 1,
       "DK": 1,
       "AT": 2,
-      "DE": 1,
+      "DE": 2,
       "BE": 1
     },
     "artists": 7
