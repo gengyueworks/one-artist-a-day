@@ -78,7 +78,7 @@
         "name_en": "Vincent van Gogh",
         "years": "1853-1890",
         "country": "荷兰",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "塞尚",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 97
+  "total_queued": 96
 }

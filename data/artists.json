@@ -2962,18 +2962,64 @@
         "source": "1947年接受《纽约先驱论坛报》采访时引述"
       },
       "card_path": "artists/2026/11/2026-11-07-mies-van-der-rohe.md"
+    },
+    {
+      "date": "2026-11-09",
+      "column": "masters",
+      "slug": "vincent-van-gogh",
+      "name_zh": "梵高",
+      "name_en": "Vincent van Gogh",
+      "name_native": "",
+      "years": "1853–1890",
+      "birthplace": "荷兰 津德尔特",
+      "country": "荷兰",
+      "country_code": "NL",
+      "era": "后印象派",
+      "movements": [
+        "后印象派"
+      ],
+      "mediums": [
+        "油画",
+        "素描"
+      ],
+      "gender": "m",
+      "hero_image": "https://www.artic.edu/artworks/28560",
+      "hero_caption": "《卧室》，1889",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/28560",
+      "verified": false,
+      "one_liner": "他不是靠本能发疯的天才，而是把厚涂颜料当成实体光子砸向画布、硬生生用色彩理论撞开现代绘画大门的苦修者。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "荷兰 津德尔特"
+      },
+      "key_work": {
+        "title": "卧室",
+        "year": "1889",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "盯住画面右侧倾斜的木床与两把空椅子，地板像甲板一样陡峭地朝观众滑落，整间屋子根本没有稳定的消失点。淡紫丁香色的墙壁直接撞上柠檬黄的床架与鲜红的被单，门窗紧闭。他原本声称要画出绝对的宁静，笔触却像通了高压电一样在物体的边缘剧烈颤抖。"
+      },
+      "fun_fact": "梵高画这幅画时穷得常年只啃面包灌咖啡，却从巴黎大量赊购最贵的铬黄与群青。芝加哥这幅《卧室》是他1889年9月在圣雷米精神病院画的复本，因为阿尔勒的原作被罗纳河泛滥的湿气泡坏了脱色，他为了寄给母亲和妹妹，在发病间隙硬是凭记忆重画了一遍。",
+      "quote": {
+        "text": "这一次画的只是我的卧室，但这里的颜色必须决定一切……看着这幅画应该让脑子休息，或者说，让想象力停下来。",
+        "original": "Cette fois c'est simplement ma chambre à coucher, seulement la couleur doit faire la chose là...",
+        "source": "1888年10月16日致弟弟提奥的第705封信"
+      },
+      "card_path": "artists/2026/11/2026-11-09-vincent-van-gogh.md"
     }
   ],
   "statistics": {
-    "total_artists": 63,
+    "total_artists": 64,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 45,
+      "m": 46,
       "f": 13
     },
     "by_column": {
-      "masters": 11,
+      "masters": 12,
       "her": 13,
       "east": 7,
       "overlooked": 8,
@@ -2982,7 +3028,7 @@
       "wildcard": 0
     },
     "by_country": {
-      "NL": 6,
+      "NL": 7,
       "IT": 10,
       "JP": 1,
       "FR": 14,

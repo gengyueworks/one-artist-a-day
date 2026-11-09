@@ -13,6 +13,7 @@
 - [彼得·德·霍赫 Pieter de Hooch](../artists/2026/09/2026-09-03-pieter-de-hooch.md) — 1629–1684, ♂, 荷兰黄金时代, 遗珠
 - [维米尔 Johannes Vermeer](../artists/2026/09/2026-09-07-johannes-vermeer.md) — 1632–1675, ♂, 荷兰黄金时代, 巨匠
 - [皮特·蒙德里安 Piet Mondrian](../artists/2026/09/2026-09-25-piet-mondrian.md) — 1872–1944, ♂, 现代艺术, 现代
+- [梵高 Vincent van Gogh](../artists/2026/11/2026-11-09-vincent-van-gogh.md) — 1853–1890, ♂, 后印象派, 巨匠
 - （待补充：维米尔、埃舍尔等）
 
 ### 🇮🇹 意大利 Italy
