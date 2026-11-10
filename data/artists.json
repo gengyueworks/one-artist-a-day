@@ -3008,19 +3008,67 @@
         "source": "1888年10月16日致弟弟提奥的第705封信"
       },
       "card_path": "artists/2026/11/2026-11-09-vincent-van-gogh.md"
+    },
+    {
+      "date": "2026-11-10",
+      "column": "her",
+      "slug": "hilma-af-klint",
+      "name_zh": "希尔玛·阿夫·克林特",
+      "name_en": "Hilma af Klint",
+      "name_native": "",
+      "years": "1862–1944",
+      "birthplace": "瑞典 索尔纳",
+      "country": "瑞典",
+      "country_code": "SE",
+      "era": "现代主义",
+      "movements": [
+        "抽象艺术",
+        "象征主义"
+      ],
+      "mediums": [
+        "布面油画",
+        "蛋彩",
+        "水彩"
+      ],
+      "gender": "f",
+      "hero_image": "",
+      "hero_caption": "《天鹅，第17号》，1915年",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://sis.modernamuseet.se/objects/84224/svanen-nr-17-grupp-ixsuw",
+      "verified": false,
+      "one_liner": "比康丁斯基早五年画出纯抽象，艺术史却花了一个世纪才承认她站在最前头。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "瑞典 索尔纳"
+      },
+      "key_work": {
+        "title": "《天鹅，第17号》",
+        "year": "1915",
+        "collection": "斯德哥尔摩当代美术馆（阿夫·克林特基金会长期借展）",
+        "detail": "直接看中央那个巨大的圆盘。上半截黑天鹅朝下俯冲，下半截白天鹅仰头向上，两只鸟的嘴喙在水平中心线上刚好咬合。外圈被分切成彩虹般的色环，背景则是上下对立的深蓝与砖红，整张画用完全对称的几何结构来锁定两股撕扯的力量。"
+      },
+      "fun_fact": "她在遗嘱里立下规矩：自己死后至少二十年内，一千两百多幅抽象画作一张都不能对外公开。她断定活着的时候没人能看懂，这些图像必须留给感知更敏锐的后代。",
+      "quote": {
+        "text": "画不是经过我预先构思绘制出来的，而是借着我的手直接落成的。我没有草稿，也不清楚它们最终要呈现什么，但我画得迅速而笃定，一笔都不曾改动。",
+        "original": "The pictures were painted directly through me, without any preliminary drawings, and with great force. I had no idea what the paintings were supposed to depict; nevertheless I worked swiftly and surely, without changing a single brush stroke.",
+        "source": "希尔玛·阿夫·克林特工作笔记"
+      },
+      "card_path": "artists/2026/11/2026-11-10-hilma-af-klint.md"
     }
   ],
   "statistics": {
-    "total_artists": 64,
+    "total_artists": 65,
     "by_gender": {
       "male": 2,
       "female": 1,
       "m": 46,
-      "f": 13
+      "f": 14
     },
     "by_column": {
       "masters": 12,
-      "her": 13,
+      "her": 14,
       "east": 7,
       "overlooked": 8,
       "modern": 10,
@@ -3043,7 +3091,8 @@
       "DK": 1,
       "AT": 2,
       "DE": 2,
-      "BE": 1
+      "BE": 1,
+      "SE": 1
     },
     "artists": 7
   }

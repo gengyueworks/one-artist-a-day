@@ -276,7 +276,7 @@
         "name_en": "Hilma af Klint",
         "years": "1862-1944",
         "country": "瑞典",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "索尼娅·德劳内",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 96
+  "total_queued": 95
 }

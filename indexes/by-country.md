@@ -97,6 +97,9 @@ _（待补充：蒙克、佐恩等）_
 
 - [埃贡·席勒 Egon Schiele](../artists/2026/10/2026-10-23-egon-schiele.md) — 1890–1918, ♂, 表现主义, 现代
 - [古斯塔夫·克林姆特 Gustav Klimt](../artists/2026/10/2026-10-30-gustav-klimt.md) — 1862–1918, ♂, 现代艺术, 现代
+### 瑞典
+
+- [希尔玛·阿夫·克林特 Hilma af Klint](../artists/2026/11/2026-11-10-hilma-af-klint.md) — 1862–1944, ♀, 现代主义, **她**
 ## 东亚 East Asia
 
 ### 🇯🇵 日本 Japan
