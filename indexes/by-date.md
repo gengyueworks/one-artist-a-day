@@ -14,6 +14,7 @@
 | 2026-11-07 | 🛠️ 匠人 Makers | [密斯·凡·德·罗](2026/11/2026-11-07-mies-van-der-rohe.md) | `2026-11-07-mies-van-der-rohe.md` |
 | 2026-11-09 | 🎩 巨匠 Masters | [梵高](2026/11/2026-11-09-vincent-van-gogh.md) | `2026-11-09-vincent-van-gogh.md` |
 | 2026-11-10 | 👑 她 Her | [希尔玛·阿夫·克林特](2026/11/2026-11-10-hilma-af-klint.md) | `2026-11-10-hilma-af-klint.md` |
+| 2026-11-12 | 🔦 遗珠 Overlooked | [费尔南·赫诺普夫](2026/11/2026-11-12-fernand-khnopff.md) | `2026-11-12-fernand-khnopff.md` |
 
 ### 10 月
 

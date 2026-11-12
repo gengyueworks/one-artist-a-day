@@ -623,7 +623,7 @@
         "name_en": "Fernand Khnopff",
         "years": "1858-1921",
         "country": "比利时",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "米哈伊尔·弗鲁贝尔",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 95
+  "total_queued": 94
 }

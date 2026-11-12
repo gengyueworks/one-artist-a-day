@@ -3056,21 +3056,69 @@
         "source": "希尔玛·阿夫·克林特工作笔记"
       },
       "card_path": "artists/2026/11/2026-11-10-hilma-af-klint.md"
+    },
+    {
+      "date": "2026-11-12",
+      "column": "overlooked",
+      "slug": "fernand-khnopff",
+      "name_zh": "费尔南·赫诺普夫",
+      "name_en": "Fernand Khnopff",
+      "name_native": "",
+      "years": "1858–1921",
+      "birthplace": "比利时 格德纳",
+      "country": "比利时",
+      "country_code": "BE",
+      "era": "19世纪末",
+      "movements": [
+        "象征主义",
+        "唯美主义"
+      ],
+      "mediums": [
+        "素描",
+        "色粉",
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "https://www.artic.edu/artworks/111745",
+      "hero_caption": "《面纱》，约1887年",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/111745",
+      "verified": false,
+      "one_liner": "他是把冰冷、禁欲与谜团封进画框的象征主义独行者，画里永远锁着一个不可接近的幽灵。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "比利时 格德纳"
+      },
+      "key_work": {
+        "title": "面纱",
+        "year": "约1887",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "整张脸被一层细密的黑色薄纱完全覆盖。炭笔用擦笔反复碾出极细的灰调，女人的五官退在织物深处，只有右侧额角透出的光亮和那双直勾勾盯出来的眼睛穿透了阴影。紧抿的薄唇几乎没有血色，整幅画安静得听不见呼吸，像死者脸上的裹尸布，又像活人坚决的闭门谢客。"
+      },
+      "fun_fact": "他在布鲁塞尔给自己盖了一座像陵墓一样的白色宅邸。工作室地板正中央画着一个金圈，他只站在圈里画画；屋子中央供奉着希腊睡神修普诺斯的半身像，门厅玄关的地砖上镶着他的人生信条。",
+      "quote": {
+        "text": "人只有自己。",
+        "original": "On a que soi.",
+        "source": "布鲁塞尔赫诺普夫私人宅邸门厅地面铭文"
+      },
+      "card_path": "artists/2026/11/2026-11-12-fernand-khnopff.md"
     }
   ],
   "statistics": {
-    "total_artists": 65,
+    "total_artists": 66,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 46,
+      "m": 47,
       "f": 14
     },
     "by_column": {
       "masters": 12,
       "her": 14,
       "east": 7,
-      "overlooked": 8,
+      "overlooked": 9,
       "modern": 10,
       "makers": 12,
       "wildcard": 0
@@ -3091,7 +3139,7 @@
       "DK": 1,
       "AT": 2,
       "DE": 2,
-      "BE": 1,
+      "BE": 2,
       "SE": 1
     },
     "artists": 7

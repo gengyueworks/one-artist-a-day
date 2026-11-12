@@ -69,6 +69,7 @@
 ### 🇧🇪 比利时 Belgium
 
 - [詹姆斯·恩索尔 James Ensor](../artists/2026/11/2026-11-05-james-ensor.md) — 1860–1949, ♂, 表现主义先驱, 遗珠
+- [费尔南·赫诺普夫 Fernand Khnopff](../artists/2026/11/2026-11-12-fernand-khnopff.md) — 1858–1921, ♂, 19世纪末, 遗珠
 
 ### 🇷🇺 俄罗斯 Russia
 
