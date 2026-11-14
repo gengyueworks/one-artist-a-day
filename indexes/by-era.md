@@ -102,6 +102,7 @@ _（待补充）_
 | 詹姆斯·恩索尔 James Ensor | 比利时 | ♂ | 遗珠 | [→](../artists/2026/11/2026-11-05-james-ensor.md) |
 | 密斯·凡·德·罗 Ludwig Mies van der Rohe | 德国 | ♂ | 匠人 | [→](../artists/2026/11/2026-11-07-mies-van-der-rohe.md) |
 | 费尔南·赫诺普夫 Fernand Khnopff | 比利时 | ♂ | 遗珠 | [→](../artists/2026/11/2026-11-12-fernand-khnopff.md) |
+| 柯布西耶 Le Corbusier | 瑞士 | ♂ | 匠人 | [→](../artists/2026/11/2026-11-14-le-corbusier.md) |
 | 希尔玛·阿夫·克林特 Hilma af Klint | 瑞典 | ♀ | **她** | [→](../artists/2026/11/2026-11-10-hilma-af-klint.md) |
 | 珂勒惠支 Kathe Kollwitz | 德国 | ♀ | **她** | [→](../artists/2026/11/2026-11-03-kathe-kollwitz.md) |
 | 卡米耶·克洛岱尔 Camille Claudel | 法国 | ♀ | **她** | [→](../artists/2026/10/2026-10-20-camille-claudel.md) |

@@ -1012,7 +1012,7 @@
         "name_en": "Le Corbusier",
         "years": "1887-1965",
         "country": "瑞士",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "阿尔瓦·阿尔托",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 94
+  "total_queued": 93
 }

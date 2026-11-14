@@ -3104,14 +3104,64 @@
         "source": "布鲁塞尔赫诺普夫私人宅邸门厅地面铭文"
       },
       "card_path": "artists/2026/11/2026-11-12-fernand-khnopff.md"
+    },
+    {
+      "date": "2026-11-14",
+      "column": "makers",
+      "slug": "le-corbusier",
+      "name_zh": "柯布西耶",
+      "name_en": "Le Corbusier",
+      "name_native": "",
+      "years": "1887–1965",
+      "birthplace": "瑞士 拉绍德封",
+      "country": "瑞士",
+      "country_code": "CH",
+      "era": "现代主义",
+      "movements": [
+        "现代主义建筑",
+        "纯粹主义",
+        "国际风格"
+      ],
+      "mediums": [
+        "建筑",
+        "规划",
+        "家具",
+        "绘画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《萨伏伊别墅》，1928–1931",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.fondationlecorbusier.fr",
+      "verified": false,
+      "one_liner": "他把房子定义成“住人的机器”，用五条铁律把建筑从上千年的砖石重压下彻底拔了出来。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "瑞士 拉绍德封"
+      },
+      "key_work": {
+        "title": "萨伏伊别墅",
+        "year": "1928–1931",
+        "collection": "法国 普瓦西",
+        "detail": "看建筑的一层，一排白色细圆柱把整个方形盒子托离地面，绿草直接延伸到房子下方。二层外立面上切开了一整圈水平横向长窗，墙体不再负责承重，光线毫无阻挡地水平灌入室内。"
+      },
+      "fun_fact": "1952年他在法国蔚蓝海岸给自己盖度假小屋，整栋木屋严格按照他发明的“模度”比例设计，实际使用面积只有区区十三平方米。",
+      "quote": {
+        "text": "房子是住人的机器。",
+        "original": "La maison est une machine à habiter.",
+        "source": "《走向新建筑》（1923）"
+      },
+      "card_path": "artists/2026/11/2026-11-14-le-corbusier.md"
     }
   ],
   "statistics": {
-    "total_artists": 66,
+    "total_artists": 67,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 47,
+      "m": 48,
       "f": 14
     },
     "by_column": {
@@ -3120,7 +3170,7 @@
       "east": 7,
       "overlooked": 9,
       "modern": 10,
-      "makers": 12,
+      "makers": 13,
       "wildcard": 0
     },
     "by_country": {
@@ -3133,7 +3183,7 @@
       "RO": 1,
       "RU": 2,
       "GB": 3,
-      "CH": 3,
+      "CH": 4,
       "US": 4,
       "NO": 1,
       "DK": 1,
