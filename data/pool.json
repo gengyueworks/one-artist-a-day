@@ -418,7 +418,7 @@
         "name_en": "Zhao Mengfu",
         "years": "1254-1322",
         "country": "中国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "倪瓒",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 93
+  "total_queued": 92
 }

@@ -3154,20 +3154,67 @@
         "source": "《走向新建筑》（1923）"
       },
       "card_path": "artists/2026/11/2026-11-14-le-corbusier.md"
+    },
+    {
+      "date": "2026-11-18",
+      "column": "east",
+      "slug": "zhao-mengfu",
+      "name_zh": "赵孟頫",
+      "name_en": "Zhao Mengfu",
+      "name_native": "趙孟頫",
+      "years": "1254–1322",
+      "birthplace": "中国 湖州",
+      "country": "中国",
+      "country_code": "CN",
+      "era": "元代",
+      "movements": [
+        "元四家",
+        "文人画"
+      ],
+      "mediums": [
+        "水墨纸本",
+        "书法"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《鹊华秋色图》，1295年",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.npm.gov.tw",
+      "verified": false,
+      "one_liner": "他是中国绘画史上从职业工匠画向文人笔墨转型的关键枢纽。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "中国 湖州"
+      },
+      "key_work": {
+        "title": "鹊华秋色图",
+        "year": "1295",
+        "collection": "台北故宫博物院",
+        "detail": "观察画面右侧那座突兀耸立的华不注山，其造型与周围平缓的坡地形成强烈对比。注意画面中淡赭石与花青色的晕染，那种半透明的质感并非写实，而是为了营造一种萧疏淡雅的古意。"
+      },
+      "fun_fact": "赵孟頫一生勤于练字，他在给友人的信中自述，每日书写不辍，甚至在晚年即使身体不适也要坚持坐着写字，这种极度的自律使得他的书法风格能够跨越书体阻隔，达到极高的统一性。",
+      "quote": {
+        "text": "作画贵有古意，若无古意，虽工无益。",
+        "original": "作畫貴有古意，若無古意，雖工無益。",
+        "source": "传世题跋"
+      },
+      "card_path": "artists/2026/11/2026-11-18-zhao-mengfu.md"
     }
   ],
   "statistics": {
-    "total_artists": 67,
+    "total_artists": 68,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 48,
+      "m": 49,
       "f": 14
     },
     "by_column": {
       "masters": 12,
       "her": 14,
-      "east": 7,
+      "east": 8,
       "overlooked": 9,
       "modern": 10,
       "makers": 13,
@@ -3179,7 +3226,7 @@
       "JP": 1,
       "FR": 14,
       "ES": 4,
-      "CN": 6,
+      "CN": 7,
       "RO": 1,
       "RU": 2,
       "GB": 3,
