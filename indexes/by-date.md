@@ -17,6 +17,7 @@
 | 2026-11-12 | 🔦 遗珠 Overlooked | [费尔南·赫诺普夫](2026/11/2026-11-12-fernand-khnopff.md) | `2026-11-12-fernand-khnopff.md` |
 | 2026-11-14 | 🛠️ 匠人 Makers | [柯布西耶](2026/11/2026-11-14-le-corbusier.md) | `2026-11-14-le-corbusier.md` |
 | 2026-11-18 | 🌊 东方 East | [赵孟頫](2026/11/2026-11-18-zhao-mengfu.md) | `2026-11-18-zhao-mengfu.md` |
+| 2026-11-19 | 🔦 遗珠 Overlooked | [米哈伊尔·弗鲁贝尔](2026/11/2026-11-19-mikhail-vrubel.md) | `2026-11-19-mikhail-vrubel.md` |
 
 ### 10 月
 

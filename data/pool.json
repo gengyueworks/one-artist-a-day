@@ -630,7 +630,7 @@
         "name_en": "Mikhail Vrubel",
         "years": "1856-1910",
         "country": "俄罗斯",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "伊萨克·列维坦",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 92
+  "total_queued": 91
 }

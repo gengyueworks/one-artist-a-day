@@ -3201,21 +3201,69 @@
         "source": "传世题跋"
       },
       "card_path": "artists/2026/11/2026-11-18-zhao-mengfu.md"
+    },
+    {
+      "date": "2026-11-19",
+      "column": "overlooked",
+      "slug": "mikhail-vrubel",
+      "name_zh": "米哈伊尔·弗鲁贝尔",
+      "name_en": "Mikhail Vrubel",
+      "name_native": "Михаил Александрович Врубель",
+      "years": "1856–1910",
+      "birthplace": "俄罗斯 鄂木斯克",
+      "country": "俄罗斯",
+      "country_code": "RU",
+      "era": "俄罗斯象征主义",
+      "movements": [
+        "象征主义",
+        "新艺术运动"
+      ],
+      "mediums": [
+        "油画",
+        "水彩",
+        "马赛克"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《坐着的恶魔》，1890",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.tretyakovgallery.ru/",
+      "verified": false,
+      "one_liner": "他是俄罗斯象征主义的灵魂，用破碎的几何笔触预言了现代主义的到来。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "俄罗斯 鄂木斯克"
+      },
+      "key_work": {
+        "title": "坐着的恶魔",
+        "year": "1890",
+        "collection": "特列季亚科夫画廊",
+        "detail": "观察画面中央那个蜷缩的恶魔，他的身体由大块像水晶切面一样的色块堆砌而成，肌肉结构被强行拉长变形。注意他那双深邃而忧郁的眼睛，目光并没有看向观众，而是投向画面左侧那片荒凉且色彩诡异的日落荒原。"
+      },
+      "fun_fact": "弗鲁贝尔在创作《恶魔》系列时几乎到了痴迷的地步，他曾为了画好恶魔的脸，在自家墙壁上画满了草图，甚至在精神病院治疗期间，依然在床单背面疯狂作画。",
+      "quote": {
+        "text": "画作的意义不在于模仿自然，而在于展现那股隐藏在现实背后的、如同水晶般闪烁的内在张力。",
+        "original": "",
+        "source": "弗鲁贝尔书信集"
+      },
+      "card_path": "artists/2026/11/2026-11-19-mikhail-vrubel.md"
     }
   ],
   "statistics": {
-    "total_artists": 68,
+    "total_artists": 69,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 49,
+      "m": 50,
       "f": 14
     },
     "by_column": {
       "masters": 12,
       "her": 14,
       "east": 8,
-      "overlooked": 9,
+      "overlooked": 10,
       "modern": 10,
       "makers": 13,
       "wildcard": 0
@@ -3228,7 +3276,7 @@
       "ES": 4,
       "CN": 7,
       "RO": 1,
-      "RU": 2,
+      "RU": 3,
       "GB": 3,
       "CH": 4,
       "US": 4,
