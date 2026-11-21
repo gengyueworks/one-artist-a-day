@@ -3249,14 +3249,62 @@
         "source": "弗鲁贝尔书信集"
       },
       "card_path": "artists/2026/11/2026-11-19-mikhail-vrubel.md"
+    },
+    {
+      "date": "2026-11-21",
+      "column": "makers",
+      "slug": "alvar-aalto",
+      "name_zh": "阿尔瓦·阿尔托",
+      "name_en": "Alvar Aalto",
+      "name_native": "Hugo Alvar Henrik Aalto",
+      "years": "1898–1976",
+      "birthplace": "芬兰 库奥尔塔内",
+      "country": "芬兰",
+      "country_code": "FI",
+      "era": "现代主义",
+      "movements": [
+        "功能主义",
+        "有机现代主义"
+      ],
+      "mediums": [
+        "建筑",
+        "家具设计",
+        "玻璃器皿"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《帕伊米奥结核病疗养院》，1933",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.alvaraalto.fi/en/work/paimio-sanatorium/",
+      "verified": false,
+      "one_liner": "他证明了现代建筑不必是冷冰冰的几何盒子，而是能与芬兰森林对话的有机生命体。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "芬兰 库奥尔塔内"
+      },
+      "key_work": {
+        "title": "帕伊米奥扶手椅",
+        "year": "1932",
+        "collection": "阿尔瓦·阿尔托博物馆",
+        "detail": "观察椅子的扶手部分，那是用桦木薄板层压弯曲而成，触感温润且富有弹性。椅背的角度设计是为了让肺结核患者呼吸更顺畅，每一处曲线都是为了支撑人体而生的。"
+      },
+      "fun_fact": "为了测试家具的耐用性，他曾将自己设计的椅子放在火车站的候车室里，通过观察普通旅客长时间使用后的磨损情况来改进胶合工艺。",
+      "quote": {
+        "text": "建筑师的任务是让生活变得更美好，而不是去制造某种形式上的教条。",
+        "original": "",
+        "source": "1940年于麻省理工学院演讲"
+      },
+      "card_path": "artists/2026/11/2026-11-21-alvar-aalto.md"
     }
   ],
   "statistics": {
-    "total_artists": 69,
+    "total_artists": 70,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 50,
+      "m": 51,
       "f": 14
     },
     "by_column": {
@@ -3265,7 +3313,7 @@
       "east": 8,
       "overlooked": 10,
       "modern": 10,
-      "makers": 13,
+      "makers": 14,
       "wildcard": 0
     },
     "by_country": {
@@ -3285,7 +3333,8 @@
       "AT": 2,
       "DE": 2,
       "BE": 2,
-      "SE": 1
+      "SE": 1,
+      "FI": 1
     },
     "artists": 7
   }

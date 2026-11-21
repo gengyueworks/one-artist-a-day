@@ -105,6 +105,7 @@ _（待补充）_
 | 费尔南·赫诺普夫 Fernand Khnopff | 比利时 | ♂ | 遗珠 | [→](../artists/2026/11/2026-11-12-fernand-khnopff.md) |
 | 柯布西耶 Le Corbusier | 瑞士 | ♂ | 匠人 | [→](../artists/2026/11/2026-11-14-le-corbusier.md) |
 | 米哈伊尔·弗鲁贝尔 Mikhail Vrubel | 俄罗斯 | ♂ | 遗珠 | [→](../artists/2026/11/2026-11-19-mikhail-vrubel.md) |
+| 阿尔瓦·阿尔托 Alvar Aalto | 芬兰 | ♂ | 匠人 | [→](../artists/2026/11/2026-11-21-alvar-aalto.md) |
 | 希尔玛·阿夫·克林特 Hilma af Klint | 瑞典 | ♀ | **她** | [→](../artists/2026/11/2026-11-10-hilma-af-klint.md) |
 | 珂勒惠支 Kathe Kollwitz | 德国 | ♀ | **她** | [→](../artists/2026/11/2026-11-03-kathe-kollwitz.md) |
 | 卡米耶·克洛岱尔 Camille Claudel | 法国 | ♀ | **她** | [→](../artists/2026/10/2026-10-20-camille-claudel.md) |

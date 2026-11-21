@@ -1019,7 +1019,7 @@
         "name_en": "Alvar Aalto",
         "years": "1898-1976",
         "country": "芬兰",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "路易斯·康",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 91
+  "total_queued": 90
 }
