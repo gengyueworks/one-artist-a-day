@@ -85,7 +85,7 @@
         "name_en": "Paul Cezanne",
         "years": "1839-1906",
         "country": "法国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "高更",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 90
+  "total_queued": 89
 }

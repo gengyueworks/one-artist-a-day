@@ -3297,18 +3297,64 @@
         "source": "1940年于麻省理工学院演讲"
       },
       "card_path": "artists/2026/11/2026-11-21-alvar-aalto.md"
+    },
+    {
+      "date": "2026-11-23",
+      "column": "masters",
+      "slug": "paul-cezanne",
+      "name_zh": "塞尚",
+      "name_en": "Paul Cezanne",
+      "name_native": "",
+      "years": "1839–1906",
+      "birthplace": "法国 普罗旺斯地区艾克斯",
+      "country": "法国",
+      "country_code": "FR",
+      "era": "后印象派",
+      "movements": [
+        "后印象派",
+        "现代艺术先驱"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "https://www.artic.edu/artworks/111436",
+      "hero_caption": "《苹果篮》，约1893年",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/111436",
+      "verified": false,
+      "one_liner": "他把绘画从描绘物体的幻觉中解放出来，变成了一种分析体积与空间的逻辑实验。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "法国 普罗旺斯地区艾克斯"
+      },
+      "key_work": {
+        "title": "苹果篮",
+        "year": "约1893年",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "观察桌子的边缘，左侧与右侧的线条完全没有对齐，仿佛是从两个不同的视角拼接而成。篮子前方那块折叠的白色餐布被处理得如同山峦般坚硬，刻意扭曲的透视让苹果看起来既像在桌面上，又像是要从画面中滚落出来。"
+      },
+      "fun_fact": "塞尚在创作这幅画时，为了让苹果篮保持完美的造型，特地在桌上用了硬币和折叠的纸片垫高水果，以获得他想要的特殊倾斜角度。",
+      "quote": {
+        "text": "我要用一个苹果，震惊巴黎。",
+        "original": "Avec une pomme, je veux étonner Paris.",
+        "source": "据莫里斯·德尼的回忆录"
+      },
+      "card_path": "artists/2026/11/2026-11-23-paul-cezanne.md"
     }
   ],
   "statistics": {
-    "total_artists": 70,
+    "total_artists": 71,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 51,
+      "m": 52,
       "f": 14
     },
     "by_column": {
-      "masters": 12,
+      "masters": 13,
       "her": 14,
       "east": 8,
       "overlooked": 10,
@@ -3320,7 +3366,7 @@
       "NL": 7,
       "IT": 10,
       "JP": 1,
-      "FR": 14,
+      "FR": 15,
       "ES": 4,
       "CN": 7,
       "RO": 1,

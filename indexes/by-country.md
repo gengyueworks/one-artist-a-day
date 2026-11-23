@@ -47,6 +47,7 @@
 - [苏珊娜·瓦拉东 Suzanne Valadon](../artists/2026/10/2026-10-27-suzanne-valadon.md) — 1865–1938, ♀, 现代主义, **她**
 - [奥迪隆·雷东 Odilon Redon](../artists/2026/10/2026-10-29-odilon-redon.md) — 1840–1916, ♂, 19世纪末至20世纪初, 遗珠
 - [莫奈 Claude Monet](../artists/2026/11/2026-11-02-claude-monet.md) — 1840–1926, ♂, 印象派, 巨匠
+- [塞尚 Paul Cezanne](../artists/2026/11/2026-11-23-paul-cezanne.md) — 1839–1906, ♂, 后印象派, 巨匠
 
 ### 🇬🇧 英国 United Kingdom
 
