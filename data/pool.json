@@ -425,7 +425,7 @@
         "name_en": "Ni Zan",
         "years": "1301-1374",
         "country": "中国",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "沈周",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 89
+  "total_queued": 88
 }

@@ -3343,20 +3343,66 @@
         "source": "据莫里斯·德尼的回忆录"
       },
       "card_path": "artists/2026/11/2026-11-23-paul-cezanne.md"
+    },
+    {
+      "date": "2026-11-25",
+      "column": "east",
+      "slug": "ni-zan",
+      "name_zh": "倪瓒",
+      "name_en": "Ni Zan",
+      "name_native": "倪瓚",
+      "years": "1301–1374",
+      "birthplace": "中国 无锡",
+      "country": "中国",
+      "country_code": "CN",
+      "era": "元末明初",
+      "movements": [
+        "元四家",
+        "文人画"
+      ],
+      "mediums": [
+        "水墨纸本"
+      ],
+      "gender": "m",
+      "hero_image": "https://www.artic.edu/artworks/145677",
+      "hero_caption": "《林堂诗思图》，约 1371",
+      "image_license": "Public Domain",
+      "image_source": "Art Institute of Chicago",
+      "image_source_url": "https://www.artic.edu/artworks/145677",
+      "verified": false,
+      "one_liner": "他用极致的洁癖画出了一片荒寒的留白，确立了中国文人画中冷逸格调的最高标准。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "中国 无锡"
+      },
+      "key_work": {
+        "title": "林堂诗思图",
+        "year": "约 1371",
+        "collection": "芝加哥艺术博物馆",
+        "detail": "画面上方那几株枯木形态萧疏，用笔极简，线条干涩苍劲。视线移至下方，那座空无一人的林堂仿佛悬浮于寂静之中，大面积的留白处理让整个构图呈现出一种不食人间烟火的冷清。"
+      },
+      "fun_fact": "倪瓒有严重的洁癖，传说他家里有两棵梧桐树，每天早晚都要派人提水清洗，甚至连树叶都要反复擦拭，生怕落上一点灰尘。",
+      "quote": {
+        "text": "仆之所谓画者，不过逸笔草草，不求形似，聊以自娱耳。",
+        "original": "",
+        "source": "《清閟阁全集》"
+      },
+      "card_path": "artists/2026/11/2026-11-25-ni-zan.md"
     }
   ],
   "statistics": {
-    "total_artists": 71,
+    "total_artists": 72,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 52,
+      "m": 53,
       "f": 14
     },
     "by_column": {
       "masters": 13,
       "her": 14,
-      "east": 8,
+      "east": 9,
       "overlooked": 10,
       "modern": 10,
       "makers": 14,
@@ -3368,7 +3414,7 @@
       "JP": 1,
       "FR": 15,
       "ES": 4,
-      "CN": 7,
+      "CN": 8,
       "RO": 1,
       "RU": 3,
       "GB": 3,

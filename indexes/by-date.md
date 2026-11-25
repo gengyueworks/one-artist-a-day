@@ -20,6 +20,7 @@
 | 2026-11-19 | 🔦 遗珠 Overlooked | [米哈伊尔·弗鲁贝尔](2026/11/2026-11-19-mikhail-vrubel.md) | `2026-11-19-mikhail-vrubel.md` |
 | 2026-11-21 | 🛠️ 匠人 Makers | [阿尔瓦·阿尔托](2026/11/2026-11-21-alvar-aalto.md) | `2026-11-21-alvar-aalto.md` |
 | 2026-11-23 | 🎩 巨匠 Masters | [塞尚](2026/11/2026-11-23-paul-cezanne.md) | `2026-11-23-paul-cezanne.md` |
+| 2026-11-25 | 🌊 东方 East | [倪瓒](2026/11/2026-11-25-ni-zan.md) | `2026-11-25-ni-zan.md` |
 
 ### 10 月
 
