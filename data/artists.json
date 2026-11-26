@@ -3389,21 +3389,67 @@
         "source": "《清閟阁全集》"
       },
       "card_path": "artists/2026/11/2026-11-25-ni-zan.md"
+    },
+    {
+      "date": "2026-11-26",
+      "column": "overlooked",
+      "slug": "isaac-levitan",
+      "name_zh": "伊萨克·列维坦",
+      "name_en": "Isaac Levitan",
+      "name_native": "Исаак Ильич Левитан",
+      "years": "1860–1900",
+      "birthplace": "立陶宛 基巴尔泰",
+      "country": "俄罗斯",
+      "country_code": "RU",
+      "era": "巡回展览画派",
+      "movements": [
+        "现实主义",
+        "抒情风景画"
+      ],
+      "mediums": [
+        "油画"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《永恒的宁静》，1894年",
+      "image_license": "Public Domain",
+      "image_source": "Tretyakov Gallery",
+      "image_source_url": "https://www.tretyakovgallery.ru/collection/nad-vechnym-pokoyem/",
+      "verified": false,
+      "one_liner": "他将俄罗斯那片沉默的荒原与森林，画成了带有忧郁诗意的心理景观。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "立陶宛 基巴尔泰"
+      },
+      "key_work": {
+        "title": "永恒的宁静",
+        "year": "1894",
+        "collection": "特列季亚科夫画廊",
+        "detail": "画面中央那座孤零零的木质教堂，在暴风雨来临前的阴云下显得格外渺小。注意右侧那片被狂风吹得倾斜的荒草，它们与画面左侧广阔而沉闷的伏尔加河水形成压迫感极强的对比。"
+      },
+      "fun_fact": "列维坦一生饱受严重抑郁症困扰，曾两次尝试自杀，他的朋友契诃夫甚至将他这种极度敏感的性格写进了小说《跳来跳去的女人》中，导致两人绝交了三年。",
+      "quote": {
+        "text": "画风景不是为了画自然，而是为了表现大自然的灵魂。",
+        "original": "",
+        "source": "列维坦书信集"
+      },
+      "card_path": "artists/2026/11/2026-11-26-isaac-levitan.md"
     }
   ],
   "statistics": {
-    "total_artists": 72,
+    "total_artists": 73,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 53,
+      "m": 54,
       "f": 14
     },
     "by_column": {
       "masters": 13,
       "her": 14,
       "east": 9,
-      "overlooked": 10,
+      "overlooked": 11,
       "modern": 10,
       "makers": 14,
       "wildcard": 0
@@ -3416,7 +3462,7 @@
       "ES": 4,
       "CN": 8,
       "RO": 1,
-      "RU": 3,
+      "RU": 4,
       "GB": 3,
       "CH": 4,
       "US": 4,

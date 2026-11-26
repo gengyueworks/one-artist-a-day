@@ -637,7 +637,7 @@
         "name_en": "Isaac Levitan",
         "years": "1860-1900",
         "country": "俄罗斯",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "安德斯·佐恩",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 88
+  "total_queued": 87
 }
