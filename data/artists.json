@@ -3435,14 +3435,62 @@
         "source": "列维坦书信集"
       },
       "card_path": "artists/2026/11/2026-11-26-isaac-levitan.md"
+    },
+    {
+      "date": "2026-11-27",
+      "column": "modern",
+      "slug": "marc-chagall",
+      "name_zh": "夏加尔",
+      "name_en": "Marc Chagall",
+      "name_native": "Марк Захарович Шагал",
+      "years": "1887–1985",
+      "birthplace": "俄罗斯 利奥兹诺",
+      "country": "俄罗斯",
+      "country_code": "RU",
+      "era": "现代主义",
+      "movements": [
+        "表现主义",
+        "超现实主义"
+      ],
+      "mediums": [
+        "油画",
+        "版画",
+        "彩绘玻璃"
+      ],
+      "gender": "m",
+      "hero_image": "",
+      "hero_caption": "《我与村庄》，1911",
+      "image_license": "Link Only",
+      "image_source": "Link Only",
+      "image_source_url": "https://www.moma.org/collection/works/79017",
+      "verified": false,
+      "one_liner": "他在画布上用漂浮的家乡记忆与深情的色彩，构建了一座对抗现实引力的梦幻避难所。",
+      "turning_point": {
+        "year": null,
+        "event": "",
+        "location": "俄罗斯 利奥兹诺"
+      },
+      "key_work": {
+        "title": "我与村庄",
+        "year": "1911",
+        "collection": "纽约现代艺术博物馆",
+        "detail": "画面中心那张侧脸与一只山羊对视，它们之间由一道白色的线条连接，仿佛在进行某种灵魂交流。左下角那位手持镰刀的农民正倒立行走，打破了地心引力的束缚，将观者的视线引向背景中色彩斑斓的村落建筑。"
+      },
+      "fun_fact": "他一生痴迷于花束，认为花朵是他在巴黎最孤独的日子里，唯一能让他感受到生命力与安慰的慰藉，因此他的作品中频繁出现鲜花簇拥的场景。",
+      "quote": {
+        "text": "如果所有的生活都走向终点，我们必须用爱和希望的颜色将它重新粉刷。",
+        "original": "",
+        "source": "《夏加尔：艺术与生活》"
+      },
+      "card_path": "artists/2026/11/2026-11-27-marc-chagall.md"
     }
   ],
   "statistics": {
-    "total_artists": 73,
+    "total_artists": 74,
     "by_gender": {
       "male": 2,
       "female": 1,
-      "m": 54,
+      "m": 55,
       "f": 14
     },
     "by_column": {
@@ -3450,7 +3498,7 @@
       "her": 14,
       "east": 9,
       "overlooked": 11,
-      "modern": 10,
+      "modern": 11,
       "makers": 14,
       "wildcard": 0
     },
@@ -3462,7 +3510,7 @@
       "ES": 4,
       "CN": 8,
       "RO": 1,
-      "RU": 4,
+      "RU": 5,
       "GB": 3,
       "CH": 4,
       "US": 4,

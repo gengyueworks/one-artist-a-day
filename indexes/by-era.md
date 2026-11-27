@@ -109,6 +109,7 @@ _（待补充）_
 | 米哈伊尔·弗鲁贝尔 Mikhail Vrubel | 俄罗斯 | ♂ | 遗珠 | [→](../artists/2026/11/2026-11-19-mikhail-vrubel.md) |
 | 阿尔瓦·阿尔托 Alvar Aalto | 芬兰 | ♂ | 匠人 | [→](../artists/2026/11/2026-11-21-alvar-aalto.md) |
 | 伊萨克·列维坦 Isaac Levitan | 俄罗斯 | ♂ | 遗珠 | [→](../artists/2026/11/2026-11-26-isaac-levitan.md) |
+| 夏加尔 Marc Chagall | 俄罗斯 | ♂ | 现代 | [→](../artists/2026/11/2026-11-27-marc-chagall.md) |
 | 希尔玛·阿夫·克林特 Hilma af Klint | 瑞典 | ♀ | **她** | [→](../artists/2026/11/2026-11-10-hilma-af-klint.md) |
 | 珂勒惠支 Kathe Kollwitz | 德国 | ♀ | **她** | [→](../artists/2026/11/2026-11-03-kathe-kollwitz.md) |
 | 卡米耶·克洛岱尔 Camille Claudel | 法国 | ♀ | **她** | [→](../artists/2026/10/2026-10-20-camille-claudel.md) |

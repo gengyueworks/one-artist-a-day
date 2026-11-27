@@ -22,6 +22,7 @@
 | 2026-11-23 | 🎩 巨匠 Masters | [塞尚](2026/11/2026-11-23-paul-cezanne.md) | `2026-11-23-paul-cezanne.md` |
 | 2026-11-25 | 🌊 东方 East | [倪瓒](2026/11/2026-11-25-ni-zan.md) | `2026-11-25-ni-zan.md` |
 | 2026-11-26 | 🔦 遗珠 Overlooked | [伊萨克·列维坦](2026/11/2026-11-26-isaac-levitan.md) | `2026-11-26-isaac-levitan.md` |
+| 2026-11-27 | 🖥️ 现代 Modern | [夏加尔](2026/11/2026-11-27-marc-chagall.md) | `2026-11-27-marc-chagall.md` |
 
 ### 10 月
 

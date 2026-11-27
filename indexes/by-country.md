@@ -78,6 +78,7 @@
 - [马列维奇 Kazimir Malevich](../artists/2026/10/2026-10-02-kazimir-malevich.md) — 1878–1935, ♂, 俄罗斯先锋派, 现代
 - [米哈伊尔·弗鲁贝尔 Mikhail Vrubel](../artists/2026/11/2026-11-19-mikhail-vrubel.md) — 1856–1910, ♂, 俄罗斯象征主义, 遗珠
 - [伊萨克·列维坦 Isaac Levitan](../artists/2026/11/2026-11-26-isaac-levitan.md) — 1860–1900, ♂, 巡回展览画派, 遗珠
+- [夏加尔 Marc Chagall](../artists/2026/11/2026-11-27-marc-chagall.md) — 1887–1985, ♂, 现代主义, 现代
 
 ### 北欧 Northern Europe
 

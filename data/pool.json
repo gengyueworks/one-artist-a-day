@@ -821,7 +821,7 @@
         "name_en": "Marc Chagall",
         "years": "1887-1985",
         "country": "俄罗斯",
-        "status": "queued"
+        "status": "published"
       },
       {
         "name_zh": "莫迪利亚尼",
@@ -1107,5 +1107,5 @@
       }
     ]
   },
-  "total_queued": 87
+  "total_queued": 86
 }
